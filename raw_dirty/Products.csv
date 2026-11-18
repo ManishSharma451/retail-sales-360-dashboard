@@ -1,0 +1,302 @@
+﻿ProductID,ProductName,Category,Subcategory,Brand,SupplierID,UnitCost,ListPrice,LaunchDate,ProductStatus
+P0001,Electronics Product 001,Electronics,Laptops,BlueOrbit,SUP0001,8358.29,10128.06,2022-09-14,Active
+P0002,Electronics Product 002,Electronics,Audio,TerraHome,SUP0056,12981.06,23163.75,2023-06-02,Discontinued
+P0003,Electronics Product 003,Electronics,Accessories,AstraTech,SUP0020,4931.23,6760.67,2021-02-13,Discontinued
+P0004,Electronics Product 004,Electronics,Laptops,BlueOrbit,SUP0017,10978.41,18721.12,2024-06-12,Active
+P0005,Electronics Product 005,Electronics,Audio,TerraHome,SUP0084,14904.46,26225.74,2023-07-18,Discontinued
+P0006,Electronics Product 006,Electronics,Accessories,AstraTech,SUP0093,4500.42,6911.49,2022-10-31,Active
+P0007,Electronics Product 007,Electronics,Laptops,GlowCraft,SUP0003,10632.97,18084.46,2025-08-22,Discontinued
+P0008,Electronics Product 008,Electronics,Audio,VividWear,SUP0084,8049.51,13821.86,2025-02-16,Active
+P0009,Electronics Product 009,Electronics,Accessories,TerraHome,SUP0033,12186.12,17086.85,2023-06-10,Active
+P0010,Electronics Product 010,Electronics,Laptops,PulseFit,SUP0022,2151.59,3960.35,2024-05-02,Discontinued
+P0011,Electronics Product 011,Electronics,Audio,VividWear,SUP0095,1434.38,2558.01,2024-10-29,Active
+P0012,Electronics Product 012,Electronics,Accessories,PulseFit,SUP0083,5788.43,10813.21,2021-09-14,Active
+P0013,Electronics Product 013,Electronics,Laptops,PulseFit,SUP0086,3009.56,3726.26,2022-05-31,Active
+P0014,Electronics Product 014,Electronics,Audio,GlowCraft,SUP0095,11622.45,20607.17,2024-08-19,Discontinued
+P0015,Electronics Product 015,Electronics,Accessories,VividWear,SUP0063,176.62,231.75,2025-05-29,Active
+P0016,Electronics Product 016,Electronics,Laptops,PulseFit,SUP0008,14586.66,17675.77,2024-03-23,Active
+P0017,Electronics Product 017,Electronics,Audio,BlueOrbit,SUP0023,10006.88,14635.72,2023-05-30,Discontinued
+P0018,Electronics Product 018,Electronics,Accessories,VividWear,SUP0091,3373.98,6021.45,2024-05-18,Discontinued
+P0019,Electronics Product 019,Electronics,Laptops,UrbanNest,SUP0091,8782.68,13891.01,2024-06-17,Discontinued
+P0020,Electronics Product 020,Electronics,Audio,PulseFit,SUP0049,11110.07,20557.98,2023-06-14,Active
+P0021,Electronics Product 021,Electronics,Accessories,AstraTech,SUP0053,10591.53,15388.92,2025-05-20,Active
+P0022,Electronics Product 022,Electronics,Laptops,BlueOrbit,SUP0093,2896.34,5190.14,2021-06-16,Active
+P0023,Electronics Product 023,Electronics,Audio,PulseFit,SUP0029,10648.45,19055.62,2021-04-18,Active
+P0024,Electronics Product 024,Electronics,Accessories,TerraHome,SUP0055,790.13,1159.9,2022-05-22,Active
+P0025,Electronics Product 025,Electronics,Laptops,BlueOrbit,SUP0019,3033.51,4582.42,2021-05-11,Active
+P0026,Electronics Product 026,Electronics,Audio,VividWear,SUP0067,8705.75,15403.04,2024-03-14,Active
+P0027,Electronics Product 027,Electronics,Accessories,PulseFit,SUP0014,1439.68,2442.98,2021-01-25,Discontinued
+P0028,Electronics Product 028,Electronics,Laptops,VividWear,SUP0002,3307.46,5237.16,2021-04-01,Discontinued
+P0029,Electronics Product 029,Electronics,Audio,AstraTech,SUP0039,10368.88,13929.42,2021-04-10,Active
+P0030,Electronics Product 030,Electronics,Accessories,AstraTech,SUP0083,10771.26,16961.54, 2024-01-19 ,Active
+P0031,Electronics Product 031,Electronics,Laptops,UrbanNest,SUP0021,9258.19,16608.15,2022-12-08,Active
+P0032,Electronics Product 032,Electronics,Audio,PulseFit,SUP0020,8582.6,11916.4,2023-10-14,Discontinued
+P0033,Electronics Product 033,Electronics,Accessories,TerraHome,SUP0091,11431.57,19145.38,2023-08-06,Active
+P0034,Electronics Product 034,Electronics,Laptops,UrbanNest,SUP0007,14568.7,25520.32,2025-01-30,Discontinued
+P0035,Electronics Product 035,Electronics,Audio,TerraHome,SUP0083,8961.25,15588.95,2024-09-16,Active
+P0036,Electronics Product 036,Electronics,Accessories,TerraHome,SUP0082,4505.22,7594.68,2022-08-30,Discontinued
+P0037,Electronics Product 037,Electronics,Laptops,AstraTech,SUP0089,12762.93,18485.84,2022-03-18,Active
+P0038,Electronics Product 038,Electronics,Audio,UrbanNest,SUP0037,9734.63,17768.37,2025-07-27,Active
+P0039,Electronics Product 039,Electronics,Accessories,PulseFit,SUP0061,3114.0,4445.37,2024-09-13,DISCONTINUED
+P0040,Electronics Product 040,Electronics,Laptops,NovaPeak,SUP0010,6925.69,10467.29,2024-06-14,Active
+P0041,Electronics Product 041,Electronics,Audio,UrbanNest,SUP0041,1229.92,1727.41,2025-07-09,Discontinued
+P0042,Electronics Product 042, Electronics ,Accessories,NovaPeak,SUP0055,7615.24,9335.41,2024-06-24,Active
+P0043,Electronics Product 043,Electronics,Laptops,TerraHome,SUP0091,3608.03,6379.53,2023-04-22,Discontinued
+P0044,Electronics Product 044,Electronics,Audio,TerraHome,SUP0028,2884.22,3504.79,2025-06-16,Discontinued
+P0045,Electronics Product 045,Electronics,Accessories,VividWear,SUP0037,7534.63,9372.98,2021-04-29,Discontinued
+P0046,Electronics Product 046,Electronics,Laptops,TerraHome,SUP0080,497.36,700.93,2023-06-14,Discontinued
+P0047,Electronics Product 047,Electronics,Audio,PulseFit,SUP0014,5824.48,10951.89,2022-06-30,Discontinued
+P0048,Electronics Product 048,Electronics,Accessories,BlueOrbit,SUP0026,8407.29,10607.92,2021-06-20,Active
+P0049,Electronics Product 049,Electronics,Laptops,PulseFit,SUP0060,11711.23,17175.63,25/08/2021,Active
+P0050,Electronics Product 050,Electronics,Audio,PulseFit,SUP0059,10963.16,13616.3,2025-01-27,Discontinued
+P0051,Electronics Product 051,Electronics,Accessories,AstraTech,SUP0005,12655.83,16865.68,2022-04-04,Active
+P0052,Electronics Product 052,Electronics,Laptops,AstraTech,SUP0021,9286.0,12655.9,2025-09-07,Discontinued
+P0053,Electronics Product 053,Electronics,Audio,TerraHome,SUP0037,6158.3,10510.4,2023-01-21,Discontinued
+P0054,Electronics Product 054,Electronics,Accessories,UrbanNest,SUP0050,6654.99,8148.07,2024-11-27,Active
+P0055,Electronics Product 055,Electronics,Laptops,AstraTech,SUP0036,3312.21,4410.01,2025-03-20,Active
+P0056,Electronics Product 056,Electronics,Audio,AstraTech,SUP0067,10185.34,18559.68,2025-12-04,Active
+P0057,Electronics Product 057,Electronics,Accessories,TerraHome,SUP0099,11884.04,21941.94,2022-01-01,Active
+P0058,Electronics Product 058,Electronics,Laptops,NovaPeak,SUP0046,6289.13,11232.49,2022-07-29,Active
+P0059,Electronics Product 059,Electronics,Audio,BlueOrbit,SUP0012,1064.33,1780.21,2021-10-13,Active
+P0060,Electronics Product 060,Electronics,Accessories, BlueOrbit ,SUP0015,4296.17,6688.01,2025-11-16,Discontinued
+P0061,Home Product 061,Home & Kitchen,Appliances,AstraTech,SUP0040,2084.51,2878.93,2025-02-17,Discontinued
+P0062,Home Product 062,Home & Kitchen,Cookware,GlowCraft,SUP0093,13412.65,19350.94,2024-11-09,Discontinued
+P0063,Home Product 063,Home & Kitchen,Storage,VividWear,SUP0090,146.49,197.97,2021-02-01,Discontinued
+P0064,Home Product 064,Home & Kitchen,Appliances,AstraTech,SUP0054,10803.73,17233.76,2021-02-01,Active
+P0065,Home Product 065,Home & Kitchen, Cookware ,VividWear,SUP0046,11160.81,14637.64,2021-05-21,Active
+P0066,Home Product 066,Home & Kitchen,Storage,TerraHome,SUP0013,5855.96,10847.54,2023-10-07,Active
+P0067,Home Product 067,Home & Kitchen,Appliances,UrbanNest,SUP0098,12607.58,23470.49,2022-11-05,Discontinued
+P0068,Home Product 068,Home & Kitchen,Cookware,NovaPeak,SUP0012,1172.7,1863.84,2024-09-25,Active
+P0069,Home Product 069,Home & Kitchen,Storage,TerraHome,SUP0020,2969.61,4125.29,2025-01-18,Active
+P0070,Home Product 070,Home & Kitchen,Appliances,UrbanNest,SUP0005,11902.47,16515.84,2023-01-21,Active
+P0071,Home Product 071,Home & Kitchen,Cookware,PulseFit,SUP0079,8738.3,14904.65,2021-01-30,Discontinued
+P0072,HOME PRODUCT 072,Home & Kitchen,Storage,BlueOrbit,SUP0029,12114.26,16409.25,2021-05-17,Active
+P0073,Home Product 073,Home & Kitchen,Appliances,NovaPeak,SUP0086,14759.73,22193.01,2021-02-26,Active
+P0074,Home Product 074,Home & Kitchen,Cookware,UrbanNest,SUP0010,13237.19,24773.83,2021-01-01,Active
+P0075,Home Product 075,Home & Kitchen,Storage,UrbanNest,SUP0007,6948.82,12658.95,2024-07-30,Active
+P0076,Home Product 076,Home & Kitchen,Appliances,GlowCraft,SUP0036,1345.95,1646.64,2024-04-25,Active
+P0077,Home Product 077,Home & Kitchen,Cookware, BlueOrbit ,SUP0050,1475.15,1885.45,2022-07-11,Active
+P0078,Home Product 078,Home & Kitchen,Storage,BlueOrbit,SUP0026,6778.52,12626.96,2022-11-28,Discontinued
+P0079,Home Product 079,Home & Kitchen,Appliances,TerraHome,SUP0056,3219.74,4660.78,2025-07-22,Active
+P0080,Home Product 080,Home & Kitchen,Cookware,GlowCraft,SUP0008,13393.61,21497.29,2024-11-09,Active
+P0081,Home Product 081,Home & Kitchen,Storage,TerraHome,SUP0012,6986.49,10417.61,2022-04-10,Discontinued
+P0082,Home Product 082,Home & Kitchen,Appliances,VividWear,SUP0042,14726.74,20991.5,2022-11-29,Discontinued
+P0083,Home Product 083,Home & Kitchen,Cookware,AstraTech,SUP0036,14167.09,24831.09,2025-06-27,Discontinued
+P0084,Home Product 084,Home & Kitchen,Storage,TerraHome,SUP0051,3372.34,6033.66,2021-05-06,Discontinued
+P0085,Home Product 085,Home & Kitchen,Appliances,UrbanNest,SUP0065,4160.77,6736.35,2025-07-30,Active
+P0086,Home Product 086,Home & Kitchen,Cookware,PulseFit,SUP0021,12639.82,20429.22,2023-04-17,Discontinued
+P0087,Home Product 087,Home & Kitchen,Storage,GlowCraft,SUP0033,7973.03,12675.73,2025-03-16,Active
+P0088,Home Product 088,Home & Kitchen,Appliances,VividWear,SUP0061,8293.09,11102.03,2021-08-18,Active
+P0089,Home Product 089, Home & Kitchen ,Cookware,GlowCraft,SUP0088,14324.56,21751.02,2022-08-31,Discontinued
+P0090,HOME PRODUCT 090,Home & Kitchen,Storage,VividWear,SUP0083,3702.09,5063.64,2022-11-10,Discontinued
+P0091,Home Product 091,Home & Kitchen,Appliances,AstraTech,SUP0043,4916.43,8380.92,2022-04-02,Active
+P0092,Home Product 092,Home & Kitchen,Cookware,TerraHome,SUP0022,12831.49,23780.09,2024-05-08,Active
+P0093,Home Product 093,Home & Kitchen,Storage,AstraTech,SUP0057,7576.59,12658.1,2023-08-08,Active
+P0094,Home Product 094,Home & Kitchen,Appliances,AstraTech,SUP0005,10242.41,12418.72,2022-11-23,Active
+P0095,Home Product 095,Home & Kitchen,Cookware,UrbanNest,SUP0081,1075.75,1579.09,2021-12-21,Active
+P0096,Home Product 096,Home & Kitchen,Storage,AstraTech,SUP0001,9982.77,14132.82,2022-10-17,Active
+P0097,Home Product 097,Home & Kitchen,Appliances,AstraTech,SUP0047,4468.5,6122.98,2025-09-25,Active
+P0098,Home Product 098,Home & Kitchen,Cookware,PulseFit,SUP0016,1552.56,1970.0,2023-02-20,Active
+P0099,Home Product 099,Home & Kitchen,Storage,GlowCraft,SUP0015,6039.88,"₹7,912.95",2023-09-27,Discontinued
+P0100,Home Product 100,Home & Kitchen,Appliances,AstraTech,SUP0019,2226.79,3926.36,2024-02-26,Active
+P0101,Home Product 101,Home & Kitchen,Cookware,AstraTech,SUP0054,5684.21,8162.89,2022-06-20,Active
+P0102,Home Product 102,Home & Kitchen,Storage,BlueOrbit,SUP0073,9659.46,16051.89,2024-11-28,Active
+P0103,Home Product 103,Home & Kitchen,Appliances,AstraTech,SUP0061,8021.09,11099.05,2023-11-03,Active
+P0104,Home Product 104,Home & Kitchen,Cookware,BlueOrbit,SUP0089,14256.1,21990.97,2022-01-07,Discontinued
+P0105,Home Product 105,Home & Kitchen,Storage,VividWear,SUP0031,7379.07,12883.46,2022-06-22,Active
+P0106,Home Product 106,Home & Kitchen,Appliances,UrbanNest,SUP0027,11442.39,16216.41,,Discontinued
+P0107,Home Product 107,Home & Kitchen,Cookware,VividWear,SUP0087,10702.49,13654.93,2021-12-08,Active
+P0108,Home Product 108,Home & Kitchen,Storage,PulseFit,SUP0076,10710.62,16511.28,2024-09-06,Active
+P0109,Home Product 109,Home & Kitchen,Appliances,BlueOrbit,SUP0064,8023.71,13954.28,2022-05-31,Active
+P0110,Home Product 110,Home & Kitchen,Cookware,NovaPeak,SUP0088,6781.06,12215.98,2023-12-31,Active
+P0111,Home Product 111,Home & Kitchen,Storage,VividWear,SUP0051,1403.8,1791.94,2022-01-18,Active
+P0112,Home Product 112,Home & Kitchen,Appliances,TerraHome,SUP0027,12279.1,,2023-11-08,Discontinued
+P0113,Home Product 113,Home & Kitchen,Cookware,GlowCraft,SUP0045,13905.14,24132.48,2023-07-31,Active
+P0114,Home Product 114,Home & Kitchen,Storage,VividWear,SUP0038,3850.08,5895.28,2025-04-26,Active
+P0115,Home Product 115,Home & Kitchen,Appliances,TerraHome,SUP0071,6219.85,8363.22,2025-06-17,Active
+P0116,Home Product 116,Home & Kitchen,Cookware,UrbanNest,SUP0025,2077.3,2975.72,29/12/2023,Active
+P0117,HOME PRODUCT 117,Home & Kitchen,Storage,NovaPeak,SUP0020,"11,473.63","14,571.16",2022-12-19,Active
+P0118,Home Product 118,Home & Kitchen,Appliances,GlowCraft,SUP0041,10437.46,13172.72,2025-05-21,Discontinued
+P0119,Home Product 119,Home & Kitchen,Cookware,AstraTech,SUP0089,7257.85,10381.09,2022-08-07,Discontinued
+P0120,Home Product 120,Home & Kitchen,Storage,NOVAPEAK,SUP0048,5951.22,7834.29,2021-05-18,Active
+P0121,Fashion Product 121,Fashion,Clothing,GlowCraft,SUP0009,7668.97,11296.83,2025-03-19,Active
+P0122,Fashion Product 122,Fashion,Footwear,VividWear,SUP0059,14600.43,26749.35,2023-03-21,Active
+P0123,Fashion Product 123,Fashion,Bags,BlueOrbit,SUP0036,14983.86,22736.6,2021-01-18,Active
+P0124,Fashion Product 124,Fashion,Clothing,UrbanNest,SUP0011,7090.14,10982.49,2022-09-17,Discontinued
+P0125,Fashion Product 125,Fashion,Footwear,AstraTech,SUP0071,11961.29,22604.89,2024-01-10,Active
+P0126,Fashion Product 126,Fashion,Bags,PulseFit,SUP0032,6051.25,9489.48,2025-01-09,Active
+P0127,Fashion Product 127,Fashion,Clothing,UrbanNest,SUP0087,13824.76,21579.42,2022-01-17,Active
+P0128,Fashion Product 128,Fashion,Footwear,AstraTech,SUP0088,3306.35,4146.51,06-Nov-2023,Active
+P0129,Fashion Product 129,Fashion,Bags,GlowCraft,SUP0083,4383.94,6378.34,2023-08-16,Active
+P0130,Fashion Product 130,Fashion,Clothing,AstraTech,SUP0062,4768.68,7406.45,2024-08-27,Active
+P0131,Fashion Product 131,Fashion,Footwear,GlowCraft,SUP0037,11766.43,19330.73,2024-10-21,Discontinued
+P0132,Fashion Product 132,Fashion,Bags,UrbanNest,SUP0087,1383.62,2209.16,2024-03-04,Active
+P0133,Fashion Product 133,Fashion,Clothing,TerraHome,SUP0080,12943.76,24398.83,2025-06-25,Active
+P0134,Fashion Product 134,Fashion,Footwear,VividWear,SUP0097,5612.7,10247.75,2021-07-01,Active
+P0135,Fashion Product 135,Fashion,Bags,NovaPeak,SUP0037,8855.05,13778.56, 2022-04-20 ,Active
+P0136,Fashion Product 136,Fashion,Clothing,UrbanNest,SUP0059,14407.63,25951.25,,Active
+P0137,Fashion Product 137,Fashion,Footwear,TerraHome,SUP0099,928.19,1300.41,2021-01-21,Discontinued
+P0138,Fashion Product 138,Fashion,Bags,TerraHome,SUP0094,9529.36,15957.6,2022-07-18,Discontinued
+P0139,Fashion Product 139,Fashion,Clothing,NovaPeak,SUP0001,6984.51,,2021-10-06,Discontinued
+P0140,FASHION PRODUCT 140,Fashion,Footwear,,SUP0063,4646.35,8660.24,2024-02-26,Active
+P0141,Fashion Product 141,Fashion,Bags,PulseFit,SUP0077,3057.79,5479.58,2021-10-27,Active
+P0142,Fashion Product 142,Fashion,Clothing,BlueOrbit,SUP0042,2852.59,4795.49,2022-01-19,Discontinued
+P0143,Fashion Product 143,Fashion,Footwear,VividWear,SUP0060,12578.58,22155.71,2025-08-06,Active
+P0144,Fashion Product 144,Fashion,Bags,TerraHome,SUP0032,7381.19,13279.64,2021-09-28, Active 
+P0145,,Fashion,Clothing,AstraTech,SUP0014,13082.07,21660.01,2025-10-24,Active
+P0146,Fashion Product 146,Fashion,Footwear,UrbanNest,SUP0084,369.82,545.88,2025-10-02,Active
+P0147,Fashion Product 147,Fashion,Bags,UrbanNest,SUP0094,10790.21,15069.69,2025-07-07,Active
+P0148,Fashion Product 148,Fashion,Clothing,UrbanNest,SUP0064,5520.9,9415.08,2023-10-24,Active
+P0149,Fashion Product 149,Fashion, Footwear ,GlowCraft,SUP0064,12655.43,19022.21,2024-12-31,Discontinued
+P0150,Fashion Product 150,Fashion,Bags,UrbanNest,SUP0003,7640.89,11975.77,2021-11-23,Active
+P0151,Fashion Product 151,Fashion,Clothing,BlueOrbit,SUP0022,6244.62,11198.76,2024-04-07,Active
+P0152,Fashion Product 152,Fashion,Footwear,GlowCraft,SUP0091,13310.4,,2024-10-06,Discontinued
+P0153,Fashion Product 153,Fashion,Bags,VividWear,SUP0092,12867.92,22178.51,2023-01-13, Active 
+P0154,Fashion Product 154,Fashion,Clothing,TerraHome,SUP0039,12399.14,19973.37,2022-11-29,Active
+P0155,Fashion Product 155,Fashion,Footwear,PulseFit,SUP0064,994.76,1745.52,2024-09-14,Discontinued
+P0156,Fashion Product 156,Fashion,Bags,GlowCraft,SUP0090,7157.96,13108.4,2024-01-05,Discontinued
+P0157,Fashion Product 157,Fashion,Clothing,TerraHome,SUP0041,12998.1,22421.14,2025-08-18,Active
+P0158,Fashion Product 158,Fashion,Footwear,BlueOrbit,SUP0077,3560.05,6521.26,2024-10-23,Active
+P0159,Fashion Product 159,Fashion,Bags,GlowCraft,SUP0001,"2,800.33",3859.23,2023-11-20,Active
+P0160,Fashion Product 160,Fashion,Clothing,NovaPeak,SUP0023,3711.21,5185.68,2025-05-16,Active
+P0161,Fashion Product 161,Fashion,Footwear,TerraHome,SUP0088,11603.97,17129.12,2023-04-14,Active
+P0162,Fashion Product 162,Fashion,Bags,VividWear,SUP0037,4881.39,9180.05,2025-01-05,Active
+P0163,Fashion Product 163,Fashion,Clothing,TerraHome,SUP0099,7149.63,12478.29,2024-08-17,Discontinued
+P0164,Fashion Product 164,Fashion,Footwear,GlowCraft,SUP0032,6299.99,10250.8,2023-10-15,Active
+P0165,Fashion Product 165,Fashion,Bags,TerraHome,SUP0091,2402.36,3081.36,2025-07-16,Active
+P0166,Fashion Product 166,Fashion,Clothing,PulseFit,SUP0095,"₹2,856.89",4559.81,2021-11-12,Discontinued
+P0167,Fashion Product 167,Fashion,Footwear,BlueOrbit,SUP0013,4883.82,6700.33,2022-02-07,Active
+P0168,Fashion Product 168,Fashion,Bags,NovaPeak,SUP0015,11422.5,16710.3,2022-11-19,Discontinued
+P0169,Fashion Product 169,Fashion,Clothing,VividWear,SUP0033,11848.79,18669.87,2025-08-22,Active
+P0170,Fashion Product 170,Fashion,Footwear,GlowCraft,SUP0098,3275.86,6181.45,2024-04-15,Discontinued
+P0171,Fashion Product 171,Fashion,Bags,AstraTech,SUP0040,10616.87,15400.59,2023-10-06,Active
+P0172,Fashion Product 172, Fashion ,Clothing,UrbanNest,SUP0041,5246.07,9792.22,2024-08-07,Active
+P0173,Fashion Product 173,Fashion,Footwear,TerraHome,SUP0038,5939.86,7976.1,2021-09-09,Active
+P0174,Fashion Product 174,Fashion,Bags,PulseFit,SUP0011,4187.93,7704.33,2024-07-12,Active
+P0175,Fashion Product 175,Fashion,Clothing,BlueOrbit,SUP0084,6558.02,9903.68,2024-05-11,Active
+P0176,Fashion Product 176,Fashion,Footwear,NovaPeak,SUP0058,12473.43,19785.51,2024-08-09,Active
+P0177,Fashion Product 177,Fashion,Bags,NovaPeak,SUP0069,3312.05,5863.71,2021-11-30,
+P0178,Fashion Product 178,Fashion,Clothing,GlowCraft,SUP0018,7663.52,9272.85,2024-07-13,Discontinued
+P0179,Fashion Product 179,Fashion,Footwear,BlueOrbit,SUP0063,14088.42,26578.47,2024-02-26,Active
+P0180,Fashion Product 180,Fashion,Bags,PulseFit,SUP0071,2385.71,3313.85,2021-12-12,Discontinued
+P0181,Sports Product 181,Sports,Fitness,BlueOrbit,SUP0077,2112.08,2882.0,2021-11-24,Active
+P0182,Sports Product 182,Sports,Outdoor,BlueOrbit,SUP0076,14426.98,20365.84,2024-05-11,Active
+P0183,Sports Product 183,Sports,Yoga,AstraTech,SUP0096,10117.93,14378.66,2023-01-12,Active
+P0184,Sports Product 184,Sports,Fitness,TerraHome,SUP0001,917.05,1629.52,29/08/2021,Active
+P0185,Sports Product 185,Sports,Outdoor,AstraTech,SUP0072,2891.02,4379.89,2021-07-09,Active
+P0186,Sports Product 186,Sports,Yoga,GlowCraft,SUP0064,,445.36,2025-08-20,Discontinued
+P0187,Sports Product 187,Sports,Fitness,NovaPeak,SUP0061,3151.45,5324.42,2024-02-07,Discontinued
+P0188,Sports Product 188,Sports,Outdoor,UrbanNest,SUP0060,9947.07,15437.34,2022-12-17,Active
+P0189,Sports Product 189,Sports,Yoga,BlueOrbit,SUP0073,11723.88,17935.26,2024-11-29,Discontinued
+P0190,Sports Product 190,Sports,Fitness,GlowCraft,SUP0019,2542.38,3650.52,2023-10-06,Discontinued
+P0191,Sports Product 191,Sports,Outdoor,PulseFit,SUP0062,12192.31,22113.52,2024-02-28,Active
+P0192,Sports Product 192,Sports,Yoga,PulseFit,SUP0098,11374.59,19680.44,2021-09-15,Active
+P0193,Sports Product 193,Sports,Fitness,GlowCraft,SUP0020,6917.85,9456.54,2022-10-08,Discontinued
+P0194,Sports Product 194,Sports,Outdoor,PulseFit,SUP0030,8127.11,11763.23,2024-10-12,Discontinued
+P0195,Sports Product 195,Sports,Yoga,BlueOrbit,SUP0072,9297.88,16364.7,2023-10-09,Active
+P0196,Sports Product 196,Sports,Fitness,GlowCraft,SUP0011,9753.81,11861.26,2022-02-14,Discontinued
+P0197,Sports Product 197,Sports,Outdoor,UrbanNest,SUP0003,5306.24,7448.11,2023-07-02,Discontinued
+P0198,Sports Product 198,Sports,Yoga,GlowCraft,SUP0076,2463.38,4263.14,2021-09-01,Discontinued
+P0199,Sports Product 199,Sports,Fitness,GlowCraft,SUP0018,10748.81,18112.49,2024-01-22,Discontinued
+P0200,Sports Product 200,Sports,Outdoor,TerraHome,SUP0059,11028.54,20793.64,2022-09-27,Discontinued
+P0201,Sports Product 201,Sports,Yoga,AstraTech,SUP0010,9715.3,14984.72,2025-07-18,Active
+P0202,Sports Product 202,Sports, Fitness ,VividWear,SUP0048,12136.25,16214.68,2023-01-07,Active
+P0203,Sports Product 203,Sports,Outdoor,VividWear,SUP0054,5443.12,8989.25,2025-03-12,Active
+P0204,Sports Product 204,Sports,Yoga,BlueOrbit,SUP0019,2131.27,2778.0,2022-05-29,Discontinued
+P0205, Sports Product 205 ,Sports,Fitness,AstraTech,SUP0066,8520.24,14146.37,2023-05-15,Active
+P0206,Sports Product 206,Sports,Outdoor,NovaPeak,SUP0040,5274.97,9058.97,2022-06-16,Active
+P0207,Sports Product 207,Sports,Yoga,TerraHome,SUP0098,8843.73,15987.05,2021-08-26,Active
+P0208,Sports Product 208,Sports,Fitness,NovaPeak,SUP0041,,9497.08,05-Jan-2023,Active
+P0209,Sports Product 209,Sports,Outdoor,PulseFit,SUP0002,6862.35,10026.5,2025-11-28,Discontinued
+P0210,Sports Product 210,Sports,Yoga,TerraHome,SUP0015,4070.67,7666.78,2025-04-22,ACTIVE
+P0211,Sports Product 211,Sports,Fitness,GlowCraft,SUP0045,9233.53,13411.88,2024-01-10,Discontinued
+P0212,Sports Product 212,Sports,Outdoor,NovaPeak,SUP0016,2137.02,3409.89,2022-10-02,Discontinued
+P0213,Sports Product 213,Sports,Yoga,NovaPeak,SUP0022,12773.45,16199.44,2022-11-27,Active
+P0214,Sports Product 214,Sports,Fitness,TerraHome,SUP0018,8692.75,11510.23,2025-01-02,Active
+P0215,Sports Product 215,Sports,Outdoor,BlueOrbit,SUP0053,5221.31,7159.2,2022-02-16,Active
+P0216,Sports Product 216,Sports,Yoga, UrbanNest ,SUP0055,4464.59,7002.36,2023-01-04,Active
+P0217,Sports Product 217,Sports,Fitness,AstraTech,SUP0005,7250.3,10342.12,2024-01-07,Discontinued
+P0218,Sports Product 218,Sports,Outdoor,TerraHome,SUP0024,10570.98,19745.98,2023-01-04,Active
+P0219,Sports Product 219,Sports,Yoga,TerraHome,SUP0039,6116.83,8754.43,2022-04-15,Discontinued
+P0220,Sports Product 220,Sports,Fitness,NovaPeak,SUP0014,13748.02,"₹19,087.98",08/05/2022,Discontinued
+P0221,Sports Product 221,Sports,Outdoor,PulseFit,SUP0097,11310.72,18681.81,2025-04-13,Discontinued
+P0222,Sports Product 222,Sports,Yoga,TerraHome,SUP0082,4672.82,6812.05,2023-07-21,Active
+P0223,Sports Product 223,Sports,Fitness,AstraTech,SUP0046,6346.15,10663.86,2023-12-22,Active
+P0224,Sports Product 224,Sports,Outdoor,NovaPeak,SUP0098,14055.03,24420.03,2022-08-20,Active
+P0225,Sports Product 225,Sports,Yoga,AstraTech,SUP0014,6472.06,11933.79,2025-05-05,Active
+P0226,Sports Product 226,Sports,,VividWear,SUP0082,7571.28,14329.98,2025-10-19, Discontinued 
+P0227,Sports Product 227, Sports ,Outdoor,UrbanNest,SUP0024,9886.7,15206.13,25-Jan-2024,Discontinued
+P0228,Sports Product 228,Sports,Yoga,AstraTech,SUP0049,955.85,1763.02,2024-06-09,Discontinued
+P0229,Sports Product 229,Sports,Fitness,VividWear,SUP0049,7393.93,9771.09,2024-06-03,Active
+P0230,Sports Product 230,Sports,Outdoor,GlowCraft,SUP0043,12413.79,16447.76,2024-01-04,Active
+P0231,Sports Product 231,Sports,Yoga,BlueOrbit,SUP0095,13902.94,22626.87,2024-01-25,Discontinued
+P0232,Sports Product 232,Sports,Fitness,AstraTech,SUP0092,4844.01,7656.65,2022-12-07,Discontinued
+P0233,Sports Product 233,Sports,Outdoor,PulseFit,SUP0069,5145.61,9278.13,2024-01-18,Discontinued
+P0234,Sports Product 234,Sports,Yoga,GlowCraft,SUP0051,2565.97,3832.92,2022-08-17,Discontinued
+P0235,Sports Product 235, Sports ,Fitness,PULSEFIT,SUP0023,2875.29,4290.49,2021-02-20,Active
+P0236,Sports Product 236,Sports,Outdoor,AstraTech,SUP0089,7558.67,14273.16,2023-06-28,Active
+P0237,Sports Product 237,Sports,Yoga,AstraTech,SUP0083,6439.94,9216.34,2023-09-16,Active
+P0238,Sports Product 238,Sports,Fitness,UrbanNest,SUP0079,7184.5,13586.18,2025-12-03,Discontinued
+P0239,Sports Product 239,Sports,Outdoor,UrbanNest,SUP0062,11660.45,19816.84,2024-08-29,Discontinued
+P0240,Sports Product 240,Sports,Yoga,PulseFit,SUP0024,5622.58,7063.11,2021-11-07,Active
+P0241,Beauty Product 241,Beauty,Skincare,GlowCraft,SUP0054,11063.25,13700.05,2024-01-09,Active
+P0242,Beauty Product 242,Beauty,Haircare,UrbanNest,SUP0058,7171.88,9758.67,2021-02-26,Discontinued
+P0243,Beauty Product 243,Beauty,Fragrance,GlowCraft,SUP0013,8296.09,12733.79,2022-10-16,Discontinued
+P0244,BEAUTY PRODUCT 244,Beauty,Skincare,AstraTech,SUP0015,10859.92,13399.75,2021-05-21,Active
+P0245,Beauty Product 245,Beauty,Haircare,AstraTech,SUP0032,6151.45,7584.25,2024-06-08,Discontinued
+P0246,Beauty Product 246,Beauty,Fragrance,GlowCraft,SUP0072,1686.51,2352.54,2022-04-16,Active
+P0247,Beauty Product 247,Beauty,Skincare,BlueOrbit,SUP0038,6672.33,8547.55,2022-08-07,Active
+P0248,Beauty Product 248,Beauty,Haircare,PulseFit,SUP0067,2075.1,3234.97,2025-03-01,Active
+P0249,Beauty Product 249,Beauty,Fragrance,GlowCraft,SUP0006,1087.76,1866.83,2024-06-17,Active
+P0250,Beauty Product 250,Beauty,Skincare,AstraTech,SUP0009,14529.79,23966.9,2024-02-21,Active
+P0251,Beauty Product 251,Beauty,Haircare,TerraHome,SUP0019,14719.88,20955.4,2024-04-13,Active
+P0252,Beauty Product 252,Beauty,Fragrance,VividWear,SUP0024,13936.06,19346.03,2021-04-06,Active
+P0253,Beauty Product 253,Beauty,Skincare,GlowCraft,SUP0045,13669.68,23083.24,2022-03-20,Active
+P0254,Beauty Product 254,Beauty,Haircare,NovaPeak,SUP0065,3805.28,5309.5,2022-09-14,Discontinued
+P0255,Beauty Product 255,Beauty,Fragrance,BlueOrbit,SUP0046,3207.19,5586.23,2022-07-06,Active
+P0256,Beauty Product 256,Beauty, Skincare ,TerraHome,SUP0065,3724.87,5683.07,30/05/2021,Discontinued
+P0257,Beauty Product 257,Beauty,Haircare,BlueOrbit,SUP0096,14355.53,20369.32,2021-04-27,Active
+P0258,Beauty Product 258,Beauty,Fragrance,TerraHome,SUP0083,13531.5,24278.84,2025-04-05,Active
+P0259,Beauty Product 259,Beauty,Skincare,PulseFit,SUP0009,6878.15,10967.87,2022-07-13,Discontinued
+P0260,Beauty Product 260,Beauty,Haircare,GlowCraft,SUP0036,4370.27,6142.02,2024-05-30,Active
+P0261,Beauty Product 261,Beauty,Fragrance,VividWear,SUP0059,2052.62,3056.34,2021-02-14,Active
+P0262,Beauty Product 262,Beauty,Skincare,GlowCraft,SUP0045,7903.72,12182.95,2022-10-01,Discontinued
+P0263,Beauty Product 263,Beauty,Haircare,NovaPeak,SUP0021,13943.06,18977.77,2022-06-20,Active
+P0264,Beauty Product 264,Beauty,Fragrance,TerraHome,SUP0081,13558.76,25260.8,2024-06-26,Active
+P0265,Beauty Product 265,Beauty,Skincare,VividWear,SUP0078,10713.88,19488.25,2025-11-03, Discontinued 
+P0266,Beauty Product 266,Beauty,Haircare,NovaPeak,SUP0049,240.05,381.26,2024-01-19,Active
+P0267,Beauty Product 267,Beauty,Fragrance,GlowCraft,SUP0073,8130.58,11716.25,2021-02-24,Discontinued
+P0268,Beauty Product 268,Beauty,Skincare,AstraTech,SUP0001,4279.64,6724.72,2022-07-11,Discontinued
+P0269,Beauty Product 269,Beauty,Haircare,NovaPeak,SUP0059,7584.0,12678.99,2025-05-25,Active
+P0270,Beauty Product 270,Beauty,Fragrance,,SUP0019,10720.81,14706.13,2022-09-28,Active
+P0271,Beauty Product 271,Beauty,Skincare,VividWear,SUP0022,12619.76,20780.04,2024-01-04,Active
+P0272,Beauty Product 272,Beauty,Haircare,BlueOrbit,SUP0063,121.1,145.64,2023-07-30,Active
+P0273,Beauty Product 273,Beauty,Fragrance,GlowCraft,SUP0082,3029.24,3679.76,2022-06-13,Active
+P0274,Beauty Product 274,Beauty,Skincare,UrbanNest,SUP0067,1485.32,1802.63,2024-06-27,Active
+P0275,Beauty Product 275,Beauty,Haircare,BlueOrbit,SUP0006,14526.24,27307.25,2025-02-13,Active
+P0276,Beauty Product 276,Beauty,Fragrance,UrbanNest,SUP0010,14964.98,18414.48,2023-08-11,Active
+P0277,,Beauty,Skincare,AstraTech,SUP0027,10555.87,18919.54,2021-11-18,Active
+P0278,Beauty Product 278,Beauty,Haircare,GlowCraft,SUP0011,6185.49,11743.42,2025-07-18,Active
+P0279,Beauty Product 279,Beauty,Fragrance,UrbanNest,SUP0018,6698.48,8944.94,2022-11-06,Discontinued
+P0280,Beauty Product 280,Beauty,Skincare,PulseFit,SUP0032,10045.31,16532.03,2023-08-27,Active
+P0281,Beauty Product 281,Beauty,Haircare,UrbanNest,SUP0041,14475.92,25927.77,2021-12-30,Active
+P0282,Beauty Product 282,Beauty,Fragrance,NovaPeak,SUP0071,10575.15,14905.26,2023-12-12,Discontinued
+P0283,Beauty Product 283,Beauty,Skincare,UrbanNest,SUP0009,11146.82,15716.11,2025-11-19,Active
+P0284,Beauty Product 284,Beauty,Haircare,NovaPeak,SUP0022,6423.33,10630.89,2024-01-08,Active
+P0285,Beauty Product 285,Beauty,Fragrance,BlueOrbit,SUP0051,3933.49,7072.1,2025-06-18,Active
+P0286,Beauty Product 286,Beauty,Skincare, VividWear ,SUP0074,5429.99,8656.04,2021-03-17,Active
+P0287,Beauty Product 287,Beauty,Haircare,AstraTech,SUP0093,2701.74,4404.3,2021-06-01,Active
+P0288,Beauty Product 288, Beauty ,Fragrance,PulseFit,SUP0032,8969.61,13640.71,2024-04-30,Active
+P0289,Beauty Product 289,Beauty,Skincare,NovaPeak,SUP0077,14209.43,25047.47,2023-12-19,Discontinued
+P0290,Beauty Product 290,Beauty,Haircare,NovaPeak,SUP0058,1328.05,2514.64,2024-02-03,Active
+P0291,Beauty Product 291,Beauty,Fragrance,NovaPeak,SUP0025,5746.9,10348.06,2021-07-15,Discontinued
+P0292,Beauty Product 292,Beauty,Skincare,TerraHome,SUP0038,519.89,708.96,2022-04-20,Active
+P0293,Beauty Product 293,Beauty,Haircare,AstraTech,SUP0023,339.46,456.43,2022-09-20,Discontinued
+P0294,Beauty Product 294,Beauty,Fragrance,GlowCraft,SUP0010,11371.69,13858.61,2021-06-03,Discontinued
+P0295,Beauty Product 295,Beauty,Skincare,NovaPeak,SUP0021,12836.02,22073.15,2021-03-15,Active
+P0296,Beauty Product 296,Beauty,Haircare,NovaPeak,SUP0095,14904.94,25244.29,2022-09-20,Discontinued
+P0297,Beauty Product 297,Beauty,FRAGRANCE,TerraHome,SUP0001,3031.15,3829.39,2022-03-02,Active
+P0298,Beauty Product 298,Beauty,Skincare,BlueOrbit,SUP0035,5514.93,9434.49,2024-04-05,Active
+P0299,Beauty Product 299,Beauty,Haircare,BlueOrbit,SUP0019,14372.25,17774.11,2025-04-29,Active
+P0300,Beauty Product 300,Beauty,Fragrance,BlueOrbit,SUP0005,3261.25,4114.15,2023-05-20,Active
+P0225,Sports Product 225,Sports,Yoga,AstraTech,SUP0014,6472.06,11933.79,2025-05-05,Active

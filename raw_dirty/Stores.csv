@@ -1,0 +1,31 @@
+﻿StoreID,StoreName,City,State,Region,StoreType,OpeningDate,StoreTarget
+S001,Jaipur Store 01,Jaipur,Rajasthan,North,Outlet,2023-09-02,218680
+S002,Jodhpur Store 02,Jodhpur,Rajasthan,North,Outlet,2021-05-25,338691
+S003,New Delhi Store 03,New Delhi,Delhi,North,Online Hub,2018-12-04,327395
+S004,Lucknow Store 04,Lucknow,Uttar Pradesh,North,Mall,2018-05-29,240047
+S005,AHMEDABAD STORE 05,Ahmedabad,Gujarat,West,High Street,2021-06-15,348483
+S006,,Mumbai,Maharashtra,West,Outlet,2019-01-22,195143
+S007,Indore Store 07,Indore,Madhya Pradesh,Central,Online Hub,2020-10-09,415315
+S008,Bengaluru Store 08,BENGALURU,Karnataka, South ,High Street,,348508
+S009,Chennai Store 09,Chennai,Tamil Nadu,South,Online Hub,2022-10-12,298876
+S010,Hyderabad Store 10,Hyderabad,Telangana,South,Outlet,2021-03-03,185638
+S011,Kolkata Store 11,Kolkata,West Bengal,East,Outlet,2023-03-18,173570
+S012,Kochi Store 12,Kochi,Kerala,South,Outlet,2018-08-11,216481
+S013,Jaipur Store 13,Jaipur,Rajasthan,North,High Street,2021-04-08,206971
+S014,Jodhpur Store 14,Jodhpur,Rajasthan,North,Online Hub,2021-08-05,215188
+S015,New Delhi Store 15,New Delhi,Delhi,, Mall ,2021-06-19,241541
+S016,Lucknow Store 16,Lucknow,Uttar Pradesh,North,Outlet,2022-06-22,367787
+S017,Ahmedabad Store 17,Ahmedabad,Gujarat,West,Online Hub,2021-10-09,431761
+S018,Mumbai Store 18,Mumbai,Maharashtra,West,Online Hub,2022-01-16,150207
+S019,Indore Store 19,Indore,Madhya Pradesh,Central,Outlet,09-Jan-2021,190521
+S020,Bengaluru Store 20,Bengaluru,Karnataka,South,,2018-05-17,428197
+S021,Chennai Store 21,Chennai, Tamil Nadu ,South,Outlet,2019-07-25,422786
+S022,Hyderabad Store 22,Hyderabad,Telangana,South,Outlet,2021-11-15,353251
+S023,Kolkata Store 23,Kolkata,West Bengal,East,Mall,2018-02-04,261618
+S024,Kochi Store 24,Kochi,Kerala,South,High Street,2020-10-01,231019
+S025,Jaipur Store 25,Jaipur,Rajasthan,North,High Street,2022-07-17,322408
+S026,Jodhpur Store 26,Jodhpur,Rajasthan,North,Online Hub,2018-03-16,"₹172,307.00"
+S027,New Delhi Store 27,New Delhi,Delhi,North,Mall,2019-05-10,230949
+S028,Lucknow Store 28,Lucknow,Uttar Pradesh,North,High Street,2020-01-14,342137
+S029,Ahmedabad Store 29,Ahmedabad,Gujarat,West,High Street,2019-04-17,273853
+S030,Mumbai Store 30,Mumbai,Maharashtra,West,Online Hub,2018-10-24,246953

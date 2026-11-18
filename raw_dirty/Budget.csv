@@ -1,0 +1,2521 @@
+﻿MonthStart,StoreID,Department,BudgetAmount,BudgetType
+2025-01-01,S001,Store Operations,156341,Monthly
+2025-01-01,S001,Marketing,43132,Monthly
+2025-01-01,S001,Inventory,,Monthly
+2025-01-01,S001,Customer Service,81793,Monthly
+2025-02-01,S001,Store Operations,81766,Monthly
+2025-02-01,S001,Marketing,37928,Monthly
+2025-02-01,S001,Inventory,33986,Monthly
+2025-02-01,S001,Customer Service,68968,Monthly
+2025-03-01,S001,Store Operations,147487,Monthly
+2025-03-01,S001,Marketing,117357,Monthly
+2025-03-01,S001,Inventory,105486,Monthly
+2025-03-01,S001,Customer Service,82685,Monthly
+2025-04-01,S001,Store Operations,96645,Monthly
+2025-04-01,S001,Marketing,99657,Monthly
+2025-04-01,S001,Inventory,29330,Monthly
+2025-04-01,S001,Customer Service,99690,Monthly
+2025-05-01,S001,Store Operations,119064,Monthly
+01-May-2025,S001,Marketing,69494,Monthly
+2025-05-01,S001,Inventory,48921,Monthly
+2025-05-01,S001,Customer Service,30111,Monthly
+2025-06-01,S001,Store Operations,129326,Monthly
+2025-06-01,S001,Marketing,37769,Monthly
+2025-06-01,S001,Inventory,110346,Monthly
+2025-06-01,S001,Customer Service,76723,Monthly
+2025-07-01,S001,Store Operations,114582,Monthly
+2025-07-01,S001,Marketing,86193,Monthly
+2025-07-01,S001,Inventory,141927,Monthly
+ 2025-07-01 ,S001,Customer Service,102329,Monthly
+2025-08-01,S001,Store Operations,128000,Monthly
+2025-08-01,S001,Marketing,76677,Monthly
+2025-08-01,S001,Inventory,112599,Monthly
+2025-08-01,S001,Customer Service,65008,Monthly
+2025-09-01,S001,Store Operations,116909,Monthly
+2025-09-01,S001,Marketing,150825,Monthly
+2025-09-01,S001,Inventory,170404,Monthly
+2025-09-01,S001,Customer Service,160505,Monthly
+2025-10-01,S001,Store Operations,113662,Monthly
+2025-10-01,S001,Marketing,135928,Monthly
+2025-10-01,S001,Inventory,122873,Monthly
+2025-10-01,S001,CUSTOMER SERVICE,27715,Monthly
+2025-11-01,S001,Store Operations,136333,Monthly
+2025-11-01,S001,Marketing,94174,Monthly
+2025-11-01,S001,Inventory,143533,Monthly
+2025-11-01,S001,Customer Service,104942,Monthly
+2025-12-01,S001,Store Operations,80890,Monthly
+2025-12-01,S001,Marketing,59814,Monthly
+2025-12-01,S001,Inventory,58372,Monthly
+2025-12-01,S001,Customer Service,50801,Monthly
+2026-01-01,S001,Store Operations,178712,Monthly
+2026-01-01,S001,Marketing,163783,Monthly
+2026-01-01,S001,Inventory,96985,Monthly
+2026-01-01,S001,Customer Service,55976,Monthly
+2026-02-01,S001,Store Operations,109780,Monthly
+2026-02-01,S001,Marketing,115931,Monthly
+2026-02-01,S001,Inventory,117295,Monthly
+2026-02-01,S001,Customer Service,147612,Monthly
+2026-03-01,S001,Store Operations,163845, Monthly 
+2026-03-01,S001,Marketing,101032,Monthly
+01/03/2026,S001,Inventory,99987,Monthly
+2026-03-01,S001,Customer Service,139828,Monthly
+2026-04-01,S001,Store Operations,116301,Monthly
+2026-04-01,S001,Marketing,106650,Monthly
+2026-04-01,S001,Inventory,60536,Monthly
+2026-04-01,S001,Customer Service,133735,Monthly
+2026-05-01,S001,STORE OPERATIONS,26415,Monthly
+2026-05-01,S001,Marketing,53672,Monthly
+2026-05-01,S001,Inventory,142187,Monthly
+2026-05-01,S001,Customer Service,59136, Monthly 
+2026-06-01,S001,Store Operations,132590,Monthly
+2026-06-01,S001,Marketing,40979,Monthly
+2026-06-01,S001,Inventory,110431,Monthly
+2026-06-01,S001,Customer Service,52030,Monthly
+2026-07-01,S001,Store Operations,152126,Monthly
+2026-07-01,S001,Marketing,159877,Monthly
+2026-07-01,S001,Inventory,78979,Monthly
+2026-07-01,S001,Customer Service,155539,Monthly
+2026-08-01,S001,Store Operations,34203,Monthly
+2026-08-01,S001,Marketing,95060,Monthly
+2026-08-01,S001,Inventory,62276,MONTHLY
+2026-08-01,S001,Customer Service,114765,Monthly
+2026-09-01,S001,Store Operations,155519,Monthly
+2026-09-01,S001,Marketing,80918,Monthly
+2026-09-01,S001,Inventory,108412,Monthly
+2026-09-01,S001,Customer Service,156350,Monthly
+2025-01-01,S002,Store Operations,57971,Monthly
+2025-01-01,S002,Marketing,171862,Monthly
+2025-01-01,S002,Inventory,100935,Monthly
+2025-01-01,S002,Customer Service,156921,Monthly
+2025-02-01,S002,Store Operations,167091,Monthly
+2025-02-01,S002,Marketing,"166,013.00",Monthly
+2025-02-01,S002,Inventory,45842,Monthly
+01-Feb-2025,S002,Customer Service,138083,Monthly
+2025-03-01,S002,Store Operations,107454,Monthly
+2025-03-01,S002,Marketing,120626,Monthly
+2025-03-01,S002,Inventory,88105,Monthly
+2025-03-01,S002,Customer Service,72669,Monthly
+2025-04-01,S002,Store Operations,132579,Monthly
+2025-04-01,S002,Marketing,128347,Monthly
+2025-04-01,S002,Inventory,63501,Monthly
+2025-04-01,S002,Customer Service,45281,Monthly
+2025-05-01,S002,Store Operations,107538,Monthly
+2025-05-01,S002,Marketing,159245,Monthly
+2025-05-01,S002,Inventory,138329,Monthly
+2025-05-01,S002,Customer Service,30795,Monthly
+01/06/2025,S002,Store Operations,84563,Monthly
+2025-06-01,S002,Marketing,95607,Monthly
+2025-06-01,S002,Inventory,107721,Monthly
+2025-06-01,S002,Customer Service,132182,Monthly
+2025-07-01,S002,Store Operations,41945,Monthly
+2025-07-01,S002,Marketing,27865, Monthly 
+2025-07-01,S002,Inventory,139425,Monthly
+2025-07-01,S002,Customer Service,78572,Monthly
+2025-08-01,S002,Store Operations,152199,Monthly
+2025-08-01,S002,Marketing,92917,Monthly
+2025-08-01,S002,Inventory,151937,Monthly
+2025-08-01,S002,Customer Service,163716,Monthly
+2025-09-01,S002,Store Operations,58266,Monthly
+2025-09-01,S002,Marketing,133498,Monthly
+2025-09-01,S002,Inventory,69334,Monthly
+2025-09-01,S002,Customer Service,42775,Monthly
+2025-10-01,S002,Store Operations,59249,Monthly
+2025-10-01,S002,Marketing,85075,Monthly
+2025-10-01,S002,Inventory,50890,Monthly
+2025-10-01,S002,Customer Service,71992,Monthly
+2025-11-01,S002,Store Operations,169560,Monthly
+2025-11-01,S002,Marketing,139262,Monthly
+2025-11-01,S002,Inventory,51807,Monthly
+2025-11-01,S002,Customer Service,166200,Monthly
+2025-12-01,S002,Store Operations,91930,Monthly
+2025-12-01,S002,Marketing,66354,Monthly
+2025-12-01,S002,Inventory,57022,Monthly
+2025-12-01,S002,Customer Service,139416,Monthly
+2026-01-01,S002,Store Operations,49095,Monthly
+2026-01-01,S002,Marketing,69749,Monthly
+2026-01-01,S002,Inventory,114303,Monthly
+2026-01-01,S002,Customer Service,"₹85,650.00",Monthly
+2026-02-01,S002,Store Operations,177396,Monthly
+2026-02-01,S002,Marketing,156182,Monthly
+2026-02-01,S002,Inventory,77406,Monthly
+2026-02-01,S002,Customer Service,146989,Monthly
+2026-03-01,S002,Store Operations,75223,Monthly
+2026-03-01,S002,Marketing,97195,Monthly
+2026-03-01,S002,Inventory,116061,Monthly
+2026-03-01,S002,Customer Service,112302,Monthly
+2026-04-01,S002,Store Operations,50802,Monthly
+2026-04-01,S002,Marketing,126099,Monthly
+2026-04-01,S002,Inventory,90599,Monthly
+2026-04-01,S002,Customer Service,29939,Monthly
+2026-05-01,S002,Store Operations,27399,Monthly
+2026-05-01,S002,Marketing,64235,Monthly
+2026-05-01,S002,Inventory,30334,Monthly
+2026-05-01,S002,Customer Service,122778,Monthly
+2026-06-01,S002, Store Operations ,53880,Monthly
+2026-06-01,S002,Marketing,32365,Monthly
+2026-06-01,S002,Inventory,109779,Monthly
+2026-06-01,S002,Customer Service,62231,Monthly
+2026-07-01,S002,Store Operations,178584,Monthly
+2026-07-01,S002, Marketing ,37603,Monthly
+2026-07-01,S002,Inventory,55116,Monthly
+2026-07-01,S002,Customer Service,"₹86,940.00",Monthly
+2026-08-01,S002,Store Operations,175296,Monthly
+2026-08-01,S002,Marketing,126893,Monthly
+2026-08-01,S002,Inventory,109974,Monthly
+2026-08-01,S002,Customer Service,67968,Monthly
+2026-09-01,S002,Store Operations,51078,Monthly
+2026-09-01,S002,Marketing,161883,Monthly
+2026-09-01,S002,Inventory,72393,Monthly
+2026-09-01,S002,Customer Service,100805,Monthly
+2025-01-01,S003,Store Operations,172124,Monthly
+2025-01-01,S003,Marketing,76917,Monthly
+2025-01-01,S003,Inventory,102805,Monthly
+2025-01-01,S003,Customer Service,57082,Monthly
+2025-02-01,S003,Store Operations,76779,Monthly
+2025-02-01,S003,Marketing,133038,Monthly
+2025-02-01,S003,Inventory,56253,Monthly
+2025-02-01,S003,Customer Service,86551,Monthly
+2025-03-01,S003,Store Operations,114212,Monthly
+2025-03-01,S003,Marketing,109021,Monthly
+2025-03-01,S003,Inventory,87039,Monthly
+2025-03-01,S003,Customer Service,46857, Monthly 
+2025-04-01,S003,Store Operations,105197,Monthly
+2025-04-01,S003,Marketing,30674,Monthly
+2025-04-01,S003,Inventory,27117,Monthly
+2025-04-01,S003,Customer Service,167907,Monthly
+2025-05-01,S003,Store Operations,147060,Monthly
+2025-05-01,S003,Marketing,35421,Monthly
+2025-05-01,S003,Inventory,92564,Monthly
+2025-05-01,S003,Customer Service,94906,Monthly
+2025-06-01,S003,Store Operations,140399,Monthly
+2025-06-01,S003,Marketing,142565,Monthly
+2025-06-01,S003,Inventory,115117,Monthly
+2025-06-01,S003,Customer Service,141837,Monthly
+2025-07-01,S003,Store Operations,"80,486.00",Monthly
+2025-07-01,S003,Marketing,87325,Monthly
+2025-07-01,S003,Inventory,140153,Monthly
+2025-07-01,S003,Customer Service,36594,Monthly
+2025-08-01,S003,Store Operations,42131,Monthly
+2025-08-01,S003,Marketing,171125,Monthly
+2025-08-01,S003,Inventory,53584,Monthly
+2025-08-01,S003,Customer Service,77743,Monthly
+2025-09-01,S003,Store Operations,99656,Monthly
+2025-09-01,S003,Marketing,50018,Monthly
+2025-09-01,S003,Inventory,77479,Monthly
+2025-09-01,S003,Customer Service,54357,Monthly
+2025-10-01,S003,Store Operations,167755,Monthly
+2025-10-01,S003,Marketing,121933,Monthly
+2025-10-01,S003,Inventory,106379,Monthly
+2025-10-01,S003,Customer Service,52556,Monthly
+2025-11-01,S003,Store Operations,121145,Monthly
+2025-11-01,S003,Marketing,,Monthly
+2025-11-01,S003,Inventory,152894,Monthly
+2025-11-01,S003,Customer Service,32984,Monthly
+2025-12-01,S003,Store Operations,25170,Monthly
+2025-12-01,S003,Marketing,167495,Monthly
+2025-12-01,S003,Inventory,27457,Monthly
+2025-12-01,S003,Customer Service,148978,Monthly
+2026-01-01,S003,Store Operations,66335,Monthly
+2026-01-01,S003,Marketing,166116,Monthly
+2026-01-01,S003,Inventory,179462,Monthly
+2026-01-01,S003,Customer Service,160027,Monthly
+2026-02-01,S003,Store Operations,168146,Monthly
+2026-02-01,S003,Marketing,78538,Monthly
+2026-02-01,S003,Inventory,82005,Monthly
+2026-02-01,S003,Customer Service,137869,Monthly
+2026-03-01,S003,Store Operations,87353,Monthly
+2026-03-01,S003,Marketing,93805,Monthly
+2026-03-01,S003,Inventory,131818,Monthly
+2026-03-01,S003,Customer Service,105312,Monthly
+2026-04-01,S003,Store Operations,179179,Monthly
+2026-04-01,S003,Marketing,123652,Monthly
+2026-04-01,S003,Inventory,101167,Monthly
+2026-04-01,S003,Customer Service,133517,Monthly
+01/05/2026,S003,Store Operations,145241,Monthly
+2026-05-01,S003,Marketing,134133,Monthly
+2026-05-01,S003,Inventory,26267,Monthly
+ 2026-05-01 ,S003,Customer Service,81132,Monthly
+01-Jun-2026,S003,Store Operations,97301,Monthly
+2026-06-01,S003,Marketing,44703,Monthly
+2026-06-01,S003,Inventory,135332,Monthly
+2026-06-01,S003, Customer Service ,35644,Monthly
+2026-07-01,S003,Store Operations,133121,Monthly
+2026-07-01,S003,Marketing,64231,Monthly
+2026-07-01,S003,Inventory,147765,Monthly
+2026-07-01,S003,Customer Service,132594,Monthly
+2026-08-01,S003,Store Operations,117500,Monthly
+2026-08-01,S003,Marketing,107145,Monthly
+2026-08-01,S003,Inventory,149289,Monthly
+2026-08-01,S003,Customer Service,133420,Monthly
+2026-09-01,S003,Store Operations,155114,Monthly
+2026-09-01,S003,Marketing,133368,Monthly
+2026-09-01,S003,Inventory,67381,Monthly
+2026-09-01,S003,Customer Service,58668, Monthly 
+2025-01-01,S004,Store Operations,94679,Monthly
+2025-01-01,S004,MARKETING,55703,Monthly
+2025-01-01,S004,Inventory,144990,Monthly
+2025-01-01,S004,Customer Service,157426,Monthly
+2025-02-01,S004,Store Operations,163490,Monthly
+2025-02-01,S004,Marketing,33137,Monthly
+2025-02-01,S004,Inventory,115839,Monthly
+2025-02-01,S004,Customer Service,59949,Monthly
+2025-03-01,S004,Store Operations,143190,Monthly
+2025-03-01,S004,Marketing,140514,Monthly
+2025-03-01,S004,Inventory,63281,Monthly
+2025-03-01,S004,Customer Service,50962,Monthly
+2025-04-01,S004,Store Operations,174133,Monthly
+2025-04-01,S004,Marketing,136135,Monthly
+2025-04-01,S004,Inventory,91514,Monthly
+2025-04-01,S004,Customer Service,80382,Monthly
+2025-05-01,S004,Store Operations,94396,Monthly
+2025-05-01,S004,Marketing,133367,Monthly
+,S004,Inventory,164033,Monthly
+2025-05-01,S004,Customer Service,136920,Monthly
+2025-06-01,S004,Store Operations,25400,Monthly
+2025-06-01,S004,Marketing,64020,Monthly
+2025-06-01,S004,Inventory,130610,Monthly
+2025-06-01,S004,Customer Service,35972,Monthly
+2025-07-01,S004,Store Operations,34136,Monthly
+2025-07-01,S004,MARKETING,71200,Monthly
+2025-07-01,S004,Inventory,140210,Monthly
+2025-07-01,S004,Customer Service,39131,Monthly
+2025-08-01,S004,Store Operations,29088,Monthly
+2025-08-01,S004,Marketing,53990,Monthly
+2025-08-01,S004,Inventory,154737,Monthly
+2025-08-01,S004,Customer Service,90583,Monthly
+2025-09-01,S004,Store Operations,103353,Monthly
+2025-09-01,S004,Marketing,139106,Monthly
+2025-09-01,S004,Inventory,154089,Monthly
+2025-09-01,S004,Customer Service,109239,Monthly
+2025-10-01,S004,Store Operations,49095,Monthly
+2025-10-01,S004,Marketing,147852,Monthly
+01-Oct-2025,S004,Inventory,27487,Monthly
+2025-10-01,S004,Customer Service,26982,Monthly
+2025-11-01,S004,Store Operations,"95,894.00",Monthly
+2025-11-01,S004,Marketing,57982,Monthly
+2025-11-01,S004,Inventory,170375,Monthly
+2025-11-01,S004,CUSTOMER SERVICE,73558,Monthly
+2025-12-01,S004,Store Operations,100783,Monthly
+2025-12-01,S004,Marketing,130273,Monthly
+2025-12-01,S004,Inventory,101398,Monthly
+2025-12-01,S004,Customer Service,126279,Monthly
+2026-01-01,S004,Store Operations,26530,Monthly
+2026-01-01,S004,Marketing,175474,Monthly
+2026-01-01,S004,Inventory,155164,Monthly
+2026-01-01,S004,Customer Service,53939,Monthly
+2026-02-01,S004,Store Operations,143727,Monthly
+2026-02-01,S004,Marketing,35704,Monthly
+2026-02-01,S004,Inventory,165871,Monthly
+2026-02-01,S004,Customer Service,128802,Monthly
+2026-03-01,S004,Store Operations,27448,Monthly
+2026-03-01,S004,Marketing,27570,Monthly
+2026-03-01,S004,INVENTORY,114385,Monthly
+2026-03-01,S004,Customer Service,172833,Monthly
+2026-04-01,S004,Store Operations,162716,Monthly
+2026-04-01,S004,Marketing,131413,Monthly
+2026-04-01,S004,Inventory,27259,Monthly
+2026-04-01,S004,Customer Service,110009,Monthly
+2026-05-01,S004,Store Operations,50284,Monthly
+2026-05-01,S004,Marketing,37945,Monthly
+2026-05-01,S004,Inventory,143416,Monthly
+2026-05-01,S004,Customer Service,63223,Monthly
+2026-06-01,S004,Store Operations,106301,Monthly
+2026-06-01,S004,Marketing,147609,Monthly
+2026-06-01,S004,Inventory,171997,Monthly
+2026-06-01,S004,Customer Service,62422,Monthly
+2026-07-01,S004,Store Operations,157663,Monthly
+2026-07-01,S004,Marketing,54351,Monthly
+2026-07-01,S004,Inventory,71990, Monthly 
+2026-07-01,S004,Customer Service,164902,Monthly
+2026-08-01,S004,Store Operations,74497,Monthly
+2026-08-01,S004,Marketing,151023,Monthly
+01-Aug-2026,S004,Inventory,125161,Monthly
+2026-08-01,S004,Customer Service,166441,Monthly
+2026-09-01,S004,Store Operations,35438,Monthly
+2026-09-01,S004,Marketing,173474,Monthly
+2026-09-01,S004,Inventory,85379,Monthly
+2026-09-01,S004,Customer Service,170284,Monthly
+2025-01-01,S005,Store Operations,146099,Monthly
+2025-01-01,S005,Marketing,37836,Monthly
+2025-01-01,S005,Inventory,76244,Monthly
+2025-01-01,S005,Customer Service,147558,Monthly
+2025-02-01,S005,Store Operations,73635,Monthly
+2025-02-01,S005,Marketing,33389,Monthly
+2025-02-01,S005,Inventory,83693,Monthly
+2025-02-01,S005,Customer Service,163335,Monthly
+2025-03-01,S005,Store Operations,165977,Monthly
+2025-03-01,S005,Marketing,80851,Monthly
+2025-03-01,S005,Inventory,111002,Monthly
+2025-03-01,S005,Customer Service,153217,Monthly
+2025-04-01,S005,Store Operations,93388,Monthly
+01/04/2025,S005,Marketing,34081,Monthly
+2025-04-01,S005,,93680,Monthly
+2025-04-01,S005,Customer Service,25390,Monthly
+2025-05-01,S005,Store Operations,82511,Monthly
+2025-05-01,S005,Marketing,56380,Monthly
+2025-05-01,S005,Inventory,131721,Monthly
+2025-05-01,S005,Customer Service,166125,Monthly
+2025-06-01,S005,Store Operations,65241,Monthly
+2025-06-01,S005,Marketing,167582,Monthly
+2025-06-01,S005,Inventory,"₹89,681.00", Monthly 
+2025-06-01,S005,Customer Service,176407,Monthly
+2025-07-01,S005,Store Operations,174069,Monthly
+2025-07-01,S005,Marketing,119837,Monthly
+2025-07-01,S005,Inventory,26316,Monthly
+2025-07-01,S005,Customer Service,159236,Monthly
+2025-08-01,S005,Store Operations,65001,Monthly
+2025-08-01,S005,Marketing,106842,Monthly
+2025-08-01,S005,Inventory,105974,Monthly
+2025-08-01,S005,Customer Service,26094,Monthly
+2025-09-01,S005,Store Operations,"48,540.00",Monthly
+2025-09-01,S005,Marketing,57814,Monthly
+2025-09-01,S005,Inventory,26846,Monthly
+2025-09-01,S005,Customer Service,130552,Monthly
+2025-10-01,S005,Store Operations,107342,Monthly
+2025-10-01,S005,Marketing,129544,Monthly
+2025-10-01,S005,Inventory,149202,Monthly
+2025-10-01,S005,Customer Service,80501,Monthly
+2025-11-01,S005,Store Operations,117373, Monthly 
+2025-11-01,S005,Marketing,127919,Monthly
+2025-11-01,S005,Inventory,90243,Monthly
+ 2025-11-01 ,S005,Customer Service,41059,Monthly
+2025-12-01,S005,Store Operations,164919,Monthly
+2025-12-01,S005,Marketing,100669,Monthly
+2025-12-01,S005,Inventory,88587,Monthly
+ 2025-12-01 ,S005,Customer Service,30264,Monthly
+2026-01-01,S005,Store Operations,139721,Monthly
+2026-01-01,S005,Marketing,37798,Monthly
+2026-01-01,S005,Inventory,95461,Monthly
+2026-01-01,S005,Customer Service,52470,Monthly
+2026-02-01,S005,Store Operations,75708,Monthly
+2026-02-01,S005,Marketing,118257,Monthly
+2026-02-01,S005,Inventory,46364,Monthly
+2026-02-01,S005,Customer Service,41765,Monthly
+2026-03-01,S005,Store Operations,107364,Monthly
+2026-03-01,S005,Marketing,86519,Monthly
+2026-03-01,S005,Inventory,95116,Monthly
+2026-03-01,S005,Customer Service,97224,Monthly
+2026-04-01,S005,Store Operations,110456,Monthly
+2026-04-01,S005,Marketing,159636,Monthly
+2026-04-01,S005,Inventory,122122,Monthly
+2026-04-01,S005,Customer Service,172169,Monthly
+2026-05-01,S005,Store Operations,60948,Monthly
+2026-05-01,S005,Marketing,102872,Monthly
+2026-05-01,S005,Inventory,149264,Monthly
+2026-05-01,S005,Customer Service,146876,Monthly
+2026-06-01,S005,Store Operations,47598,Monthly
+2026-06-01,S005,Marketing,78126,Monthly
+01/06/2026,S005,Inventory,154318,Monthly
+2026-06-01,S005,Customer Service,134448,Monthly
+2026-07-01,S005,Store Operations,158786,Monthly
+2026-07-01,S005,Marketing,90211,Monthly
+2026-07-01,S005,Inventory,100018,Monthly
+2026-07-01,S005,Customer Service,71284,Monthly
+2026-08-01,S005,Store Operations,127910, Monthly 
+01/08/2026,S005,Marketing,178193,Monthly
+2026-08-01,S005,Inventory,47201,Monthly
+2026-08-01,S005,Customer Service,51903,Monthly
+2026-09-01,S005,Store Operations,151046,Monthly
+2026-09-01,S005,Marketing,158238,Monthly
+2026-09-01,S005,Inventory,47464,Monthly
+2026-09-01,S005,Customer Service,176991,Monthly
+2025-01-01,S006,Store Operations,73419,MONTHLY
+2025-01-01,S006,Marketing,51833,Monthly
+2025-01-01,S006,Inventory,158256,Monthly
+2025-01-01,S006,Customer Service,127038,Monthly
+2025-02-01,S006,Store Operations,131420,Monthly
+2025-02-01,S006,Marketing,34494,Monthly
+2025-02-01,S006,Inventory,94068,Monthly
+2025-02-01,S006,Customer Service,87346,Monthly
+2025-03-01,S006,Store Operations,75158,Monthly
+2025-03-01,S006,Marketing,158397,Monthly
+2025-03-01,S006,Inventory,143976,Monthly
+2025-03-01,S006,Customer Service,153846,Monthly
+2025-04-01,S006,Store Operations,175108,Monthly
+2025-04-01,S006,Marketing,108697,Monthly
+2025-04-01,S006,Inventory,94714,Monthly
+2025-04-01,S006,Customer Service,166461,Monthly
+2025-05-01,S006,Store Operations,149724,Monthly
+2025-05-01,S006, Marketing ,125308,Monthly
+2025-05-01,S006,Inventory,77440,Monthly
+2025-05-01,S006,Customer Service,86849,Monthly
+2025-06-01,S006,Store Operations,177529,Monthly
+2025-06-01,S006,Marketing,113197,Monthly
+2025-06-01,S006,Inventory,169248,Monthly
+2025-06-01,S006,Customer Service,77039,Monthly
+2025-07-01,S006,Store Operations,29420,Monthly
+2025-07-01,S006,Marketing,134887,Monthly
+2025-07-01,S006,Inventory,51095,
+2025-07-01,S006,Customer Service,108022,Monthly
+2025-08-01,S006,Store Operations,144621,Monthly
+2025-08-01,S006,Marketing,119783,Monthly
+2025-08-01,S006,Inventory,93482,Monthly
+2025-08-01,S006,Customer Service,138290,Monthly
+2025-09-01,S006,Store Operations,,Monthly
+2025-09-01,S006,Marketing,152445,Monthly
+2025-09-01,S006,Inventory,163126,Monthly
+2025-09-01,S006,Customer Service,117042,Monthly
+2025-10-01,S006,Store Operations,84177,Monthly
+2025-10-01,S006,Marketing,134212,Monthly
+2025-10-01,S006,Inventory,139886,Monthly
+2025-10-01,S006,Customer Service,72760,Monthly
+2025-11-01,S006,Store Operations,104494,Monthly
+2025-11-01,S006,Marketing,179605,Monthly
+2025-11-01,S006,Inventory,85253,Monthly
+2025-11-01,S006,Customer Service,111243,Monthly
+2025-12-01,S006,Store Operations,101843,Monthly
+2025-12-01,S006,Marketing,79376,Monthly
+2025-12-01,S006,Inventory,121544,Monthly
+2025-12-01,S006,Customer Service,156907,Monthly
+ 2026-01-01 ,S006,Store Operations,68735,Monthly
+2026-01-01,S006,Marketing,66860,Monthly
+2026-01-01,S006,Inventory,74118,Monthly
+2026-01-01,S006,Customer Service,125052,Monthly
+2026-02-01,S006,Store Operations,106998,Monthly
+2026-02-01,S006,Marketing,85049,Monthly
+2026-02-01,S006,Inventory,167120,Monthly
+2026-02-01,S006,Customer Service,119654,Monthly
+2026-03-01,S006,Store Operations,26252,Monthly
+2026-03-01,S006,Marketing,32960,Monthly
+2026-03-01,S006,Inventory,108934,Monthly
+2026-03-01,S006,Customer Service,130569,Monthly
+2026-04-01,S006,Store Operations,122908,Monthly
+2026-04-01,S006,Marketing,142699,Monthly
+2026-04-01,S006,Inventory,103249,Monthly
+2026-04-01,S006,Customer Service,34958,Monthly
+2026-05-01,S006,Store Operations,126285,Monthly
+2026-05-01,S006,Marketing,148520,Monthly
+ 2026-05-01 ,S006,Inventory,62704,Monthly
+2026-05-01,S006,Customer Service,129834,Monthly
+2026-06-01,S006,Store Operations,90044,Monthly
+2026-06-01,S006,Marketing,166124,Monthly
+2026-06-01,S006,Inventory,84354,
+2026-06-01,S006,Customer Service,176489,Monthly
+2026-07-01,S006,Store Operations,69230,Monthly
+2026-07-01,S006,Marketing,63483,Monthly
+2026-07-01,S006,INVENTORY,126988,Monthly
+2026-07-01,S006,Customer Service,175209,Monthly
+2026-08-01,S006,Store Operations,150525,Monthly
+2026-08-01,S006,Marketing,116530,Monthly
+2026-08-01,S006,Inventory,61885,Monthly
+2026-08-01,S006,Customer Service,150119,Monthly
+ 2026-09-01 ,S006,Store Operations,164611, Monthly 
+2026-09-01,S006,Marketing,28593,Monthly
+2026-09-01,S006,Inventory,82734,Monthly
+2026-09-01,S006,Customer Service,42262,Monthly
+2025-01-01,S007,Store Operations,40592,Monthly
+2025-01-01,S007, Marketing ,135993,Monthly
+2025-01-01,S007,Inventory,29966,Monthly
+2025-01-01,S007,Customer Service,41373,Monthly
+2025-02-01,S007,Store Operations,67776,Monthly
+2025-02-01,S007,Marketing,89441,Monthly
+01-Feb-2025,S007,Inventory,25668,Monthly
+2025-02-01,S007,Customer Service,149486,Monthly
+2025-03-01,S007,Store Operations,109681,Monthly
+2025-03-01,S007,MARKETING,134765,Monthly
+2025-03-01,S007,Inventory,158089,MONTHLY
+2025-03-01,S007,Customer Service,158256, Monthly 
+2025-04-01,S007,Store Operations,127034,Monthly
+2025-04-01,S007,Marketing,165090,Monthly
+2025-04-01,S007,INVENTORY,28008,Monthly
+2025-04-01,S007,Customer Service,65585,Monthly
+2025-05-01,S007,Store Operations,163778,Monthly
+2025-05-01,S007,Marketing,170791,Monthly
+01-May-2025,S007,Inventory,133072,Monthly
+2025-05-01,S007,Customer Service,154535,Monthly
+2025-06-01,S007,Store Operations,49334,Monthly
+2025-06-01,S007,Marketing,126512,Monthly
+2025-06-01,S007,Inventory,51219,Monthly
+2025-06-01,S007,Customer Service,151324,Monthly
+2025-07-01,S007,Store Operations,29588,Monthly
+2025-07-01,S007,Marketing,154886,Monthly
+2025-07-01,S007, Inventory ,148538,Monthly
+2025-07-01,S007,Customer Service,33123,Monthly
+2025-08-01,S007,Store Operations,140799,Monthly
+2025-08-01,S007,Marketing,163426,Monthly
+2025-08-01,S007, Inventory ,37833,Monthly
+2025-08-01,S007,Customer Service,52878,Monthly
+2025-09-01,S007,Store Operations,73852,Monthly
+01/09/2025,S007,Marketing,132473,Monthly
+2025-09-01,S007,Inventory,169210,Monthly
+2025-09-01,S007,Customer Service,68748,Monthly
+2025-10-01,S007,Store Operations,139467,Monthly
+2025-10-01,S007,Marketing,103360,Monthly
+2025-10-01,S007,Inventory,103076,Monthly
+2025-10-01,S007,Customer Service,101231,Monthly
+2025-11-01,S007,Store Operations,25308,Monthly
+2025-11-01,S007,Marketing,60511,Monthly
+2025-11-01,S007,Inventory,37951,Monthly
+2025-11-01,S007,Customer Service,177980,Monthly
+2025-12-01,S007, Store Operations ,120778,Monthly
+2025-12-01,S007,Marketing,154701,Monthly
+2025-12-01,S007,Inventory,26745,Monthly
+2025-12-01,S007,Customer Service,134216,Monthly
+ 2026-01-01 ,S007,Store Operations,107605,Monthly
+2026-01-01,S007,Marketing,90435,Monthly
+2026-01-01,S007,Inventory,170858,Monthly
+2026-01-01,S007,Customer Service,46656,Monthly
+2026-02-01,S007,Store Operations,56262,Monthly
+2026-02-01,S007,Marketing,94222,Monthly
+2026-02-01,S007,Inventory,144464,Monthly
+2026-02-01,S007,Customer Service,102377,Monthly
+2026-03-01,S007,Store Operations,42603,Monthly
+2026-03-01,S007,Marketing,125031,Monthly
+2026-03-01,S007,Inventory,101481,Monthly
+2026-03-01,S007,Customer Service,170031,Monthly
+2026-04-01,S007,Store Operations,60641,Monthly
+2026-04-01,S007,Marketing,131141, Monthly 
+2026-04-01,S007,Inventory,73914,Monthly
+2026-04-01,S007,Customer Service,162570,Monthly
+2026-05-01,S007,Store Operations,124169,Monthly
+2026-05-01,S007,MARKETING,118792,Monthly
+2026-05-01,S007,Inventory,167672,Monthly
+2026-05-01,S007,Customer Service,174711,Monthly
+2026-06-01,S007,Store Operations,164715,Monthly
+2026-06-01,S007,Marketing,165963,Monthly
+2026-06-01,S007,Inventory,44167,Monthly
+2026-06-01,S007,Customer Service,163493, Monthly 
+2026-07-01,S007,Store Operations,33638,Monthly
+2026-07-01,S007,Marketing,97489,Monthly
+2026-07-01,S007,Inventory,83235,Monthly
+2026-07-01,S007,Customer Service,113375,Monthly
+2026-08-01,S007,Store Operations,156628,Monthly
+2026-08-01,S007,Marketing,154527,Monthly
+2026-08-01,S007,Inventory,47715,Monthly
+2026-08-01,S007,Customer Service,68348,Monthly
+2026-09-01,S007,Store Operations,119771,Monthly
+2026-09-01,S007,Marketing,117987,Monthly
+2026-09-01,S007,Inventory,48455,Monthly
+2026-09-01,S007,Customer Service,52965,Monthly
+2025-01-01,S008,Store Operations,176480,Monthly
+2025-01-01,S008,Marketing,142287,Monthly
+2025-01-01,S008,Inventory,37704,Monthly
+2025-01-01,S008,Customer Service,90400,Monthly
+01-Feb-2025,S008,Store Operations,99458,
+2025-02-01,S008,Marketing,47921,Monthly
+2025-02-01,S008,Inventory,161085,Monthly
+2025-02-01,S008,Customer Service,118755,Monthly
+2025-03-01,S008,Store Operations,38621,Monthly
+2025-03-01,S008,Marketing,172837,Monthly
+2025-03-01,S008,Inventory,124177,Monthly
+01/03/2025,S008,Customer Service,157329,Monthly
+2025-04-01,S008,Store Operations,50215,Monthly
+2025-04-01,S008,Marketing,81920,Monthly
+2025-04-01,S008,Inventory,124755,Monthly
+2025-04-01,S008,Customer Service,135880,Monthly
+2025-05-01,S008,Store Operations,52870,Monthly
+2025-05-01,S008,Marketing,113729,Monthly
+2025-05-01,S008,,106749,Monthly
+2025-05-01,S008,Customer Service,75528,Monthly
+2025-06-01,S008,Store Operations,56673,Monthly
+2025-06-01,S008,Marketing,100503,Monthly
+2025-06-01,S008,Inventory,55897,Monthly
+2025-06-01,S008,Customer Service,80396,Monthly
+2025-07-01,S008,Store Operations,78888,Monthly
+2025-07-01,S008,Marketing,90573,Monthly
+2025-07-01,S008,INVENTORY,156664,Monthly
+2025-07-01,S008,Customer Service,48434,Monthly
+2025-08-01,S008,Store Operations,91721,Monthly
+2025-08-01,S008,Marketing,68300,Monthly
+2025-08-01,S008,Inventory,"₹125,972.00",Monthly
+2025-08-01,S008,Customer Service,65839,Monthly
+2025-09-01,S008,Store Operations,101497,Monthly
+2025-09-01,S008,Marketing,161226, Monthly 
+2025-09-01,S008,Inventory,106376,Monthly
+2025-09-01,S008,Customer Service,164340,Monthly
+2025-10-01,S008,Store Operations,87453,Monthly
+2025-10-01,S008,Marketing,103893,Monthly
+2025-10-01,S008,Inventory,63427,Monthly
+2025-10-01,S008,Customer Service,136509,Monthly
+2025-11-01,S008,Store Operations,60918,Monthly
+2025-11-01,S008,Marketing,"134,160.00",Monthly
+2025-11-01,S008,Inventory,126893,Monthly
+2025-11-01,S008,Customer Service,99167,Monthly
+2025-12-01,S008,Store Operations,43475,Monthly
+2025-12-01,S008,Marketing,25869,Monthly
+2025-12-01,S008,Inventory,106969,Monthly
+2025-12-01,S008,Customer Service,"₹36,363.00",Monthly
+2026-01-01,S008,Store Operations,156582,Monthly
+2026-01-01,S008,Marketing,43085,Monthly
+2026-01-01,S008,Inventory,107864,Monthly
+2026-01-01,S008,Customer Service,124602,Monthly
+2026-02-01,S008,Store Operations,43497,Monthly
+2026-02-01,S008,Marketing,37831,Monthly
+2026-02-01,S008, Inventory ,36266,Monthly
+2026-02-01,S008,Customer Service,157352,Monthly
+2026-03-01,S008,Store Operations,129920,Monthly
+2026-03-01,S008,Marketing,131239,Monthly
+2026-03-01,S008,Inventory,114923,Monthly
+2026-03-01,S008,Customer Service,113011,Monthly
+2026-04-01,S008,Store Operations,71759,Monthly
+01/04/2026,S008,Marketing,151117,Monthly
+2026-04-01,S008,Inventory,166693,Monthly
+2026-04-01,S008,Customer Service,155122,Monthly
+2026-05-01,S008,Store Operations,99883,Monthly
+2026-05-01,S008,Marketing,76499,Monthly
+2026-05-01,S008,Inventory,104570,
+2026-05-01,S008,Customer Service,91124,Monthly
+2026-06-01,S008,Store Operations,73920,Monthly
+2026-06-01,S008,Marketing,101671,Monthly
+2026-06-01,S008,Inventory,133457,Monthly
+2026-06-01,S008,Customer Service,81511,Monthly
+2026-07-01,S008,Store Operations,57935,Monthly
+2026-07-01,S008,Marketing,125061,Monthly
+2026-07-01,S008,Inventory,155952,Monthly
+2026-07-01,S008,Customer Service,130855,Monthly
+2026-08-01,S008,Store Operations,75518,Monthly
+2026-08-01,S008,Marketing,167784,Monthly
+2026-08-01,S008,Inventory,66005,Monthly
+2026-08-01,S008,Customer Service,122376,Monthly
+01-Sep-2026,S008,Store Operations,164211,Monthly
+2026-09-01,S008, Marketing ,36195,Monthly
+2026-09-01,S008,Inventory,130569,Monthly
+2026-09-01,S008,Customer Service,89586,Monthly
+2025-01-01,S009,Store Operations,48940,Monthly
+2025-01-01,S009,Marketing,163508,Monthly
+2025-01-01,S009,Inventory,121047, Monthly 
+2025-01-01,S009,Customer Service,139516,Monthly
+2025-02-01,S009,Store Operations,82331,Monthly
+2025-02-01,S009,Marketing,52774,Monthly
+2025-02-01,S009,Inventory,88412,Monthly
+2025-02-01,S009,Customer Service,73407,Monthly
+2025-03-01,S009,Store Operations,61285,Monthly
+2025-03-01,S009,Marketing,153713,Monthly
+2025-03-01,S009,Inventory,151663,Monthly
+2025-03-01,S009,Customer Service,170673,Monthly
+2025-04-01,S009,Store Operations,172216,Monthly
+2025-04-01,S009,Marketing,76002,Monthly
+2025-04-01,S009,Inventory,99372,Monthly
+2025-04-01,S009,Customer Service,176641,Monthly
+2025-05-01,S009,Store Operations,108296,Monthly
+2025-05-01,S009,Marketing,59653,Monthly
+2025-05-01,S009,Inventory,118898,Monthly
+2025-05-01,S009,Customer Service,36801,Monthly
+2025-06-01,S009,Store Operations,53153,Monthly
+2025-06-01,S009,Marketing,102341,Monthly
+2025-06-01,S009,Inventory,121982,Monthly
+2025-06-01,S009,Customer Service,79896,Monthly
+2025-07-01,S009,Store Operations,118198,Monthly
+2025-07-01,S009,Marketing,113856,Monthly
+2025-07-01,S009, Inventory ,71232,Monthly
+2025-07-01,S009,Customer Service,161500,Monthly
+2025-08-01,S009,Store Operations,"91,474.00",Monthly
+2025-08-01,S009,Marketing,155624,Monthly
+2025-08-01,S009,Inventory,124607,Monthly
+2025-08-01,S009,Customer Service,87883,Monthly
+2025-09-01,S009,Store Operations,176726,Monthly
+2025-09-01,S009,Marketing,132281,Monthly
+2025-09-01,S009,Inventory,155252,Monthly
+ 2025-09-01 ,S009,Customer Service,104712,Monthly
+2025-10-01,S009,Store Operations,57596,Monthly
+2025-10-01,S009,Marketing,151146,Monthly
+2025-10-01,S009,Inventory,138494,Monthly
+2025-10-01,S009,Customer Service,81912,Monthly
+2025-11-01,S009,Store Operations,141868,Monthly
+2025-11-01,S009,Marketing,108524,Monthly
+2025-11-01,S009,Inventory,43811,Monthly
+2025-11-01,S009, Customer Service ,145926,Monthly
+2025-12-01,S009,Store Operations,59340,Monthly
+2025-12-01,S009,Marketing,172362, Monthly 
+2025-12-01,S009,Inventory,74488,Monthly
+2025-12-01,S009,Customer Service,151266,Monthly
+2026-01-01,S009,Store Operations,156796,Monthly
+2026-01-01,S009,Marketing,136309,Monthly
+2026-01-01,S009,Inventory,159614,Monthly
+2026-01-01,S009,Customer Service,75160,Monthly
+2026-02-01,S009,Store Operations,82033,Monthly
+2026-02-01,S009,Marketing,45764,Monthly
+2026-02-01,S009,Inventory,156602,Monthly
+ 2026-02-01 ,S009,Customer Service,156629,Monthly
+2026-03-01,S009,Store Operations,67291,Monthly
+2026-03-01,S009,Marketing,42690,Monthly
+2026-03-01,S009,Inventory,32038,Monthly
+2026-03-01,S009,Customer Service,106253,Monthly
+2026-04-01,S009,Store Operations,29271,Monthly
+2026-04-01,S009,Marketing,76222,Monthly
+2026-04-01,S009,Inventory,91787,Monthly
+2026-04-01,S009,Customer Service,115076,Monthly
+2026-05-01,S009,Store Operations,80520,MONTHLY
+2026-05-01,S009,Marketing,49786,Monthly
+,S009,Inventory,25778,Monthly
+2026-05-01,S009,Customer Service,152803,Monthly
+2026-06-01,S009,Store Operations,122041,Monthly
+2026-06-01,S009,Marketing,64086,Monthly
+ 2026-06-01 ,S009,Inventory,130630,Monthly
+2026-06-01,S009,Customer Service,31142,Monthly
+2026-07-01,S009,Store Operations,92311,Monthly
+2026-07-01,S009,Marketing,99853,Monthly
+2026-07-01,S009,Inventory,65548,Monthly
+2026-07-01,S009,Customer Service,163117,Monthly
+2026-08-01,S009,Store Operations,103902,Monthly
+2026-08-01,S009,Marketing,35923,Monthly
+2026-08-01,S009,Inventory,142696,Monthly
+2026-08-01,S009,Customer Service,36841,Monthly
+2026-09-01,S009,Store Operations,161826,Monthly
+2026-09-01,S009,Marketing,127334,Monthly
+2026-09-01,S009,Inventory,148903,Monthly
+2026-09-01,S009,Customer Service,117845,Monthly
+2025-01-01,S010,Store Operations,146342,Monthly
+2025-01-01,S010,Marketing,64346,Monthly
+2025-01-01,S010,Inventory,138735,Monthly
+2025-01-01,S010,Customer Service,163610,Monthly
+2025-02-01,S010,STORE OPERATIONS,76198,Monthly
+2025-02-01,S010,Marketing,69290,Monthly
+01-Feb-2025,S010,Inventory,124801,Monthly
+2025-02-01,S010,Customer Service,55548,Monthly
+2025-03-01,S010,Store Operations,107099,Monthly
+2025-03-01,S010,Marketing,113095,Monthly
+2025-03-01,S010,Inventory,162022,Monthly
+2025-03-01,S010,Customer Service,73469,Monthly
+01-Apr-2025,S010,Store Operations,73129,Monthly
+2025-04-01,S010,Marketing,47463,Monthly
+2025-04-01,S010,Inventory,30435,Monthly
+2025-04-01,S010,Customer Service,143227,Monthly
+2025-05-01,S010,Store Operations,166506,Monthly
+2025-05-01,S010,Marketing,126393,Monthly
+2025-05-01,S010,Inventory,53084,Monthly
+2025-05-01,S010,Customer Service,109052,Monthly
+2025-06-01,S010,Store Operations,34020,Monthly
+2025-06-01,S010,Marketing,142644,Monthly
+2025-06-01,S010,Inventory,84059,Monthly
+2025-06-01,S010,Customer Service,36480,Monthly
+2025-07-01,S010,Store Operations,95124,Monthly
+2025-07-01,S010,Marketing,93612,Monthly
+2025-07-01,S010,Inventory,168991,Monthly
+2025-07-01,S010,Customer Service,89290,Monthly
+2025-08-01,S010,Store Operations,153381,Monthly
+2025-08-01,S010,Marketing,61601,Monthly
+2025-08-01,S010,Inventory,49930,MONTHLY
+2025-08-01,S010,Customer Service,118077,Monthly
+2025-09-01,S010,Store Operations,"₹125,608.00",Monthly
+2025-09-01,S010,Marketing,125720,Monthly
+2025-09-01,S010,Inventory,155386,Monthly
+2025-09-01,S010,Customer Service,42711,Monthly
+2025-10-01,S010,Store Operations,31399,Monthly
+2025-10-01,S010,Marketing,69973,Monthly
+2025-10-01,S010,Inventory,46363,Monthly
+2025-10-01,S010,Customer Service,127243,Monthly
+2025-11-01,S010,Store Operations,179140,Monthly
+2025-11-01,S010,Marketing,65188,Monthly
+2025-11-01,S010,Inventory,71359,Monthly
+2025-11-01,S010,Customer Service,79200,Monthly
+2025-12-01,S010,Store Operations,72483,Monthly
+2025-12-01,S010,Marketing,175135,Monthly
+2025-12-01,S010,Inventory,127471,Monthly
+2025-12-01,S010,Customer Service,138425,Monthly
+2026-01-01,S010,Store Operations,124448,Monthly
+2026-01-01,S010,Marketing,80374,Monthly
+2026-01-01,S010,Inventory,44319,Monthly
+2026-01-01,S010,Customer Service,175711,Monthly
+2026-02-01,S010,Store Operations,121781,Monthly
+2026-02-01,S010,Marketing,70438,Monthly
+2026-02-01,S010,Inventory,72111,Monthly
+2026-02-01,S010,Customer Service,99046,Monthly
+2026-03-01,S010,Store Operations,94027,Monthly
+2026-03-01,S010,Marketing,25514,Monthly
+2026-03-01,S010,Inventory,32019,Monthly
+2026-03-01,S010,Customer Service,107798,Monthly
+2026-04-01,S010,Store Operations,110509,Monthly
+2026-04-01,S010,Marketing,93477,Monthly
+2026-04-01,S010,Inventory,"₹70,626.00",MONTHLY
+2026-04-01,S010,Customer Service,31542,Monthly
+2026-05-01,S010,Store Operations,92785,Monthly
+2026-05-01,S010,Marketing,77032,Monthly
+2026-05-01,S010,Inventory,122368,Monthly
+2026-05-01,S010,Customer Service,158275,Monthly
+01/06/2026,S010,Store Operations,88789,Monthly
+2026-06-01,S010,Marketing,135707,Monthly
+2026-06-01,S010,Inventory,128631,Monthly
+2026-06-01,S010,,147278,Monthly
+2026-07-01,S010,Store Operations,176167,Monthly
+2026-07-01,S010,Marketing,137988,Monthly
+2026-07-01,S010,Inventory,30689,Monthly
+2026-07-01,S010,Customer Service,66324,Monthly
+2026-08-01,S010,Store Operations,103973,Monthly
+2026-08-01,S010,Marketing,143761,Monthly
+2026-08-01,S010,Inventory,27181,Monthly
+2026-08-01,S010,Customer Service,31300,Monthly
+2026-09-01,S010,Store Operations,109630,Monthly
+2026-09-01,S010,Marketing,31401,Monthly
+2026-09-01,S010,Inventory,28209,Monthly
+2026-09-01,S010,Customer Service,171896,Monthly
+2025-01-01,S011,Store Operations,39554,Monthly
+2025-01-01,S011,Marketing,26986,Monthly
+2025-01-01,S011,Inventory,45775,Monthly
+2025-01-01,S011,Customer Service,107795,Monthly
+2025-02-01,S011,Store Operations,27387,Monthly
+2025-02-01,S011,Marketing,51256,Monthly
+2025-02-01,S011,Inventory,134061,Monthly
+2025-02-01,S011,Customer Service,37895,Monthly
+2025-03-01,S011,Store Operations,167997,MONTHLY
+2025-03-01,S011,Marketing,147411,Monthly
+2025-03-01,S011,Inventory,163010,Monthly
+2025-03-01,S011,Customer Service,132539,Monthly
+2025-04-01,S011,Store Operations,32803,Monthly
+2025-04-01,S011,Marketing,88191,Monthly
+2025-04-01,S011,Inventory,100523,Monthly
+2025-04-01,S011,Customer Service,48207,Monthly
+2025-05-01,S011,Store Operations,166799,Monthly
+2025-05-01,S011,Marketing,69938,Monthly
+2025-05-01,S011,Inventory,158591,Monthly
+2025-05-01,S011,Customer Service,142208,Monthly
+2025-06-01,S011,Store Operations,143443,Monthly
+2025-06-01,S011,Marketing,168145,Monthly
+2025-06-01,S011,Inventory,129591,Monthly
+2025-06-01,S011,Customer Service,165109,Monthly
+2025-07-01,S011,Store Operations,111346,Monthly
+2025-07-01,S011,Marketing,31982,Monthly
+2025-07-01,S011,Inventory,62428,Monthly
+2025-07-01,S011,Customer Service,34579,Monthly
+2025-08-01,S011,Store Operations,67827,Monthly
+2025-08-01,S011,Marketing,85885,Monthly
+2025-08-01,S011,,141986,Monthly
+2025-08-01,S011,Customer Service,31019,Monthly
+2025-09-01,S011,Store Operations,177445,Monthly
+2025-09-01,S011,Marketing,84052,Monthly
+2025-09-01,S011, Inventory ,54896,Monthly
+2025-09-01,S011,Customer Service,160766,Monthly
+2025-10-01,S011,Store Operations,46567,Monthly
+2025-10-01,S011,Marketing,149393,Monthly
+2025-10-01,S011,Inventory,101902,Monthly
+2025-10-01,S011,Customer Service,63040, Monthly 
+2025-11-01,S011,Store Operations,115904,Monthly
+2025-11-01,S011,Marketing,142743,Monthly
+2025-11-01,S011,Inventory,120471,Monthly
+2025-11-01,S011,Customer Service,,Monthly
+2025-12-01,S011,Store Operations,35969,Monthly
+2025-12-01,S011,Marketing,148363,Monthly
+2025-12-01,S011,Inventory,60385,Monthly
+2025-12-01,S011,Customer Service,156082,Monthly
+2026-01-01,S011,Store Operations,68640,Monthly
+2026-01-01,S011,Marketing,116092,Monthly
+2026-01-01,S011,Inventory,142073,Monthly
+2026-01-01,S011,Customer Service,146811,Monthly
+2026-02-01,S011,Store Operations,62605,Monthly
+2026-02-01,S011,Marketing,113955,Monthly
+2026-02-01,S011,Inventory,35300,Monthly
+2026-02-01,S011,Customer Service,100391,Monthly
+2026-03-01,S011,Store Operations,36145,Monthly
+2026-03-01,S011,Marketing,84100,Monthly
+2026-03-01,S011,Inventory,174353,Monthly
+2026-03-01,S011,Customer Service,120174,Monthly
+2026-04-01,S011,Store Operations,122907,Monthly
+2026-04-01,S011,Marketing,63416,Monthly
+2026-04-01,S011,Inventory,148399,Monthly
+2026-04-01,S011,Customer Service,60442,Monthly
+2026-05-01,S011,Store Operations,84826,Monthly
+2026-05-01,S011,Marketing,149841,Monthly
+2026-05-01,S011,Inventory,94193,Monthly
+2026-05-01,S011,Customer Service,98173,Monthly
+2026-06-01,S011,Store Operations,171093,Monthly
+2026-06-01,S011,Marketing,172812,Monthly
+2026-06-01,S011,Inventory,148506,Monthly
+2026-06-01,S011,Customer Service,56567,Monthly
+2026-07-01,S011,Store Operations,141441,Monthly
+2026-07-01,S011,Marketing,124225,Monthly
+2026-07-01,S011,Inventory,93045,Monthly
+2026-07-01,S011,Customer Service,47807,Monthly
+2026-08-01,S011,Store Operations,53539,Monthly
+2026-08-01,S011,Marketing,45029,Monthly
+2026-08-01,S011,Inventory,161631,Monthly
+2026-08-01,S011,Customer Service,118695,Monthly
+2026-09-01,S011,Store Operations,160714,Monthly
+2026-09-01,S011,Marketing,100686,Monthly
+01/09/2026,S011,Inventory,112258, Monthly 
+2026-09-01,S011,Customer Service,118841,Monthly
+2025-01-01,S012,Store Operations,151937,Monthly
+2025-01-01,S012,Marketing,32937,Monthly
+ 2025-01-01 ,S012,Inventory,166513,Monthly
+2025-01-01,S012,Customer Service,38215,Monthly
+2025-02-01,S012,Store Operations,178970,Monthly
+2025-02-01,S012,Marketing,108112,Monthly
+2025-02-01,S012,Inventory,42500,Monthly
+2025-02-01,S012,Customer Service,87002,Monthly
+2025-03-01,S012,Store Operations,43147,Monthly
+2025-03-01,S012,Marketing,76115,Monthly
+2025-03-01,S012,Inventory,116255,Monthly
+2025-03-01,S012,Customer Service,145293,Monthly
+2025-04-01,S012,Store Operations,"104,827.00",Monthly
+2025-04-01,S012,Marketing,67130,Monthly
+2025-04-01,S012, Inventory ,174132,Monthly
+01/04/2025,S012,Customer Service,154475,Monthly
+2025-05-01,S012,Store Operations,41448,Monthly
+2025-05-01,S012,Marketing,37000, Monthly 
+2025-05-01,S012,Inventory,128028,Monthly
+2025-05-01,S012,Customer Service,104564,Monthly
+2025-06-01,S012,Store Operations,41571,Monthly
+01-Jun-2025,S012,Marketing,131434,Monthly
+2025-06-01,S012,Inventory,115674,Monthly
+2025-06-01,S012,Customer Service,94364,Monthly
+2025-07-01,S012,Store Operations,92922,Monthly
+01-Jul-2025,S012,Marketing,100564,Monthly
+2025-07-01,S012,Inventory,52954,Monthly
+2025-07-01,S012,Customer Service,117146,Monthly
+2025-08-01,S012,Store Operations,113514,Monthly
+2025-08-01,S012,Marketing,67732,Monthly
+01-Aug-2025,S012,Inventory,110908,Monthly
+2025-08-01,S012,Customer Service,118349,Monthly
+2025-09-01,S012,Store Operations,59152,Monthly
+2025-09-01,S012,Marketing,67778,Monthly
+2025-09-01,S012,Inventory,78276,Monthly
+2025-09-01,S012,Customer Service,94830,Monthly
+2025-10-01,S012,Store Operations,79856,Monthly
+2025-10-01,S012,Marketing,29391,Monthly
+2025-10-01,S012,Inventory,25778,Monthly
+2025-10-01,S012,Customer Service,97473,Monthly
+2025-11-01,S012,Store Operations,46479,Monthly
+2025-11-01,S012,Marketing,52222,Monthly
+2025-11-01,S012,Inventory,142012,Monthly
+2025-11-01,S012,Customer Service,167186,Monthly
+2025-12-01,S012,Store Operations,124410,Monthly
+2025-12-01,S012,Marketing,79685,Monthly
+2025-12-01,S012,Inventory,80380,Monthly
+2025-12-01,S012,Customer Service,96410,Monthly
+2026-01-01,S012,Store Operations,45903,Monthly
+2026-01-01,S012,Marketing,84240,Monthly
+2026-01-01,S012,Inventory,89907,Monthly
+2026-01-01,S012,Customer Service,29223,Monthly
+2026-02-01,S012,Store Operations,55129,Monthly
+2026-02-01,S012,Marketing,169309,Monthly
+2026-02-01,S012,Inventory,60303,Monthly
+2026-02-01,S012,Customer Service,26637,Monthly
+2026-03-01,S012,Store Operations,115856,Monthly
+2026-03-01,S012,Marketing,55896,Monthly
+2026-03-01,S012,Inventory,103269,Monthly
+2026-03-01,S012,Customer Service,155781,Monthly
+01/04/2026,S012,Store Operations,104261,Monthly
+2026-04-01,S012,Marketing,80744,Monthly
+01-Apr-2026,S012,Inventory,158817,Monthly
+2026-04-01,S012,Customer Service,174643,Monthly
+2026-05-01,S012,Store Operations,153621,Monthly
+2026-05-01,S012,Marketing,151098,Monthly
+2026-05-01,S012,Inventory,88437,Monthly
+2026-05-01,S012,Customer Service,36103, Monthly 
+2026-06-01,S012,Store Operations,179711,Monthly
+2026-06-01,S012,Marketing,75265,Monthly
+2026-06-01,S012,Inventory,121949,Monthly
+2026-06-01,S012,Customer Service,53906,Monthly
+2026-07-01,S012,Store Operations,173541,Monthly
+2026-07-01,S012,Marketing,44253,Monthly
+2026-07-01,S012,Inventory,28210,Monthly
+2026-07-01,S012,Customer Service,137647,Monthly
+2026-08-01,S012,Store Operations,161764,Monthly
+2026-08-01,S012,Marketing,35499,Monthly
+2026-08-01,S012, Inventory ,,Monthly
+2026-08-01,S012,Customer Service,76251,Monthly
+2026-09-01,S012,Store Operations,74373,Monthly
+2026-09-01,S012,Marketing,165635,Monthly
+2026-09-01,S012,Inventory,118280,Monthly
+2026-09-01,S012,Customer Service,126431,Monthly
+2025-01-01,S013,Store Operations,133812,Monthly
+01/01/2025,S013,Marketing,28953,Monthly
+2025-01-01,S013,Inventory,151378,Monthly
+2025-01-01,S013,Customer Service,159049,Monthly
+2025-02-01,S013,Store Operations,37891,Monthly
+2025-02-01,S013,Marketing,79694,Monthly
+2025-02-01,S013,Inventory,93198,Monthly
+2025-02-01,S013,Customer Service,159397,Monthly
+2025-03-01,S013,Store Operations,132951,Monthly
+2025-03-01,S013,Marketing,86280,Monthly
+2025-03-01,S013,Inventory,144047,Monthly
+2025-03-01,S013,Customer Service,107126,Monthly
+2025-04-01,S013,Store Operations,164257,Monthly
+2025-04-01,S013,Marketing,166099,Monthly
+2025-04-01,S013,,117149,Monthly
+2025-04-01,S013,Customer Service,148586,Monthly
+2025-05-01,S013,Store Operations,50491,Monthly
+2025-05-01,S013,Marketing,131501,Monthly
+2025-05-01,S013,Inventory,40086,Monthly
+2025-05-01,S013,Customer Service,148349,Monthly
+2025-06-01,S013,Store Operations,145406,Monthly
+2025-06-01,S013,Marketing,91888,Monthly
+2025-06-01,S013,Inventory,144031,Monthly
+2025-06-01,S013,Customer Service,152730,Monthly
+2025-07-01,S013,Store Operations,83841,Monthly
+2025-07-01,S013,Marketing,76655,Monthly
+2025-07-01,S013,Inventory,63197,Monthly
+2025-07-01,S013,Customer Service,128795,Monthly
+2025-08-01,S013,Store Operations,144867,Monthly
+2025-08-01,S013,Marketing,25848,Monthly
+2025-08-01,S013,Inventory,104874,Monthly
+2025-08-01,S013,Customer Service,48826,Monthly
+2025-09-01,S013,Store Operations,43042,Monthly
+2025-09-01,S013,Marketing,85068,Monthly
+2025-09-01,S013,Inventory,78781,Monthly
+2025-09-01,S013,Customer Service,45198,Monthly
+01/10/2025,S013,Store Operations,62361,Monthly
+2025-10-01,S013,Marketing,31798,Monthly
+2025-10-01,S013,Inventory,93587,Monthly
+2025-10-01,S013,Customer Service,74730,Monthly
+2025-11-01,S013,Store Operations,148663,Monthly
+2025-11-01,S013,Marketing,102644,Monthly
+01-Nov-2025,S013,Inventory,139855,Monthly
+2025-11-01,S013,Customer Service,90697,Monthly
+2025-12-01,S013,Store Operations,128564,Monthly
+2025-12-01,S013,Marketing,95930,Monthly
+2025-12-01,S013,Inventory,131605,Monthly
+2025-12-01,S013,Customer Service,174033,Monthly
+2026-01-01,S013,Store Operations,92862, Monthly 
+2026-01-01,S013,Marketing,137254,Monthly
+2026-01-01,S013,Inventory,"112,448.00",Monthly
+2026-01-01,S013,Customer Service,120008,Monthly
+2026-02-01,S013,Store Operations,175324,Monthly
+2026-02-01,S013,Marketing,129513,Monthly
+2026-02-01,S013,Inventory,79946,Monthly
+2026-02-01,S013,Customer Service,160334,Monthly
+2026-03-01,S013,Store Operations,86681,Monthly
+2026-03-01,S013,Marketing,72077,Monthly
+2026-03-01,S013,Inventory,63486,Monthly
+2026-03-01,S013,Customer Service,159302,Monthly
+2026-04-01,S013,Store Operations,72817,Monthly
+2026-04-01,S013,Marketing,94285,Monthly
+2026-04-01,S013,Inventory,110614,MONTHLY
+2026-04-01,S013,Customer Service,134062,Monthly
+2026-05-01,S013,Store Operations,"₹38,459.00",Monthly
+2026-05-01,S013,Marketing,35330,Monthly
+2026-05-01,S013,Inventory,65570,Monthly
+2026-05-01,S013,Customer Service,148215,Monthly
+2026-06-01,S013,Store Operations,97243,Monthly
+2026-06-01,S013,Marketing,50401,Monthly
+2026-06-01,S013,Inventory,59075,Monthly
+2026-06-01,S013,Customer Service,80967,Monthly
+2026-07-01,S013,Store Operations,98615,Monthly
+2026-07-01,S013,Marketing,157278,Monthly
+2026-07-01,S013,Inventory,104509,Monthly
+2026-07-01,S013,Customer Service,95760,Monthly
+2026-08-01,S013,Store Operations,35787,Monthly
+2026-08-01,S013,Marketing,98515,Monthly
+2026-08-01,S013,Inventory,152969,Monthly
+2026-08-01,S013,Customer Service,159855,Monthly
+2026-09-01,S013,Store Operations,170572,Monthly
+2026-09-01,S013,Marketing,32166,Monthly
+2026-09-01,S013,Inventory,54174,Monthly
+2026-09-01,S013,Customer Service,135696,Monthly
+2025-01-01,S014,Store Operations,90976,Monthly
+2025-01-01,S014,Marketing,128502,Monthly
+2025-01-01,S014,Inventory,97775,Monthly
+2025-01-01,S014,Customer Service,49147,Monthly
+2025-02-01,S014,Store Operations,157061,Monthly
+2025-02-01,S014,Marketing,70366,Monthly
+2025-02-01,S014,Inventory,141805,MONTHLY
+2025-02-01,S014,Customer Service,80849,Monthly
+01/03/2025,S014,Store Operations,86814,Monthly
+2025-03-01,S014,Marketing,33327,Monthly
+2025-03-01,S014,Inventory,165888,Monthly
+2025-03-01,S014,Customer Service,56055,Monthly
+2025-04-01,S014,Store Operations,125100,Monthly
+2025-04-01,S014,Marketing,112591,Monthly
+2025-04-01,S014,Inventory,132974,Monthly
+2025-04-01,S014,Customer Service,60080,Monthly
+2025-05-01,S014,Store Operations,85687,Monthly
+2025-05-01,S014,Marketing,143927,Monthly
+2025-05-01,S014,Inventory,58312,Monthly
+2025-05-01,S014,Customer Service,100000,Monthly
+2025-06-01,S014,Store Operations,,Monthly
+2025-06-01,S014,Marketing,54177,Monthly
+ 2025-06-01 ,S014,Inventory,106203,Monthly
+2025-06-01,S014,Customer Service,59726,Monthly
+2025-07-01,S014,Store Operations,174685,Monthly
+2025-07-01,S014,Marketing,56784,Monthly
+2025-07-01,S014,Inventory,46870,Monthly
+2025-07-01,S014,Customer Service,152675,Monthly
+2025-08-01,S014,Store Operations,178881,Monthly
+2025-08-01,S014,Marketing,166028,Monthly
+2025-08-01,S014,Inventory,64061,Monthly
+2025-08-01,S014,Customer Service,177108,Monthly
+2025-09-01,S014,Store Operations,71170,Monthly
+2025-09-01,S014,Marketing,66829,Monthly
+2025-09-01,S014,Inventory,68474,Monthly
+2025-09-01,S014,Customer Service,142853,Monthly
+2025-10-01,S014,Store Operations,54391,Monthly
+2025-10-01,S014,Marketing,137000,Monthly
+2025-10-01,S014,Inventory,26040,Monthly
+2025-10-01,S014,Customer Service,95291,Monthly
+2025-11-01,S014,Store Operations,41986,Monthly
+2025-11-01,S014,Marketing,43364,Monthly
+2025-11-01,S014,Inventory,175515,Monthly
+2025-11-01,S014,Customer Service,52196,Monthly
+2025-12-01,S014,Store Operations,155074,Monthly
+2025-12-01,S014,Marketing,126112,Monthly
+2025-12-01,S014,Inventory,101043,Monthly
+2025-12-01,S014,Customer Service,128706,Monthly
+2026-01-01,S014,Store Operations,175931,Monthly
+2026-01-01,S014,Marketing,141835,Monthly
+2026-01-01,S014,Inventory,70506, Monthly 
+2026-01-01,S014,CUSTOMER SERVICE,31412,Monthly
+2026-02-01,S014,Store Operations,118026,Monthly
+2026-02-01,S014,Marketing,37486,Monthly
+2026-02-01,S014,Inventory,119559,Monthly
+01-Feb-2026,S014,Customer Service,176183,Monthly
+2026-03-01,S014,Store Operations,128588,Monthly
+2026-03-01,S014,Marketing,75687,Monthly
+2026-03-01,S014,Inventory,82576,Monthly
+2026-03-01,S014,Customer Service,89317,Monthly
+01-Apr-2026,S014,Store Operations,54650,Monthly
+2026-04-01,S014,MARKETING,115533,Monthly
+2026-04-01,S014,Inventory,34455,Monthly
+2026-04-01,S014,Customer Service,148508,Monthly
+2026-05-01,S014,Store Operations,178962,Monthly
+2026-05-01,S014,Marketing,105037,Monthly
+2026-05-01,S014,Inventory,40259,Monthly
+2026-05-01,S014,Customer Service,167979,Monthly
+2026-06-01,S014,Store Operations,155536,Monthly
+2026-06-01,S014,Marketing,95774,Monthly
+2026-06-01,S014,Inventory,131161,Monthly
+2026-06-01,S014,Customer Service,120516,Monthly
+2026-07-01,S014,Store Operations,150947,Monthly
+2026-07-01,S014,Marketing,106827,Monthly
+2026-07-01,S014,Inventory,101159,Monthly
+2026-07-01,S014,Customer Service,34136,Monthly
+2026-08-01,S014,Store Operations,140166,Monthly
+2026-08-01,S014,Marketing,150946,Monthly
+2026-08-01,S014,Inventory,141887,Monthly
+2026-08-01,S014,Customer Service,44742,Monthly
+01/09/2026,S014,Store Operations,152605,Monthly
+2026-09-01,S014,Marketing,135039,Monthly
+2026-09-01,S014,Inventory,172815,Monthly
+2026-09-01,S014,Customer Service,38509,Monthly
+2025-01-01,S015,Store Operations,66886,Monthly
+2025-01-01,S015,Marketing,62889,Monthly
+2025-01-01,S015,Inventory,105369,Monthly
+2025-01-01,S015,Customer Service,112869,Monthly
+2025-02-01,S015,Store Operations,141308,Monthly
+2025-02-01,S015,Marketing,31971,Monthly
+2025-02-01,S015,Inventory,109294,Monthly
+2025-02-01,S015,Customer Service,156253,Monthly
+2025-03-01,S015,Store Operations,128294,Monthly
+2025-03-01,S015,Marketing,34025,Monthly
+2025-03-01,S015,Inventory,147140,Monthly
+ 2025-03-01 ,S015,Customer Service,178224,Monthly
+2025-04-01,S015,Store Operations,98398,Monthly
+2025-04-01,S015,Marketing,155116,Monthly
+2025-04-01,S015,Inventory,71562,Monthly
+2025-04-01,S015,Customer Service,126533,Monthly
+2025-05-01,S015,Store Operations,43612,Monthly
+2025-05-01,S015,Marketing,175288,Monthly
+2025-05-01,S015,Inventory,83987,Monthly
+2025-05-01,S015,Customer Service,33213,Monthly
+2025-06-01,S015,Store Operations,128239,Monthly
+2025-06-01,S015,Marketing,120676,Monthly
+2025-06-01,S015,Inventory,161004,Monthly
+2025-06-01,S015,Customer Service,72311,Monthly
+2025-07-01,S015,Store Operations,52889,Monthly
+2025-07-01,S015,Marketing,"139,235.00",Monthly
+2025-07-01,S015,Inventory,126363,Monthly
+01-Jul-2025,S015,Customer Service,,Monthly
+2025-08-01,S015,Store Operations,167428,Monthly
+2025-08-01,S015,Marketing,26555,Monthly
+2025-08-01,S015,Inventory,92571,Monthly
+2025-08-01,S015,Customer Service,151835,Monthly
+2025-09-01,S015,Store Operations,158351,Monthly
+2025-09-01,S015,Marketing,71372,Monthly
+2025-09-01,S015,Inventory,140510,Monthly
+2025-09-01,S015,Customer Service,142272,Monthly
+2025-10-01,S015,Store Operations,59398,Monthly
+2025-10-01,S015,Marketing,135340,Monthly
+2025-10-01,S015,Inventory,40793,Monthly
+2025-10-01,S015,Customer Service,81202,Monthly
+2025-11-01,S015,Store Operations,65393,Monthly
+2025-11-01,S015,Marketing,49632,Monthly
+2025-11-01,S015,Inventory,78734,Monthly
+2025-11-01,S015,Customer Service,167923,Monthly
+2025-12-01,S015,Store Operations,106994,Monthly
+2025-12-01,S015,Marketing,117174,Monthly
+2025-12-01,S015,Inventory,78759,Monthly
+2025-12-01,S015,Customer Service,120354,Monthly
+2026-01-01,S015,Store Operations,62371,Monthly
+2026-01-01,S015,Marketing,105441,Monthly
+2026-01-01,S015,Inventory,123599,Monthly
+2026-01-01,S015,Customer Service,151718,Monthly
+2026-02-01,S015,Store Operations,176981,Monthly
+2026-02-01,S015,Marketing,155643,Monthly
+2026-02-01,S015,Inventory,80493,Monthly
+2026-02-01,S015,Customer Service,102496,Monthly
+2026-03-01,S015,Store Operations,176718,Monthly
+2026-03-01,S015,Marketing,86227,Monthly
+2026-03-01,S015,Inventory,141312,Monthly
+2026-03-01,S015,Customer Service,64344,Monthly
+2026-04-01,S015,Store Operations,90557,Monthly
+2026-04-01,S015,Marketing,137829,Monthly
+2026-04-01,S015,Inventory,88670,Monthly
+2026-04-01,S015,Customer Service,43394,Monthly
+2026-05-01,S015,Store Operations,53658,Monthly
+2026-05-01,S015,Marketing,104195,Monthly
+01/05/2026,S015,Inventory,125382,Monthly
+2026-05-01,S015,Customer Service,143928,Monthly
+2026-06-01,S015,Store Operations,154713,Monthly
+2026-06-01,S015,Marketing,115652,Monthly
+2026-06-01,S015,Inventory,108704,Monthly
+ 2026-06-01 ,S015,Customer Service,84471,Monthly
+2026-07-01,S015,Store Operations,59548,Monthly
+2026-07-01,S015,Marketing,122444,Monthly
+2026-07-01,S015,Inventory,43466,Monthly
+2026-07-01,S015,Customer Service,153200,Monthly
+2026-08-01,S015,Store Operations,141743,
+2026-08-01,S015,Marketing,34404,
+2026-08-01,S015,Inventory,120491,MONTHLY
+ 2026-08-01 ,S015,Customer Service,128598,Monthly
+2026-09-01,S015,Store Operations,29252,Monthly
+2026-09-01,S015,Marketing,44079,Monthly
+2026-09-01,S015,Inventory,159002,Monthly
+2026-09-01,S015,Customer Service,100386,Monthly
+2025-01-01,S016,Store Operations,27584,Monthly
+2025-01-01,S016,Marketing,"89,613.00",Monthly
+2025-01-01,S016,Inventory,94259,Monthly
+01/01/2025,S016,Customer Service,28570,Monthly
+2025-02-01,S016,Store Operations,128158,Monthly
+2025-02-01,S016,Marketing,60318,Monthly
+2025-02-01,S016,Inventory,39493,Monthly
+2025-02-01,S016,Customer Service,135451,Monthly
+2025-03-01,S016,Store Operations,30495,Monthly
+2025-03-01,S016,Marketing,107916,Monthly
+2025-03-01,S016,Inventory,42363, Monthly 
+2025-03-01,S016,Customer Service,176194,Monthly
+2025-04-01,S016,Store Operations,"103,159.00",Monthly
+01/04/2025,S016,Marketing,164535,Monthly
+2025-04-01,S016,Inventory,34265,Monthly
+2025-04-01,S016,Customer Service,25475,Monthly
+2025-05-01,S016,Store Operations,66604,Monthly
+ 2025-05-01 ,S016,Marketing,62611,Monthly
+2025-05-01,S016,Inventory,166643,Monthly
+2025-05-01,S016,Customer Service,75814,Monthly
+2025-06-01,S016,Store Operations,132795,Monthly
+2025-06-01,S016,Marketing,117428,Monthly
+2025-06-01,S016,Inventory,93339,Monthly
+2025-06-01,S016,Customer Service,111371,Monthly
+2025-07-01,S016,Store Operations,88963,Monthly
+2025-07-01,S016,Marketing,72512,Monthly
+2025-07-01,S016,Inventory,103826,Monthly
+2025-07-01,S016, Customer Service ,107593,Monthly
+2025-08-01,S016,Store Operations,103295,Monthly
+2025-08-01,S016,Marketing,140941,Monthly
+2025-08-01,S016,Inventory,30741, Monthly 
+2025-08-01,S016,Customer Service,157761,Monthly
+2025-09-01,S016,Store Operations,53179,Monthly
+2025-09-01,S016,Marketing,170488,Monthly
+2025-09-01,S016,Inventory,90645,Monthly
+2025-09-01,S016,Customer Service,48595,Monthly
+2025-10-01,S016,Store Operations,,Monthly
+2025-10-01,S016,Marketing,91703,Monthly
+2025-10-01,S016,Inventory,63697,Monthly
+2025-10-01,S016,Customer Service,170057,Monthly
+2025-11-01,S016,Store Operations,128757,Monthly
+2025-11-01,S016,Marketing,170969,Monthly
+2025-11-01,S016,Inventory,82925,Monthly
+2025-11-01,S016,Customer Service,127742,Monthly
+2025-12-01,S016,Store Operations,100228,Monthly
+2025-12-01,S016,Marketing,26446,Monthly
+2025-12-01,S016,Inventory,67287,Monthly
+2025-12-01,S016,Customer Service,84338,Monthly
+2026-01-01,S016,Store Operations,90647,Monthly
+2026-01-01,S016,Marketing,110861,Monthly
+2026-01-01,S016, Inventory ,45525,Monthly
+2026-01-01,S016,Customer Service,171291,Monthly
+2026-02-01,S016,Store Operations,110438,Monthly
+2026-02-01,S016,Marketing,109460,Monthly
+01-Feb-2026,S016,Inventory,108755,Monthly
+2026-02-01,S016,Customer Service,101088,Monthly
+2026-03-01,S016,Store Operations,129390,Monthly
+2026-03-01,S016,Marketing,86441,Monthly
+2026-03-01,S016,Inventory,53765,Monthly
+2026-03-01,S016,Customer Service,29635,Monthly
+01-Apr-2026,S016,Store Operations,112964,Monthly
+2026-04-01,S016,Marketing,75383,Monthly
+2026-04-01,S016,Inventory,147662,Monthly
+2026-04-01,S016,Customer Service,102785,Monthly
+2026-05-01,S016,STORE OPERATIONS,178539,Monthly
+2026-05-01,S016,Marketing,95248,Monthly
+2026-05-01,S016,Inventory,91453,Monthly
+2026-05-01,S016,Customer Service,136691,Monthly
+ 2026-06-01 ,S016,Store Operations,141733,Monthly
+2026-06-01,S016,Marketing,143186,Monthly
+2026-06-01,S016,Inventory,,Monthly
+2026-06-01,S016,Customer Service,52107,Monthly
+2026-07-01,S016,Store Operations,172229,Monthly
+2026-07-01,S016,Marketing,132758,Monthly
+2026-07-01,S016,Inventory,163001,Monthly
+2026-07-01,S016,Customer Service,174610,Monthly
+2026-08-01,S016,Store Operations,44921,Monthly
+2026-08-01,S016,Marketing,138478,Monthly
+2026-08-01,S016,Inventory,67111,Monthly
+2026-08-01,S016,Customer Service,121162,Monthly
+2026-09-01,S016,Store Operations,44794,Monthly
+2026-09-01,S016,Marketing,146692,Monthly
+2026-09-01,S016,Inventory,59522,Monthly
+2026-09-01,S016,Customer Service,25285,Monthly
+2025-01-01,S017,Store Operations,54218,Monthly
+2025-01-01,S017,Marketing,45988,Monthly
+2025-01-01,S017,Inventory,60735,Monthly
+2025-01-01,S017,Customer Service,116807,Monthly
+2025-02-01,S017,Store Operations,84013,Monthly
+2025-02-01,S017,Marketing,166338,Monthly
+2025-02-01,S017,Inventory,77293,Monthly
+2025-02-01,S017,Customer Service,110951,Monthly
+2025-03-01,S017,Store Operations,127591,Monthly
+2025-03-01,S017,Marketing,122494,Monthly
+2025-03-01,S017,Inventory,166714,Monthly
+2025-03-01,S017,Customer Service,146633,Monthly
+2025-04-01,S017,Store Operations,102830,Monthly
+2025-04-01,S017,Marketing,82770,Monthly
+2025-04-01,S017,Inventory,168402,Monthly
+2025-04-01,S017,Customer Service,52976,Monthly
+2025-05-01,S017,Store Operations,164862,Monthly
+01/05/2025,S017,Marketing,62515,Monthly
+2025-05-01,S017,Inventory,38458,Monthly
+2025-05-01,S017,Customer Service,66862,Monthly
+2025-06-01,S017,Store Operations,156348,Monthly
+2025-06-01,S017,Marketing,101222,Monthly
+2025-06-01,S017,Inventory,167302,Monthly
+,S017,Customer Service,169820,Monthly
+2025-07-01,S017,Store Operations,40312,Monthly
+2025-07-01,S017,Marketing,73341,Monthly
+ 2025-07-01 ,S017,Inventory,165789,Monthly
+2025-07-01,S017,Customer Service,53998,Monthly
+01-Aug-2025,S017,Store Operations,83206,Monthly
+2025-08-01,S017,Marketing,45003,Monthly
+2025-08-01,S017,Inventory,163858,Monthly
+2025-08-01,S017,Customer Service,149666,Monthly
+2025-09-01,S017,Store Operations,111497,Monthly
+2025-09-01,S017,Marketing,102701,Monthly
+ 2025-09-01 ,S017,,100277,Monthly
+2025-09-01,S017,Customer Service,56650,Monthly
+2025-10-01,S017,Store Operations,110096,Monthly
+2025-10-01,S017,Marketing,138021,Monthly
+2025-10-01,S017,Inventory,66033,Monthly
+2025-10-01,S017,Customer Service,71054,Monthly
+2025-11-01,S017,Store Operations,65974,Monthly
+2025-11-01,S017,Marketing,140413,Monthly
+2025-11-01,S017,Inventory,38656,Monthly
+2025-11-01,S017,Customer Service,174946,Monthly
+2025-12-01,S017,Store Operations,63516,Monthly
+2025-12-01,S017,Marketing,179308,Monthly
+2025-12-01,S017,Inventory,160111,Monthly
+2025-12-01,S017,Customer Service,143627,Monthly
+2026-01-01,S017,Store Operations,51627,Monthly
+2026-01-01,S017,Marketing,44081,Monthly
+2026-01-01,S017,Inventory,65252,Monthly
+2026-01-01,S017,Customer Service,141345,Monthly
+2026-02-01,S017,Store Operations,62809,Monthly
+2026-02-01,S017,Marketing,83113,Monthly
+2026-02-01,S017,Inventory,35813,Monthly
+2026-02-01,S017,Customer Service,39599,Monthly
+2026-03-01,S017,Store Operations,36486,Monthly
+2026-03-01,S017,Marketing,155071,Monthly
+2026-03-01,S017, Inventory ,158822,Monthly
+2026-03-01,S017,Customer Service,63483,Monthly
+2026-04-01,S017,Store Operations,94657,Monthly
+2026-04-01,S017,Marketing,130080,Monthly
+2026-04-01,S017,Inventory,96065,Monthly
+2026-04-01,S017,,168920,Monthly
+2026-05-01,S017,STORE OPERATIONS,46652,Monthly
+ 2026-05-01 ,S017,Marketing,"₹58,149.00",Monthly
+2026-05-01,S017,Inventory,148166,Monthly
+2026-05-01,S017,Customer Service,68141,Monthly
+2026-06-01,S017,Store Operations,68347,Monthly
+2026-06-01,S017,Marketing,36481,Monthly
+2026-06-01,S017,Inventory,129945,Monthly
+2026-06-01,S017,Customer Service,29261,Monthly
+2026-07-01,S017,Store Operations,174432,Monthly
+2026-07-01,S017,Marketing,81133,Monthly
+2026-07-01,S017,Inventory,75469,Monthly
+2026-07-01,S017,Customer Service,71408,Monthly
+2026-08-01,S017,Store Operations,86067,Monthly
+2026-08-01,S017,Marketing,126221,Monthly
+2026-08-01,S017,Inventory,99685,Monthly
+2026-08-01,S017,CUSTOMER SERVICE,71709,Monthly
+2026-09-01,S017,Store Operations,"₹89,512.00",Monthly
+2026-09-01,S017,Marketing,122280,Monthly
+2026-09-01,S017,Inventory,65996,Monthly
+2026-09-01,S017,Customer Service,62415,Monthly
+2025-01-01,S018,Store Operations,75598,Monthly
+2025-01-01,S018,Marketing,53915,Monthly
+2025-01-01,S018,Inventory,84845,Monthly
+2025-01-01,S018,Customer Service,156929,Monthly
+2025-02-01,S018,Store Operations,150992,Monthly
+2025-02-01,S018,Marketing,62131,Monthly
+2025-02-01,S018,Inventory,150428,Monthly
+2025-02-01,S018,Customer Service,106726,Monthly
+2025-03-01,S018,Store Operations,27707,Monthly
+2025-03-01,S018,Marketing,91425,Monthly
+2025-03-01,S018,Inventory,127052,Monthly
+2025-03-01,S018,Customer Service,86389,Monthly
+2025-04-01,S018,Store Operations,134633,Monthly
+2025-04-01,S018,Marketing,38843,Monthly
+2025-04-01,S018,Inventory,171886,Monthly
+2025-04-01,S018,Customer Service,161879,Monthly
+2025-05-01,S018,Store Operations,46792,Monthly
+2025-05-01,S018,Marketing,131518,Monthly
+2025-05-01,S018,Inventory,63658,Monthly
+2025-05-01,S018,Customer Service,53832,Monthly
+2025-06-01,S018,Store Operations,137254,Monthly
+2025-06-01,S018,Marketing,167004,Monthly
+ 2025-06-01 ,S018,Inventory,61216,Monthly
+2025-06-01,S018,Customer Service,60806,Monthly
+2025-07-01,S018,Store Operations,37391,Monthly
+2025-07-01,S018,Marketing,48728,Monthly
+2025-07-01,S018,Inventory,125364,Monthly
+2025-07-01,S018,Customer Service,131365,Monthly
+2025-08-01,S018,Store Operations,61400,Monthly
+2025-08-01,S018,Marketing,103866,Monthly
+2025-08-01,S018,Inventory,37383,Monthly
+2025-08-01,S018,Customer Service,"₹66,094.00",Monthly
+2025-09-01,S018,Store Operations,170142,Monthly
+2025-09-01,S018,Marketing,164153,Monthly
+2025-09-01,S018,Inventory,176182,Monthly
+2025-09-01,S018,Customer Service,30369,Monthly
+2025-10-01,S018,Store Operations,40998,Monthly
+2025-10-01,S018, Marketing ,128568,Monthly
+2025-10-01,S018,Inventory,88039,Monthly
+2025-10-01,S018,Customer Service,96104,Monthly
+2025-11-01,S018,Store Operations,54799,Monthly
+2025-11-01,S018,Marketing,82937,Monthly
+2025-11-01,S018,Inventory,41046,Monthly
+2025-11-01,S018,Customer Service,171390,Monthly
+2025-12-01,S018,Store Operations,85246,Monthly
+2025-12-01,S018,Marketing,116539,Monthly
+2025-12-01,S018,Inventory,127680,Monthly
+2025-12-01,S018,Customer Service,44336,Monthly
+2026-01-01,S018,Store Operations,167929,MONTHLY
+2026-01-01,S018,Marketing,150582,Monthly
+2026-01-01,S018,Inventory,,Monthly
+2026-01-01,S018,Customer Service,82852,Monthly
+2026-02-01,S018,Store Operations,126138,Monthly
+2026-02-01,S018,Marketing,51369,Monthly
+2026-02-01,S018,Inventory,59406,Monthly
+2026-02-01,S018,Customer Service,118976,Monthly
+2026-03-01,S018,Store Operations,33813,Monthly
+2026-03-01,S018,Marketing,158956,Monthly
+2026-03-01,S018,Inventory,166840,Monthly
+2026-03-01,S018,Customer Service,109525,Monthly
+2026-04-01,S018,Store Operations,100732,Monthly
+2026-04-01,S018,Marketing,163932,Monthly
+2026-04-01,S018,Inventory,95251,Monthly
+2026-04-01,S018,Customer Service,137750,Monthly
+2026-05-01,S018,Store Operations,57024,Monthly
+2026-05-01,S018,Marketing,161255,Monthly
+2026-05-01,S018,Inventory,102804,Monthly
+2026-05-01,S018,Customer Service,143717,Monthly
+2026-06-01,S018,Store Operations,127900,Monthly
+2026-06-01,S018,Marketing,27086,Monthly
+2026-06-01,S018,Inventory,58246,Monthly
+2026-06-01,S018,Customer Service,132616,Monthly
+2026-07-01,S018,Store Operations,149342,Monthly
+2026-07-01,S018,Marketing,90036,Monthly
+2026-07-01,S018,Inventory,107586,Monthly
+2026-07-01,S018,Customer Service,105201,Monthly
+2026-08-01,S018,Store Operations,126446,Monthly
+2026-08-01,S018,Marketing,50978,Monthly
+2026-08-01,S018,Inventory,,Monthly
+2026-08-01,S018,Customer Service,86795,Monthly
+2026-09-01,S018,Store Operations,38339,Monthly
+2026-09-01,S018,Marketing,147374,Monthly
+2026-09-01,S018,Inventory,64913,Monthly
+2026-09-01,S018,Customer Service,88855,Monthly
+2025-01-01,S019,Store Operations,53408,Monthly
+2025-01-01,S019,Marketing,103430,Monthly
+2025-01-01,S019,Inventory,61306,Monthly
+2025-01-01,S019,Customer Service,142879,Monthly
+2025-02-01,S019,Store Operations,45236,Monthly
+2025-02-01,S019,Marketing,73258,Monthly
+2025-02-01,S019,Inventory,76398,Monthly
+2025-02-01,S019,Customer Service,59450,Monthly
+2025-03-01,S019,Store Operations,110883,Monthly
+2025-03-01,S019,Marketing,128488,Monthly
+2025-03-01,S019,Inventory,130870,Monthly
+2025-03-01,S019,Customer Service,175068,Monthly
+2025-04-01,S019,Store Operations,68042,Monthly
+2025-04-01,S019,Marketing,78998,Monthly
+2025-04-01,S019,Inventory,77582,Monthly
+2025-04-01,S019,Customer Service,46629,Monthly
+2025-05-01,S019,Store Operations,31318,Monthly
+2025-05-01,S019,Marketing,44790,Monthly
+2025-05-01,S019,Inventory,110099,Monthly
+2025-05-01,S019,Customer Service,92467,Monthly
+2025-06-01,S019,Store Operations,111734,Monthly
+2025-06-01,S019,Marketing,75248,Monthly
+2025-06-01,S019,Inventory,159087,Monthly
+2025-06-01,S019,Customer Service,127610,Monthly
+2025-07-01,S019,Store Operations,138875,Monthly
+2025-07-01,S019,Marketing,102843,Monthly
+2025-07-01,S019,Inventory,62291,Monthly
+2025-07-01,S019,Customer Service,84070,Monthly
+2025-08-01,S019,Store Operations,173958,Monthly
+2025-08-01,S019,Marketing,167065,Monthly
+2025-08-01,S019,Inventory,166330,Monthly
+01-Aug-2025,S019,Customer Service,33456,Monthly
+2025-09-01,S019,Store Operations,83647,Monthly
+2025-09-01,S019,Marketing,128844,Monthly
+2025-09-01,S019,Inventory,113922,Monthly
+2025-09-01,S019,Customer Service,89672,Monthly
+2025-10-01,S019,Store Operations,27244,Monthly
+2025-10-01,S019,Marketing,118688,Monthly
+2025-10-01,S019,Inventory,149535,Monthly
+2025-10-01,S019,Customer Service,86958,Monthly
+2025-11-01,S019,Store Operations,50189,Monthly
+2025-11-01,S019,Marketing,71360,Monthly
+2025-11-01,S019,Inventory,79592,Monthly
+2025-11-01,S019,Customer Service,124299,Monthly
+2025-12-01,S019,Store Operations,92749,Monthly
+2025-12-01,S019,Marketing,88934,Monthly
+2025-12-01,S019,Inventory,61792,Monthly
+2025-12-01,S019,Customer Service,36326,Monthly
+2026-01-01,S019,Store Operations,146709,Monthly
+2026-01-01,S019,Marketing,100073,Monthly
+01-Jan-2026,S019,Inventory,109251,Monthly
+2026-01-01,S019,Customer Service,90591,Monthly
+2026-02-01,S019,Store Operations,56032,Monthly
+2026-02-01,S019,Marketing,143667,Monthly
+2026-02-01,S019,Inventory,154317,Monthly
+2026-02-01,S019,Customer Service,34225,Monthly
+2026-03-01,S019,Store Operations,85332,Monthly
+2026-03-01,S019,MARKETING,27837,Monthly
+2026-03-01,S019,Inventory,33866,Monthly
+2026-03-01,S019,Customer Service,175289,Monthly
+2026-04-01,S019,Store Operations,62542,Monthly
+2026-04-01,S019,Marketing,149741,Monthly
+2026-04-01,S019,Inventory,106089,Monthly
+2026-04-01,S019,Customer Service,168660,Monthly
+2026-05-01,S019, Store Operations ,30838,Monthly
+2026-05-01,S019,Marketing,80468,Monthly
+2026-05-01,S019, Inventory ,116848,Monthly
+2026-05-01,S019,Customer Service,143325,Monthly
+,S019,Store Operations,25540,Monthly
+2026-06-01,S019,Marketing,104023,Monthly
+2026-06-01,S019,Inventory,53577,Monthly
+2026-06-01,S019,Customer Service,95464, Monthly 
+2026-07-01,S019,Store Operations,145873,Monthly
+2026-07-01,S019,Marketing,42328,
+2026-07-01,S019,Inventory,159845,Monthly
+2026-07-01,S019,Customer Service,63464,Monthly
+2026-08-01,S019,Store Operations,132727,Monthly
+2026-08-01,S019,Marketing,35337,Monthly
+2026-08-01,S019,Inventory,57344,Monthly
+2026-08-01,S019,Customer Service,144797,Monthly
+2026-09-01,S019,Store Operations,88164,Monthly
+2026-09-01,S019,MARKETING,63055,Monthly
+2026-09-01,S019,Inventory,143401,Monthly
+2026-09-01,S019,Customer Service,71592,Monthly
+2025-01-01,S020,Store Operations,27175,Monthly
+2025-01-01,S020,Marketing,155369,Monthly
+2025-01-01,S020,Inventory,44441,Monthly
+2025-01-01,S020,Customer Service,165221,Monthly
+2025-02-01,S020,Store Operations,36664,Monthly
+2025-02-01,S020,Marketing,116810,Monthly
+2025-02-01,S020,Inventory,148440,Monthly
+2025-02-01,S020,Customer Service,118291,Monthly
+2025-03-01,S020,Store Operations,53570,Monthly
+2025-03-01,S020,Marketing,54708,Monthly
+2025-03-01,S020,Inventory,97884,Monthly
+2025-03-01,S020,Customer Service,46134,
+2025-04-01,S020,Store Operations,113879,Monthly
+2025-04-01,S020,Marketing,111888,Monthly
+2025-04-01,S020,Inventory,88959,Monthly
+01/04/2025,S020,Customer Service,133500,Monthly
+2025-05-01,S020,Store Operations,55839,Monthly
+2025-05-01,S020,Marketing,139516,Monthly
+2025-05-01,S020,Inventory,79337,Monthly
+2025-05-01,S020,Customer Service,82398,Monthly
+2025-06-01,S020,Store Operations,86939,Monthly
+,S020,Marketing,64959,Monthly
+2025-06-01,S020,Inventory,51616,Monthly
+2025-06-01,S020,Customer Service,38732,Monthly
+2025-07-01,S020,Store Operations,40469,Monthly
+2025-07-01,S020,Marketing,120775,Monthly
+2025-07-01,S020,Inventory,37653,Monthly
+2025-07-01,S020,Customer Service,114812,Monthly
+2025-08-01,S020,Store Operations,121991,Monthly
+2025-08-01,S020,Marketing,99934,Monthly
+2025-08-01,S020,Inventory,166638,Monthly
+2025-08-01,S020,CUSTOMER SERVICE,115454,Monthly
+2025-09-01,S020,Store Operations,25965,Monthly
+2025-09-01,S020,Marketing,68480,Monthly
+2025-09-01,S020,Inventory,95392,Monthly
+2025-09-01,S020,Customer Service,97058,Monthly
+2025-10-01,S020,Store Operations,165409,Monthly
+2025-10-01,S020,Marketing,103063,Monthly
+2025-10-01,S020,Inventory,107147,Monthly
+2025-10-01,S020,Customer Service,88047,Monthly
+2025-11-01,S020,Store Operations,114054,Monthly
+2025-11-01,S020,Marketing,37469,Monthly
+2025-11-01,S020,,174214,Monthly
+2025-11-01,S020,Customer Service,156612,Monthly
+01-Dec-2025,S020,Store Operations,163540,Monthly
+2025-12-01,S020,Marketing,137530,Monthly
+2025-12-01,S020,Inventory,113330,Monthly
+2025-12-01,S020,Customer Service,31964,Monthly
+2026-01-01,S020,Store Operations,30572,Monthly
+2026-01-01,S020,Marketing,71850,Monthly
+2026-01-01,S020,Inventory,156453,Monthly
+2026-01-01,S020,Customer Service,138179,Monthly
+2026-02-01,S020,Store Operations,74880,Monthly
+2026-02-01,S020,Marketing,91546,Monthly
+2026-02-01,S020,Inventory,35545,Monthly
+2026-02-01,S020,Customer Service,177456,Monthly
+2026-03-01,S020,Store Operations,99838,Monthly
+2026-03-01,S020,Marketing,77686,Monthly
+2026-03-01,S020,Inventory,36967,Monthly
+2026-03-01,S020,Customer Service,28086,Monthly
+2026-04-01,S020,Store Operations,77142,Monthly
+2026-04-01,S020,Marketing,168946, Monthly 
+2026-04-01,S020,Inventory,79971,Monthly
+2026-04-01,S020,Customer Service,163929,Monthly
+2026-05-01,S020,Store Operations,159822,Monthly
+2026-05-01,S020,Marketing,69452,Monthly
+2026-05-01,S020,Inventory,36281,Monthly
+2026-05-01,S020,Customer Service,110435,Monthly
+2026-06-01,S020,Store Operations,52121,Monthly
+2026-06-01,S020,Marketing,63818,Monthly
+2026-06-01,S020,Inventory,51870,Monthly
+2026-06-01,S020,Customer Service,170628,Monthly
+2026-07-01,S020,Store Operations,134534,Monthly
+2026-07-01,S020,Marketing,40589,Monthly
+2026-07-01,S020,Inventory,136268,Monthly
+2026-07-01,S020,Customer Service,173967,Monthly
+2026-08-01,S020,Store Operations,108184,Monthly
+2026-08-01,S020,Marketing,124780,Monthly
+01/08/2026,S020,Inventory,151341,Monthly
+2026-08-01,S020,Customer Service,26922,Monthly
+2026-09-01,S020,Store Operations,31957,Monthly
+2026-09-01,S020,Marketing,91725,Monthly
+2026-09-01,S020,Inventory,136829,Monthly
+2026-09-01,S020,Customer Service,134599,Monthly
+2025-01-01,S021,Store Operations,165190,Monthly
+2025-01-01,S021,Marketing,99951,Monthly
+2025-01-01,S021,Inventory,94536,Monthly
+2025-01-01,S021,Customer Service,100490,Monthly
+2025-02-01,S021,Store Operations,120105,Monthly
+2025-02-01,S021,Marketing,179371,Monthly
+2025-02-01,S021,Inventory,146325,Monthly
+2025-02-01,S021,Customer Service,110772,Monthly
+2025-03-01,S021,Store Operations,57677,Monthly
+2025-03-01,S021,Marketing,70722,Monthly
+2025-03-01,S021,Inventory,71489,Monthly
+2025-03-01,S021,Customer Service,53118,Monthly
+2025-04-01,S021,Store Operations,75203,Monthly
+2025-04-01,S021,Marketing,159173,Monthly
+2025-04-01,S021,Inventory,132330,Monthly
+2025-04-01,S021,Customer Service,33001,Monthly
+2025-05-01,S021,Store Operations,162545,Monthly
+2025-05-01,S021,Marketing,122754,Monthly
+2025-05-01,S021,Inventory,25460,Monthly
+2025-05-01,S021,Customer Service,131176,Monthly
+2025-06-01,S021,Store Operations,83809,Monthly
+2025-06-01,S021,Marketing,109021,Monthly
+2025-06-01,S021,Inventory,136009,Monthly
+2025-06-01,S021,Customer Service,43295,Monthly
+2025-07-01,S021,Store Operations,174423,Monthly
+2025-07-01,S021,Marketing,77021,Monthly
+2025-07-01,S021,Inventory,122491,Monthly
+2025-07-01,S021,Customer Service,102937,Monthly
+2025-08-01,S021,Store Operations,109435,Monthly
+01/08/2025,S021,Marketing,72582,Monthly
+2025-08-01,S021,Inventory,115021,Monthly
+2025-08-01,S021,Customer Service,64638,Monthly
+2025-09-01,S021,Store Operations,97823,Monthly
+2025-09-01,S021,Marketing,25112,Monthly
+2025-09-01,S021,Inventory,120561,Monthly
+01/09/2025,S021,Customer Service,176873,Monthly
+2025-10-01,S021,Store Operations,100168,Monthly
+2025-10-01,S021,Marketing,35545,Monthly
+2025-10-01,S021,Inventory,135710,Monthly
+2025-10-01,S021,Customer Service,93353,Monthly
+2025-11-01,S021,Store Operations,103356,Monthly
+2025-11-01,S021,Marketing,41955,Monthly
+2025-11-01,S021,Inventory,123941,Monthly
+2025-11-01,S021,Customer Service,175289,Monthly
+2025-12-01,S021,Store Operations,31556,Monthly
+2025-12-01,S021,Marketing,68051,Monthly
+ 2025-12-01 ,S021,Inventory,29950,Monthly
+2025-12-01,S021,Customer Service,66295,Monthly
+2026-01-01,S021,Store Operations,44897,Monthly
+2026-01-01,S021,Marketing,71153,Monthly
+2026-01-01,S021,Inventory,90603,Monthly
+01-Jan-2026,S021,Customer Service,97213,Monthly
+2026-02-01,S021,Store Operations,124544,Monthly
+2026-02-01,S021,Marketing,68616,Monthly
+2026-02-01,S021,Inventory,39599,Monthly
+2026-02-01,S021,Customer Service,65963,Monthly
+2026-03-01,S021,Store Operations,93721,Monthly
+2026-03-01,S021,Marketing,94592,Monthly
+2026-03-01,S021,Inventory,71974,Monthly
+2026-03-01,S021,Customer Service,116870,Monthly
+2026-04-01,S021,Store Operations,127731,Monthly
+2026-04-01,S021,Marketing,75829,Monthly
+2026-04-01,S021,Inventory,62927,Monthly
+2026-04-01,S021,Customer Service,174097,Monthly
+2026-05-01,S021,Store Operations,67297,Monthly
+2026-05-01,S021,Marketing,45815,Monthly
+2026-05-01,S021,Inventory,38388,Monthly
+2026-05-01,S021,Customer Service,68216,Monthly
+2026-06-01,S021,Store Operations,36008,Monthly
+2026-06-01,S021,Marketing,160028,Monthly
+2026-06-01,S021,Inventory,151616,Monthly
+2026-06-01,S021,Customer Service,54922,Monthly
+2026-07-01,S021,Store Operations,,Monthly
+2026-07-01,S021,Marketing,64627,MONTHLY
+2026-07-01,S021,Inventory,85136,Monthly
+01/07/2026,S021,Customer Service,65676,Monthly
+2026-08-01,S021,Store Operations,174700,Monthly
+2026-08-01,S021,Marketing,163665,Monthly
+2026-08-01,S021,Inventory,110368,Monthly
+2026-08-01,S021,Customer Service,51864,Monthly
+2026-09-01,S021,Store Operations,93960,Monthly
+2026-09-01,S021,Marketing,26755,Monthly
+2026-09-01,S021,Inventory,60588,Monthly
+2026-09-01,S021,Customer Service,84322,Monthly
+2025-01-01,S022,Store Operations,84180,Monthly
+2025-01-01,S022,Marketing,80094,Monthly
+2025-01-01,S022,Inventory,25903,Monthly
+2025-01-01,S022,Customer Service,154764,Monthly
+2025-02-01,S022,Store Operations,76986,Monthly
+2025-02-01,S022,Marketing,125511,Monthly
+2025-02-01,S022,Inventory,101486,Monthly
+2025-02-01,S022,Customer Service,158880,Monthly
+2025-03-01,S022,Store Operations,37357,Monthly
+2025-03-01,S022,Marketing,40763,Monthly
+2025-03-01,S022,Inventory,56794,Monthly
+2025-03-01,S022,Customer Service,157543,Monthly
+2025-04-01,S022,Store Operations,106828,Monthly
+2025-04-01,S022,Marketing,44687,Monthly
+2025-04-01,S022,Inventory,122309,Monthly
+2025-04-01,S022,Customer Service,78495,Monthly
+2025-05-01,S022, Store Operations ,32981,Monthly
+2025-05-01,S022,Marketing,104884,Monthly
+2025-05-01,S022,Inventory,59597,Monthly
+2025-05-01,S022,Customer Service,42093,Monthly
+2025-06-01,S022,Store Operations,166597,Monthly
+2025-06-01,S022,Marketing,164441,Monthly
+2025-06-01,S022,Inventory,118160,Monthly
+2025-06-01,S022, Customer Service ,142424,Monthly
+2025-07-01,S022,Store Operations,124739,Monthly
+2025-07-01,S022,Marketing,59945,Monthly
+2025-07-01,S022,Inventory,171679,Monthly
+01/07/2025,S022,Customer Service,32554,Monthly
+2025-08-01,S022,Store Operations,70994,Monthly
+2025-08-01,S022,MARKETING,95221,Monthly
+2025-08-01,S022,Inventory,125398,Monthly
+2025-08-01,S022,Customer Service,32554,Monthly
+2025-09-01,S022,Store Operations,139942,Monthly
+01/09/2025,S022,Marketing,107328,Monthly
+2025-09-01,S022,Inventory,145606,Monthly
+2025-09-01,S022,Customer Service,86678,Monthly
+2025-10-01,S022,Store Operations,51243,Monthly
+2025-10-01,S022,Marketing,46954,Monthly
+2025-10-01,S022,Inventory,107874,Monthly
+2025-10-01,S022,Customer Service,108669,Monthly
+2025-11-01,S022,Store Operations,132391,Monthly
+ 2025-11-01 ,S022,Marketing,33534,Monthly
+2025-11-01,S022,Inventory,97700,Monthly
+2025-11-01,S022,Customer Service,"48,845.00",Monthly
+2025-12-01,S022,Store Operations,168784,Monthly
+2025-12-01,S022,Marketing,158165,Monthly
+2025-12-01,S022,Inventory,107314,Monthly
+2025-12-01,S022,Customer Service,49624,Monthly
+2026-01-01,S022,Store Operations,80501,Monthly
+2026-01-01,S022,Marketing,65622,Monthly
+2026-01-01,S022,Inventory,87380,Monthly
+2026-01-01,S022,Customer Service,61702, Monthly 
+ 2026-02-01 ,S022,Store Operations,165027,Monthly
+2026-02-01,S022,Marketing,50311,Monthly
+2026-02-01,S022,Inventory,174743,Monthly
+2026-02-01,S022,Customer Service,170086,Monthly
+2026-03-01,S022,Store Operations,45190,Monthly
+2026-03-01,S022,Marketing,28821,Monthly
+2026-03-01,S022,Inventory,145546,Monthly
+2026-03-01,S022,Customer Service,109889,Monthly
+2026-04-01,S022,Store Operations,163789,Monthly
+2026-04-01,S022,Marketing,121922,Monthly
+2026-04-01,S022,Inventory,61207,Monthly
+2026-04-01,S022,Customer Service,122504,MONTHLY
+2026-05-01,S022,Store Operations,60997,Monthly
+2026-05-01,S022,Marketing,120645,Monthly
+2026-05-01,S022,Inventory,35282,Monthly
+2026-05-01,S022,Customer Service,58655,Monthly
+2026-06-01,S022,Store Operations,61531,Monthly
+2026-06-01,S022,Marketing,169951, Monthly 
+2026-06-01,S022,Inventory,122262,Monthly
+2026-06-01,S022,Customer Service,68553,Monthly
+2026-07-01,S022,Store Operations,56537,Monthly
+2026-07-01,S022,Marketing,98727,Monthly
+2026-07-01,S022,Inventory,53213,Monthly
+2026-07-01,S022,Customer Service,172496,Monthly
+2026-08-01,S022,Store Operations,55554,Monthly
+2026-08-01,S022,Marketing,101815,Monthly
+2026-08-01,S022,Inventory,165606,Monthly
+2026-08-01,S022,Customer Service,64953,Monthly
+ 2026-09-01 ,S022,Store Operations,66977,Monthly
+2026-09-01,S022,Marketing,134489,Monthly
+2026-09-01,S022,Inventory,136351,Monthly
+2026-09-01,S022,Customer Service,31349,Monthly
+2025-01-01,S023, Store Operations ,58604,Monthly
+2025-01-01,S023,Marketing,101914,Monthly
+2025-01-01,S023,Inventory,38818,Monthly
+2025-01-01,S023,Customer Service,92688,Monthly
+2025-02-01,S023,Store Operations,130375,Monthly
+2025-02-01,S023,Marketing,41553,Monthly
+2025-02-01,S023,Inventory,64187,Monthly
+2025-02-01,S023,Customer Service,176680,Monthly
+2025-03-01,S023,Store Operations,116046,Monthly
+2025-03-01,S023,Marketing,163415,Monthly
+2025-03-01,S023,Inventory,145815,Monthly
+2025-03-01,S023,Customer Service,68553,Monthly
+2025-04-01,S023,Store Operations,106129,Monthly
+2025-04-01,S023,Marketing,113120,Monthly
+2025-04-01,S023,Inventory,125335,Monthly
+2025-04-01,S023,Customer Service,153256,Monthly
+2025-05-01,S023,Store Operations,139389,Monthly
+2025-05-01,S023,,39733,Monthly
+2025-05-01,S023,Inventory,38366,Monthly
+2025-05-01,S023,Customer Service,153154,Monthly
+2025-06-01,S023,Store Operations,27855,Monthly
+2025-06-01,S023,Marketing,58518,Monthly
+2025-06-01,S023,Inventory,100215,Monthly
+2025-06-01,S023,Customer Service,147345,Monthly
+2025-07-01,S023,Store Operations,41101,Monthly
+2025-07-01,S023,Marketing,172364,Monthly
+2025-07-01,S023,Inventory,44858,Monthly
+2025-07-01,S023,Customer Service,119551,Monthly
+2025-08-01,S023,Store Operations,154546,Monthly
+2025-08-01,S023,Marketing,99926,Monthly
+2025-08-01,S023,Inventory,138820,Monthly
+2025-08-01,S023,Customer Service,99743,Monthly
+2025-09-01,S023,Store Operations,26242,Monthly
+2025-09-01,S023,Marketing,75861,Monthly
+2025-09-01,S023,,64962,Monthly
+2025-09-01,S023,Customer Service,49443,Monthly
+2025-10-01,S023,Store Operations,100126,Monthly
+2025-10-01,S023,Marketing,63415,Monthly
+2025-10-01,S023,Inventory,174307,Monthly
+ 2025-10-01 ,S023,Customer Service,"₹33,202.00",Monthly
+2025-11-01,S023,Store Operations,144532,Monthly
+2025-11-01,S023,Marketing,94100,Monthly
+2025-11-01,S023,Inventory,166344,Monthly
+2025-11-01,S023,Customer Service,37048,Monthly
+2025-12-01,S023,Store Operations,163765,Monthly
+2025-12-01,S023,Marketing,157414,Monthly
+2025-12-01,S023,Inventory,43072,Monthly
+2025-12-01,S023,Customer Service,144394,Monthly
+2026-01-01,S023,Store Operations,31902,Monthly
+2026-01-01,S023,MARKETING,62637,Monthly
+2026-01-01,S023,Inventory,89793,Monthly
+2026-01-01,S023,Customer Service,32452,Monthly
+2026-02-01,S023,Store Operations,153501,Monthly
+2026-02-01,S023,Marketing,87197,Monthly
+2026-02-01,S023,Inventory,162422,Monthly
+2026-02-01,S023,Customer Service,38096,Monthly
+2026-03-01,S023,Store Operations,113068,Monthly
+2026-03-01,S023,Marketing,148140,Monthly
+01-Mar-2026,S023,Inventory,35256,Monthly
+2026-03-01,S023,Customer Service,64674,Monthly
+2026-04-01,S023,Store Operations,95808,Monthly
+2026-04-01,S023,Marketing,109909,Monthly
+2026-04-01,S023,Inventory,26059,Monthly
+2026-04-01,S023,Customer Service,122192,Monthly
+2026-05-01,S023,Store Operations,162695,Monthly
+2026-05-01,S023,Marketing,115236,Monthly
+2026-05-01,S023,Inventory,85259,Monthly
+2026-05-01,S023,Customer Service,106227,Monthly
+2026-06-01,S023,Store Operations,136165,Monthly
+2026-06-01,S023,Marketing,60430,Monthly
+2026-06-01,S023,Inventory,141968,Monthly
+2026-06-01,S023,Customer Service,136989,Monthly
+01/07/2026,S023,Store Operations,65173,Monthly
+2026-07-01,S023,Marketing,79306,Monthly
+2026-07-01,S023,Inventory,136849,Monthly
+2026-07-01,S023,Customer Service,142173,Monthly
+2026-08-01,S023,Store Operations,51586,Monthly
+2026-08-01,S023,Marketing,93762,Monthly
+2026-08-01,S023,Inventory,138761,Monthly
+2026-08-01,S023,Customer Service,99829,Monthly
+2026-09-01,S023,Store Operations,128937,Monthly
+2026-09-01,S023,Marketing,41736,Monthly
+2026-09-01,S023,Inventory,101024,Monthly
+2026-09-01,S023,Customer Service,42746,Monthly
+2025-01-01,S024,Store Operations,"₹103,928.00",Monthly
+2025-01-01,S024,Marketing,154008,Monthly
+2025-01-01,S024,Inventory,127285,Monthly
+2025-01-01,S024,Customer Service,62587, Monthly 
+2025-02-01,S024,Store Operations,25822,Monthly
+2025-02-01,S024,Marketing,45962,Monthly
+2025-02-01,S024,Inventory,174347,Monthly
+2025-02-01,S024,Customer Service,121816,Monthly
+2025-03-01,S024,Store Operations,79380,Monthly
+2025-03-01,S024,Marketing,123051,Monthly
+2025-03-01,S024,Inventory,109010,Monthly
+01/03/2025,S024,Customer Service,134184,Monthly
+2025-04-01,S024,Store Operations,119495,Monthly
+2025-04-01,S024,Marketing,150773,Monthly
+2025-04-01,S024, Inventory ,26666,Monthly
+2025-04-01,S024,Customer Service,77602,Monthly
+2025-05-01,S024,Store Operations,145838,Monthly
+2025-05-01,S024,Marketing,146786,Monthly
+2025-05-01,S024,Inventory,51382,Monthly
+2025-05-01,S024,Customer Service,141062,Monthly
+2025-06-01,S024,Store Operations,87646,Monthly
+2025-06-01,S024,Marketing,140849,Monthly
+2025-06-01,S024,Inventory,50929,Monthly
+2025-06-01,S024,Customer Service,34856,Monthly
+2025-07-01,S024,Store Operations,105825,Monthly
+2025-07-01,S024,Marketing,134488,Monthly
+2025-07-01,S024,Inventory,138155,Monthly
+2025-07-01,S024,CUSTOMER SERVICE,168602,Monthly
+2025-08-01,S024,Store Operations,50590,Monthly
+01/08/2025,S024,Marketing,103965,Monthly
+2025-08-01,S024,Inventory,31840,Monthly
+2025-08-01,S024,Customer Service,40927,Monthly
+2025-09-01,S024,Store Operations,72409,Monthly
+2025-09-01,S024,Marketing,34680,Monthly
+2025-09-01,S024,Inventory,86597,Monthly
+2025-09-01,S024,Customer Service,156364,Monthly
+2025-10-01,S024,Store Operations,127036,Monthly
+2025-10-01,S024,Marketing,124551,Monthly
+2025-10-01,S024,Inventory,82080,Monthly
+2025-10-01,S024,Customer Service,98799,Monthly
+2025-11-01,S024,Store Operations,146248,Monthly
+2025-11-01,S024,Marketing,73276,Monthly
+2025-11-01,S024,Inventory,168330,Monthly
+2025-11-01,S024,Customer Service,47498,Monthly
+2025-12-01,S024,Store Operations,90834,Monthly
+2025-12-01,S024,Marketing,31041,Monthly
+2025-12-01,S024,Inventory,179785,Monthly
+2025-12-01,S024,Customer Service,74654,Monthly
+2026-01-01,S024,Store Operations,137149,Monthly
+2026-01-01,S024,Marketing,107763,Monthly
+2026-01-01,S024,Inventory,179461,Monthly
+2026-01-01,S024,Customer Service,53002,Monthly
+2026-02-01,S024,Store Operations,126614,Monthly
+2026-02-01,S024,Marketing,124839,Monthly
+2026-02-01,S024,Inventory,42465,Monthly
+2026-02-01,S024,Customer Service,157266,Monthly
+2026-03-01,S024,Store Operations,175002,Monthly
+2026-03-01,S024,Marketing,110863,Monthly
+01/03/2026,S024,Inventory,116821,Monthly
+2026-03-01,S024,Customer Service,159285,Monthly
+2026-04-01,S024,Store Operations,51100,Monthly
+2026-04-01,S024,Marketing,34467,Monthly
+2026-04-01,S024,Inventory,135542,Monthly
+2026-04-01,S024,Customer Service,120521,Monthly
+2026-05-01,S024,Store Operations,121425,Monthly
+2026-05-01,S024,Marketing,"147,904.00",Monthly
+2026-05-01,S024,Inventory,120905,Monthly
+2026-05-01,S024,Customer Service,151881,Monthly
+2026-06-01,S024,Store Operations,130962,Monthly
+2026-06-01,S024,Marketing,112771,Monthly
+2026-06-01,S024,Inventory,79143,Monthly
+2026-06-01,S024,Customer Service,158477,Monthly
+2026-07-01,S024,Store Operations,39692,Monthly
+2026-07-01,S024,Marketing,103177, Monthly 
+2026-07-01,S024,Inventory,126245,Monthly
+2026-07-01,S024,Customer Service,77531,Monthly
+2026-08-01,S024,Store Operations,71529,Monthly
+2026-08-01,S024,Marketing,"118,784.00",Monthly
+2026-08-01,S024,Inventory,174961,Monthly
+2026-08-01,S024,Customer Service,132548,Monthly
+2026-09-01,S024,Store Operations,143748,Monthly
+2026-09-01,S024,Marketing,25069,Monthly
+2026-09-01,S024,Inventory,102556,Monthly
+2026-09-01,S024,Customer Service,139840,Monthly
+2025-01-01,S025,Store Operations,166766,Monthly
+2025-01-01,S025,Marketing,86951,Monthly
+2025-01-01,S025,Inventory,127880,Monthly
+2025-01-01,S025,Customer Service,"₹161,406.00",Monthly
+2025-02-01,S025,Store Operations,101763,Monthly
+2025-02-01,S025,Marketing,100994,Monthly
+2025-02-01,S025,Inventory,64552,Monthly
+ 2025-02-01 ,S025,Customer Service,59446,Monthly
+ 2025-03-01 ,S025,Store Operations,175095,Monthly
+2025-03-01,S025,Marketing,143583,Monthly
+2025-03-01,S025,Inventory,102339,Monthly
+2025-03-01,S025,Customer Service,119868,Monthly
+2025-04-01,S025,Store Operations,52170,Monthly
+2025-04-01,S025,Marketing,124701,Monthly
+2025-04-01,S025,Inventory,61503,Monthly
+2025-04-01,S025,Customer Service,171201,Monthly
+2025-05-01,S025,Store Operations,165818,Monthly
+2025-05-01,S025,Marketing,97625,Monthly
+2025-05-01,S025,Inventory,130661,Monthly
+2025-05-01,S025,Customer Service,149057,Monthly
+2025-06-01,S025,Store Operations,158978,Monthly
+2025-06-01,S025,Marketing,37192,Monthly
+2025-06-01,S025,Inventory,86538,Monthly
+2025-06-01,S025,Customer Service,66553,Monthly
+2025-07-01,S025,Store Operations,43738,Monthly
+2025-07-01,S025,Marketing,131339,Monthly
+2025-07-01,S025,Inventory,119350,Monthly
+2025-07-01,S025,Customer Service,178421,Monthly
+2025-08-01,S025,Store Operations,115100,Monthly
+2025-08-01,S025,Marketing,88457,Monthly
+2025-08-01,S025,Inventory,76847,Monthly
+2025-08-01,S025,Customer Service,147245,Monthly
+2025-09-01,S025,Store Operations,54917,Monthly
+2025-09-01,S025,Marketing,67277,Monthly
+2025-09-01,S025, Inventory ,79787,Monthly
+2025-09-01,S025,Customer Service,71057,Monthly
+2025-10-01,S025,Store Operations,165065,Monthly
+2025-10-01,S025,Marketing,149893,Monthly
+2025-10-01,S025,Inventory,53170,Monthly
+2025-10-01,S025,Customer Service,36496,Monthly
+2025-11-01,S025,Store Operations,46586,Monthly
+2025-11-01,S025,Marketing,57153,Monthly
+2025-11-01,S025,Inventory,139608,Monthly
+2025-11-01,S025,Customer Service,176293,Monthly
+2025-12-01,S025,Store Operations,168531,Monthly
+2025-12-01,S025,Marketing,64133,Monthly
+2025-12-01,S025,Inventory,27609,Monthly
+2025-12-01,S025,Customer Service,31294,Monthly
+2026-01-01,S025,Store Operations,163176,Monthly
+2026-01-01,S025,Marketing,174620,Monthly
+2026-01-01,S025,Inventory,102378,Monthly
+2026-01-01,S025,Customer Service,92059,Monthly
+2026-02-01,S025,Store Operations,99001,MONTHLY
+2026-02-01,S025,Marketing,150509,Monthly
+2026-02-01,S025, Inventory ,25105,Monthly
+2026-02-01,S025,Customer Service,70383,Monthly
+2026-03-01,S025,Store Operations,125421,Monthly
+2026-03-01,S025,Marketing,154908,Monthly
+2026-03-01,S025,Inventory,33565,Monthly
+2026-03-01,S025,Customer Service,58990,Monthly
+2026-04-01,S025,Store Operations,48896,Monthly
+2026-04-01,S025,Marketing,121703,MONTHLY
+2026-04-01,S025,Inventory,96974,Monthly
+2026-04-01,S025,Customer Service,160675,Monthly
+2026-05-01,S025,Store Operations,71009,Monthly
+2026-05-01,S025,,157946,Monthly
+2026-05-01,S025,Inventory,100336,Monthly
+2026-05-01,S025,Customer Service,156055,Monthly
+2026-06-01,S025,Store Operations,125672,Monthly
+2026-06-01,S025,Marketing,87406,Monthly
+2026-06-01,S025,Inventory,69347,Monthly
+2026-06-01,S025,Customer Service,53334,Monthly
+2026-07-01,S025,Store Operations,97789,Monthly
+2026-07-01,S025,Marketing,42552,Monthly
+2026-07-01,S025,Inventory,76913,Monthly
+2026-07-01,S025,Customer Service,66743,Monthly
+2026-08-01,S025,Store Operations,177892,Monthly
+2026-08-01,S025,Marketing,79788,Monthly
+2026-08-01,S025,Inventory,105363,Monthly
+2026-08-01,S025,Customer Service,158289,Monthly
+2026-09-01,S025,Store Operations,42892,Monthly
+2026-09-01,S025,Marketing,156085,Monthly
+2026-09-01,S025,Inventory,97017,Monthly
+01-Sep-2026,S025,Customer Service,139329,Monthly
+2025-01-01,S026,Store Operations,81225,Monthly
+2025-01-01,S026,Marketing,53983,Monthly
+2025-01-01,S026,Inventory,81269,Monthly
+2025-01-01,S026,Customer Service,179743,Monthly
+2025-02-01,S026,Store Operations,163662,Monthly
+2025-02-01,S026,Marketing,151396,Monthly
+2025-02-01,S026,Inventory,33914,Monthly
+2025-02-01,S026,Customer Service,152798,Monthly
+2025-03-01,S026,Store Operations,30240,Monthly
+2025-03-01,S026,Marketing,176847,Monthly
+2025-03-01,S026,Inventory,102030,Monthly
+2025-03-01,S026,Customer Service,65424,Monthly
+2025-04-01,S026,Store Operations,60571,Monthly
+2025-04-01,S026,Marketing,59706,Monthly
+2025-04-01,S026,Inventory,116928,Monthly
+2025-04-01,S026,Customer Service,88544,Monthly
+2025-05-01,S026,Store Operations,90894,Monthly
+2025-05-01,S026,Marketing,114798,Monthly
+2025-05-01,S026,Inventory,120144,Monthly
+2025-05-01,S026,Customer Service,32022,Monthly
+2025-06-01,S026,Store Operations,47326,Monthly
+2025-06-01,S026,Marketing,106911,Monthly
+2025-06-01,S026,Inventory,138238,Monthly
+2025-06-01,S026,Customer Service,96126,Monthly
+2025-07-01,S026,Store Operations,87657,Monthly
+2025-07-01,S026,Marketing,71664,
+2025-07-01,S026,Inventory,57611,Monthly
+2025-07-01,S026,Customer Service,77446,Monthly
+2025-08-01,S026,Store Operations,89516,Monthly
+2025-08-01,S026,Marketing,32780,Monthly
+2025-08-01,S026,Inventory,153562,Monthly
+2025-08-01,S026,Customer Service,116687,Monthly
+2025-09-01,S026,Store Operations,146852,Monthly
+2025-09-01,S026,Marketing,63393,Monthly
+2025-09-01,S026,Inventory,155248,Monthly
+2025-09-01,S026,Customer Service,114905,Monthly
+2025-10-01,S026,Store Operations,32270,Monthly
+2025-10-01,S026,Marketing,41367,Monthly
+2025-10-01,S026,Inventory,117809,Monthly
+2025-10-01,S026,Customer Service,115448,Monthly
+2025-11-01,S026,Store Operations,74110,Monthly
+2025-11-01,S026,Marketing,118446,Monthly
+2025-11-01,S026,Inventory,60777,Monthly
+2025-11-01,S026,Customer Service,172473,Monthly
+2025-12-01,S026,Store Operations,28709,Monthly
+2025-12-01,S026,Marketing,68022,Monthly
+2025-12-01,S026,Inventory,179388,MONTHLY
+2025-12-01,S026,Customer Service,38704,Monthly
+2026-01-01,S026,Store Operations,84088,Monthly
+2026-01-01,S026,Marketing,137466,Monthly
+2026-01-01,S026,Inventory,133716,Monthly
+2026-01-01,S026,Customer Service,167520,Monthly
+2026-02-01,S026,Store Operations,45785,Monthly
+2026-02-01,S026,Marketing,122151,Monthly
+2026-02-01,S026,Inventory,25432,Monthly
+2026-02-01,S026,Customer Service,157651,Monthly
+2026-03-01,S026,Store Operations,30793,Monthly
+2026-03-01,S026,Marketing,124022,Monthly
+2026-03-01,S026,Inventory,121044,Monthly
+2026-03-01,S026,Customer Service,99421,Monthly
+2026-04-01,S026,Store Operations,81199,Monthly
+2026-04-01,S026,Marketing,,Monthly
+,S026,Inventory,68429,Monthly
+2026-04-01,S026,Customer Service,29467,Monthly
+2026-05-01,S026,Store Operations,38338,Monthly
+2026-05-01,S026,Marketing,88771,Monthly
+2026-05-01,S026,Inventory,78068,Monthly
+2026-05-01,S026,Customer Service,43011,Monthly
+2026-06-01,S026,Store Operations,67083,Monthly
+2026-06-01,S026,Marketing,140470,Monthly
+2026-06-01,S026,Inventory,117465,Monthly
+2026-06-01,S026,Customer Service,104391,Monthly
+2026-07-01,S026, Store Operations ,85151,Monthly
+2026-07-01,S026,Marketing,113072,Monthly
+2026-07-01,S026,Inventory,97278,Monthly
+2026-07-01,S026,Customer Service,63504,Monthly
+2026-08-01,S026,Store Operations,106617,Monthly
+2026-08-01,S026,Marketing,36728,Monthly
+2026-08-01,S026,Inventory,32137,Monthly
+2026-08-01,S026,Customer Service,70692,Monthly
+2026-09-01,S026,Store Operations,98318,Monthly
+2026-09-01,S026,Marketing,167502,Monthly
+2026-09-01,S026,Inventory,72090,Monthly
+2026-09-01,S026,Customer Service,74159,Monthly
+2025-01-01,S027,Store Operations,48855,Monthly
+2025-01-01,S027,Marketing,72257,Monthly
+2025-01-01,S027,Inventory,103683,Monthly
+2025-01-01,S027,Customer Service,38083,Monthly
+2025-02-01,S027,Store Operations,107727,Monthly
+2025-02-01,S027,Marketing,68502,Monthly
+2025-02-01,S027,Inventory,40392,Monthly
+2025-02-01,S027,Customer Service,102989,Monthly
+2025-03-01,S027,Store Operations,99786,Monthly
+2025-03-01,S027,Marketing,100279,Monthly
+2025-03-01,S027,Inventory,150208,Monthly
+2025-03-01,S027,Customer Service,56311,Monthly
+2025-04-01,S027,Store Operations,92401,Monthly
+01/04/2025,S027,Marketing,75710,Monthly
+2025-04-01,S027,Inventory,66201,Monthly
+2025-04-01,S027,Customer Service,58619,Monthly
+2025-05-01,S027,Store Operations,41293,Monthly
+2025-05-01,S027,Marketing,64314,Monthly
+2025-05-01,S027,Inventory,40185,Monthly
+2025-05-01,S027,Customer Service,101433,Monthly
+2025-06-01,S027,Store Operations,36357,
+2025-06-01,S027,Marketing,55261,
+2025-06-01,S027,Inventory,176390,Monthly
+2025-06-01,S027,CUSTOMER SERVICE,48349,Monthly
+2025-07-01,S027,Store Operations,59944,Monthly
+2025-07-01,S027,Marketing,165696,Monthly
+2025-07-01,S027,Inventory,85982,Monthly
+2025-07-01,S027,Customer Service,150683,Monthly
+2025-08-01,S027,Store Operations,101532,Monthly
+2025-08-01,S027,Marketing,48889,Monthly
+2025-08-01,S027,Inventory,134041,Monthly
+2025-08-01,S027,Customer Service,152271,Monthly
+2025-09-01,S027,Store Operations,50308,Monthly
+2025-09-01,S027,Marketing,116668,Monthly
+2025-09-01,S027,Inventory,89107,Monthly
+2025-09-01,S027,Customer Service,173619,Monthly
+2025-10-01,S027,STORE OPERATIONS,171821,Monthly
+2025-10-01,S027,Marketing,178023,Monthly
+2025-10-01,S027,Inventory,,Monthly
+2025-10-01,S027,Customer Service,71013,Monthly
+2025-11-01,S027,Store Operations,158080,Monthly
+2025-11-01,S027,Marketing,35666,Monthly
+2025-11-01,S027,Inventory,36001,Monthly
+2025-11-01,S027,Customer Service,127688,Monthly
+2025-12-01,S027,Store Operations,102728,Monthly
+2025-12-01,S027,Marketing,55162,Monthly
+2025-12-01,S027,Inventory,78295,Monthly
+01/12/2025,S027,Customer Service,143196,Monthly
+2026-01-01,S027,Store Operations,44228,Monthly
+2026-01-01,S027,Marketing,34876,Monthly
+2026-01-01,S027,INVENTORY,84363,Monthly
+2026-01-01,S027,Customer Service,83468,Monthly
+2026-02-01,S027,Store Operations,102453,Monthly
+2026-02-01,S027,Marketing,161296,Monthly
+2026-02-01,S027,Inventory,116055,Monthly
+2026-02-01,S027,Customer Service,155021, Monthly 
+2026-03-01,S027,Store Operations,80541,Monthly
+2026-03-01,S027,Marketing,150091,Monthly
+01/03/2026,S027,Inventory,77594,Monthly
+2026-03-01,S027,Customer Service,146418,Monthly
+2026-04-01,S027,Store Operations,130926,Monthly
+2026-04-01,S027,Marketing,165759,Monthly
+2026-04-01,S027,Inventory,91612,Monthly
+2026-04-01,S027,Customer Service,102629,Monthly
+2026-05-01,S027,Store Operations,158544,Monthly
+2026-05-01,S027,Marketing,158269,Monthly
+2026-05-01,S027,Inventory,136631,Monthly
+2026-05-01,S027,Customer Service,76512,Monthly
+2026-06-01,S027,Store Operations,151982,Monthly
+2026-06-01,S027,Marketing,149787,Monthly
+2026-06-01,S027,Inventory,119276,Monthly
+2026-06-01,S027,Customer Service,109429,Monthly
+2026-07-01,S027,Store Operations,80971,Monthly
+2026-07-01,S027,Marketing,82858,Monthly
+2026-07-01,S027,Inventory,163459,Monthly
+2026-07-01,S027,Customer Service,159143,Monthly
+2026-08-01,S027,Store Operations,116994,Monthly
+2026-08-01,S027,Marketing,89009,Monthly
+2026-08-01,S027,Inventory,129716,Monthly
+2026-08-01,S027,Customer Service,161131,Monthly
+2026-09-01,S027,Store Operations,178079,Monthly
+2026-09-01,S027,Marketing,53094,Monthly
+2026-09-01,S027,Inventory,106197,
+2026-09-01,S027,Customer Service,67729,Monthly
+2025-01-01,S028,Store Operations,143417,Monthly
+2025-01-01,S028,Marketing,47737,Monthly
+,S028,Inventory,160905,Monthly
+2025-01-01,S028,Customer Service,86392,Monthly
+2025-02-01,S028,Store Operations,27217,
+2025-02-01,S028,Marketing,158276,Monthly
+2025-02-01,S028,Inventory,169367,Monthly
+2025-02-01,S028,Customer Service,163496,Monthly
+2025-03-01,S028,Store Operations,30599,Monthly
+2025-03-01,S028,Marketing,42341,Monthly
+2025-03-01,S028,,91223,Monthly
+2025-03-01,S028,Customer Service,165045, Monthly 
+2025-04-01,S028,Store Operations,108171,Monthly
+2025-04-01,S028,Marketing,151645,Monthly
+2025-04-01,S028,Inventory,72436,Monthly
+2025-04-01,S028,Customer Service,153973,Monthly
+2025-05-01,S028,Store Operations,129998,Monthly
+2025-05-01,S028,Marketing,124868,Monthly
+2025-05-01,S028,Inventory,150856,Monthly
+2025-05-01,S028,Customer Service,84911,Monthly
+2025-06-01,S028,Store Operations,175760,Monthly
+2025-06-01,S028,Marketing,67980,Monthly
+2025-06-01,S028,Inventory,128773,Monthly
+2025-06-01,S028,Customer Service,160637,Monthly
+01/07/2025,S028,Store Operations,130924,Monthly
+2025-07-01,S028,Marketing,37214,MONTHLY
+2025-07-01,S028,Inventory,165755,Monthly
+2025-07-01,S028,Customer Service,115969,Monthly
+2025-08-01,S028,Store Operations,171750,Monthly
+2025-08-01,S028,Marketing,92778,Monthly
+2025-08-01,S028,Inventory,146464,Monthly
+2025-08-01,S028,Customer Service,101007,
+2025-09-01,S028,Store Operations,96431,Monthly
+2025-09-01,S028,Marketing,141713,Monthly
+2025-09-01,S028,Inventory,160851,Monthly
+2025-09-01,S028,Customer Service,77692,Monthly
+2025-10-01,S028,Store Operations,103853,Monthly
+2025-10-01,S028,Marketing,36783,Monthly
+2025-10-01,S028,Inventory,64568,Monthly
+2025-10-01,S028,Customer Service,118971,Monthly
+ 2025-11-01 ,S028,Store Operations,36349,Monthly
+2025-11-01,S028,Marketing,171067,Monthly
+2025-11-01,S028,Inventory,115748,Monthly
+2025-11-01,S028,Customer Service,86738,Monthly
+2025-12-01,S028,Store Operations,132151,Monthly
+2025-12-01,S028,Marketing,25073,Monthly
+2025-12-01,S028,Inventory,82969,Monthly
+2025-12-01,S028,Customer Service,58534,Monthly
+2026-01-01,S028,Store Operations,141524,Monthly
+2026-01-01,S028,Marketing,30548,Monthly
+2026-01-01,S028,Inventory,64715,Monthly
+2026-01-01,S028,Customer Service,157237,Monthly
+2026-02-01,S028,Store Operations,158123,Monthly
+2026-02-01,S028,Marketing,44212,Monthly
+2026-02-01,S028,Inventory,53026,Monthly
+2026-02-01,S028,Customer Service,132042,Monthly
+2026-03-01,S028,Store Operations,40629,Monthly
+2026-03-01,S028,Marketing,157521,Monthly
+01/03/2026,S028,Inventory,109174,Monthly
+2026-03-01,S028,Customer Service,176003,Monthly
+2026-04-01,S028,Store Operations,128247,Monthly
+2026-04-01,S028,Marketing,56120,Monthly
+ 2026-04-01 ,S028,Inventory,138142,Monthly
+2026-04-01,S028,Customer Service,106411,Monthly
+01-May-2026,S028,Store Operations,155724,Monthly
+2026-05-01,S028,Marketing,78925,Monthly
+2026-05-01,S028,Inventory,90654,Monthly
+2026-05-01,S028,Customer Service,115577,Monthly
+2026-06-01,S028,Store Operations,99758, Monthly 
+2026-06-01,S028,Marketing,59392,Monthly
+2026-06-01,S028,Inventory,80919,Monthly
+2026-06-01,S028,Customer Service,95456,Monthly
+2026-07-01,S028,Store Operations,155793,Monthly
+01/07/2026,S028,Marketing,77592,MONTHLY
+2026-07-01,S028,Inventory,168553,Monthly
+2026-07-01,S028,Customer Service,103605,Monthly
+2026-08-01,S028,Store Operations,142505,Monthly
+01/08/2026,S028,Marketing,90190,Monthly
+2026-08-01,S028,Inventory,96304,Monthly
+2026-08-01,S028,Customer Service,116190,Monthly
+2026-09-01,S028,Store Operations,96738,Monthly
+2026-09-01,S028,Marketing,28019,Monthly
+2026-09-01,S028,Inventory,68093,Monthly
+2026-09-01,S028,Customer Service,158825,Monthly
+2025-01-01,S029,Store Operations,74467,Monthly
+2025-01-01,S029,Marketing,129869,Monthly
+01/01/2025,S029,Inventory,155420,Monthly
+2025-01-01,S029,Customer Service,124006,Monthly
+2025-02-01,S029,Store Operations,42044,Monthly
+2025-02-01,S029,Marketing,61497,Monthly
+2025-02-01,S029,Inventory,"41,447.00",Monthly
+01/02/2025,S029,Customer Service,125231,MONTHLY
+2025-03-01,S029,Store Operations,37924,Monthly
+2025-03-01,S029,Marketing,140781,Monthly
+2025-03-01,S029,Inventory,"38,682.00",Monthly
+2025-03-01,S029,Customer Service,155982,Monthly
+2025-04-01,S029,Store Operations,39773,Monthly
+2025-04-01,S029,Marketing,"₹130,522.00",MONTHLY
+2025-04-01,S029,Inventory,71427,Monthly
+2025-04-01,S029,Customer Service,27692,Monthly
+ 2025-05-01 ,S029,Store Operations,125830,Monthly
+2025-05-01,S029,Marketing,73997,Monthly
+2025-05-01,S029,Inventory,125519,Monthly
+2025-05-01,S029,Customer Service,162096,Monthly
+2025-06-01,S029,Store Operations,36026,Monthly
+2025-06-01,S029,Marketing,29784,Monthly
+2025-06-01,S029,Inventory,33284,Monthly
+2025-06-01,S029,Customer Service,163742,Monthly
+2025-07-01,S029,Store Operations,78345,Monthly
+01/07/2025,S029,Marketing,128629,Monthly
+2025-07-01,S029,Inventory,106771,Monthly
+2025-07-01,S029,Customer Service,106287,Monthly
+ 2025-08-01 ,S029,Store Operations,30504,Monthly
+2025-08-01,S029,Marketing,111526,Monthly
+2025-08-01,S029,Inventory,38739,Monthly
+2025-08-01,S029,Customer Service,45084,Monthly
+2025-09-01,S029,Store Operations,60300,Monthly
+2025-09-01,S029,Marketing,69127,Monthly
+2025-09-01,S029,Inventory,134866,Monthly
+2025-09-01,S029,Customer Service,177579,Monthly
+2025-10-01,S029,Store Operations,143045,Monthly
+2025-10-01,S029,Marketing,89932,Monthly
+01-Oct-2025,S029,Inventory,67629,Monthly
+2025-10-01,S029,Customer Service,169089,Monthly
+2025-11-01,S029,Store Operations,101223,Monthly
+2025-11-01,S029,Marketing,102319,Monthly
+2025-11-01,S029,Inventory,82245,Monthly
+2025-11-01,S029,Customer Service,139680,Monthly
+2025-12-01,S029,Store Operations,44956,Monthly
+2025-12-01,S029,Marketing,152494,Monthly
+2025-12-01,S029,Inventory,104101,Monthly
+2025-12-01,S029,Customer Service,73305,Monthly
+2026-01-01,S029,Store Operations,132669,Monthly
+2026-01-01,S029,Marketing,78296,Monthly
+2026-01-01,S029,Inventory,174424,Monthly
+2026-01-01,S029,Customer Service,167533,Monthly
+2026-02-01,S029,Store Operations,106372,Monthly
+2026-02-01,S029,Marketing,105379,Monthly
+2026-02-01,S029,Inventory,86362,Monthly
+2026-02-01,S029,Customer Service,47050,Monthly
+2026-03-01,S029,Store Operations,152474,Monthly
+2026-03-01,S029,Marketing,52322,Monthly
+2026-03-01,S029,Inventory,70573,Monthly
+2026-03-01,S029,Customer Service,46850,Monthly
+2026-04-01,S029,Store Operations,154265,Monthly
+2026-04-01,S029,Marketing,89907,Monthly
+2026-04-01,S029,Inventory,33087,Monthly
+2026-04-01,S029,Customer Service,100681,Monthly
+2026-05-01,S029,Store Operations,32669,Monthly
+ 2026-05-01 ,S029,Marketing,161097,Monthly
+2026-05-01,S029,Inventory,136531,Monthly
+2026-05-01,S029,,167309,Monthly
+2026-06-01,S029,Store Operations,29578,Monthly
+2026-06-01,S029,Marketing,51394,Monthly
+2026-06-01,S029,Inventory,76195,Monthly
+2026-06-01,S029,Customer Service,41533,
+2026-07-01,S029,Store Operations,93900,Monthly
+2026-07-01,S029,Marketing,57340, Monthly 
+2026-07-01,S029,Inventory,94548,Monthly
+2026-07-01,S029,Customer Service,84147,Monthly
+2026-08-01,S029,Store Operations,79685,Monthly
+2026-08-01,S029,Marketing,81146,Monthly
+2026-08-01,S029,Inventory,172250,Monthly
+2026-08-01,S029,Customer Service,49543,Monthly
+2026-09-01,S029,Store Operations,100378,Monthly
+2026-09-01,S029,Marketing,152178,Monthly
+2026-09-01,S029,Inventory,138743,Monthly
+2026-09-01,S029,Customer Service,92076,Monthly
+2025-01-01,S030,Store Operations,88068,Monthly
+2025-01-01,S030,Marketing,63605,Monthly
+2025-01-01,S030,Inventory,88433,Monthly
+2025-01-01,S030,Customer Service,85720,Monthly
+2025-02-01,S030,Store Operations,54412,Monthly
+2025-02-01,S030,Marketing,175735,Monthly
+2025-02-01,S030,Inventory,132117,Monthly
+2025-02-01,S030,Customer Service,176429,Monthly
+2025-03-01,S030,Store Operations,32005,Monthly
+2025-03-01,S030,Marketing,43610,Monthly
+2025-03-01,S030,Inventory,146100,Monthly
+2025-03-01,S030,Customer Service,77686,Monthly
+2025-04-01,S030,Store Operations,101746,Monthly
+2025-04-01,S030,Marketing,164027,Monthly
+2025-04-01,S030,Inventory,118099,Monthly
+2025-04-01,S030,Customer Service,136695,Monthly
+2025-05-01,S030,Store Operations,56066,Monthly
+2025-05-01,S030,Marketing,43675,Monthly
+2025-05-01,S030,Inventory,133447,Monthly
+2025-05-01,S030,Customer Service,47936,Monthly
+2025-06-01,S030,Store Operations,115070,Monthly
+2025-06-01,S030,Marketing,169422,Monthly
+2025-06-01,S030,Inventory,67539,Monthly
+2025-06-01,S030,Customer Service,93067,Monthly
+2025-07-01,S030,Store Operations,46747,Monthly
+2025-07-01,S030,Marketing,116695,Monthly
+2025-07-01,S030,Inventory,125802,Monthly
+2025-07-01,S030,Customer Service,61911,Monthly
+2025-08-01,S030,Store Operations,100194,Monthly
+2025-08-01,S030,Marketing,132704,Monthly
+2025-08-01,S030,Inventory,39700,Monthly
+2025-08-01,S030,Customer Service,151834,Monthly
+2025-09-01,S030,Store Operations,82477,Monthly
+2025-09-01,S030,Marketing,59034,Monthly
+2025-09-01,S030,Inventory,68225,Monthly
+2025-09-01,S030,Customer Service,142346,Monthly
+2025-10-01,S030,Store Operations,138282,Monthly
+2025-10-01,S030,Marketing,29447,Monthly
+2025-10-01,S030,Inventory,124740,Monthly
+2025-10-01,S030,Customer Service,31422,Monthly
+2025-11-01,S030,Store Operations,115232,Monthly
+2025-11-01,S030,Marketing,46096, Monthly 
+2025-11-01,S030,Inventory,144202,Monthly
+2025-11-01,S030,Customer Service,66574,Monthly
+2025-12-01,S030,Store Operations,79074,Monthly
+2025-12-01,S030,Marketing,67164,Monthly
+2025-12-01,S030,Inventory,154894,Monthly
+2025-12-01,S030,Customer Service,64174,Monthly
+2026-01-01,S030,Store Operations,116489,Monthly
+2026-01-01,S030,Marketing,104694,Monthly
+2026-01-01,S030,Inventory,131851,Monthly
+2026-01-01,S030,Customer Service,99782,Monthly
+2026-02-01,S030,Store Operations,118235,Monthly
+2026-02-01,S030,Marketing,128437,Monthly
+2026-02-01,S030,Inventory,145517,Monthly
+2026-02-01,S030,Customer Service,52374,Monthly
+2026-03-01,S030,Store Operations,111351,Monthly
+2026-03-01,S030,Marketing,107193,Monthly
+2026-03-01,S030,INVENTORY,32067,Monthly
+2026-03-01,S030,Customer Service,,Monthly
+2026-04-01,S030,Store Operations,38276,Monthly
+2026-04-01,S030,Marketing,31810,Monthly
+2026-04-01,S030,Inventory,75409,Monthly
+2026-04-01,S030,Customer Service,46218,Monthly
+2026-05-01,S030,Store Operations,49463,Monthly
+2026-05-01,S030,Marketing,61392,Monthly
+2026-05-01,S030,Inventory,151193,Monthly
+2026-05-01,S030,Customer Service,144722,Monthly
+2026-06-01,S030,Store Operations,145450,Monthly
+2026-06-01,S030,Marketing,112886,Monthly
+2026-06-01,S030, Inventory ,131609,Monthly
+2026-06-01,S030,Customer Service,177919,Monthly
+2026-07-01,S030,Store Operations,73916,Monthly
+2026-07-01,S030,Marketing,104485,Monthly
+2026-07-01,S030,Inventory,38088,Monthly
+2026-07-01,S030,Customer Service,172477,Monthly
+2026-08-01,S030,Store Operations,75335,Monthly
+2026-08-01,S030,Marketing,136715,Monthly
+2026-08-01,S030,Inventory,90500,Monthly
+2026-08-01,S030,Customer Service,107363,Monthly
+2026-09-01,S030,Store Operations,89475,Monthly
+2026-09-01,S030,Marketing,114463,Monthly
+ 2026-09-01 ,S030,Inventory,128832,Monthly
+2026-09-01,S030,Customer Service,56476,Monthly

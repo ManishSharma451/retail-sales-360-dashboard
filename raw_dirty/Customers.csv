@@ -1,0 +1,1506 @@
+﻿CustomerID,CustomerName,Gender,Age,City,State,CustomerSegment,SignupDate,Email,LoyaltyTier
+C00001,Customer 0001,Other,59,Bengaluru,Karnataka,Small Business,2023-03-12,customer0001@example.test,Platinum
+C00002,Customer 0002,Other,72,Jaipur,Rajasthan,Premium,2022-06-17,customer0002@example.test,Silver
+C00003,Customer 0003,Male,50,Jaipur,Rajasthan,Corporate,2022-05-15,customer0003@example.test,Silver
+C00004,Customer 0004,Female,53,Indore,Madhya Pradesh,Corporate,,customer0004@example.test,Silver
+C00005,Customer 0005,Female,20,New Delhi,Delhi,Corporate,2022-08-22,customer0005@example.test,Gold
+C00006,Customer 0006,Male,35,Bengaluru,Karnataka,Corporate,2026-05-16,customer0006@example.test,Platinum
+C00007,Customer 0007,Other,23,Kochi,Kerala,Small Business,2023-02-23,customer0007@example.test,Bronze
+C00008,Customer 0008,Other,55,Kochi,Kerala,Consumer,2024-11-02,customer0008@example.test,Silver
+C00009,Customer 0009,Female,47,Bengaluru,Karnataka,Small Business,2022-12-15,customer0009@example.test,Gold
+C00010,Customer 0010,Other,26,Hyderabad,Telangana,Consumer,2022-04-05,customer0010@example.test,Gold
+C00011,Customer 0011,Female,61,Jodhpur,Rajasthan,Consumer,2024-03-24, customer0011@example.test ,Silver
+C00012,Customer 0012,Other,64,Jaipur,Rajasthan,Premium,2025-01-10,customer0012@example.test,Platinum
+C00013,Customer 0013,Female,61,Hyderabad,Telangana,Corporate,2024-03-29,customer0013@example.test,Platinum
+C00014,Customer 0014,Other,59,Lucknow,Uttar Pradesh,Corporate,31/07/2023,customer0014@example.test,Platinum
+C00015,Customer 0015,Male,44,Mumbai,Maharashtra,Premium,2024-06-29,customer0015@example.test,Silver
+C00016,Customer 0016,Female,72,Lucknow,Uttar Pradesh,Consumer,2024-12-03,customer0016@example.test,Silver
+C00017,Customer 0017,Other,67,Jodhpur,Rajasthan,Corporate,2023-12-13,customer0017@example.test,Silver
+C00018,Customer 0018,Female,58,Jaipur,Rajasthan,Corporate,2024-08-08,customer0018@example.test,Platinum
+C00019,Customer 0019,Female,36,Hyderabad,Telangana,Consumer, 2025-12-06 ,customer0019@example.test,Gold
+C00020,Customer 0020,Male,60,Ahmedabad,Gujarat,Premium,2025-10-20,customer0020@example.test,Platinum
+C00021,Customer 0021,Other,32,Chennai,Tamil Nadu,Premium,2024-09-04,customer0021@example.test,Gold
+C00022,Customer 0022,Male,58,Lucknow,Uttar Pradesh,Consumer,2023-07-01,customer0022@example.test,Platinum
+C00023,Customer 0023,Female,60,Bengaluru,Karnataka,Consumer,2024-02-15,customer0023@example.test,Platinum
+C00024,Customer 0024,Male,19,Hyderabad,Telangana,Corporate,2024-07-07,customer0024@example.test,Silver
+C00025,Customer 0025,Female,45,Hyderabad,Telangana,Small Business,2024-10-16,customer0025@example.test,Platinum
+C00026,Customer 0026,Female,44,Indore,Madhya Pradesh,Small Business,2022-04-20,customer0026@example.test,Gold
+C00027,Customer 0027,Other,55,Indore,Madhya Pradesh,Premium,2025-05-27,customer0027@example.test,Silver
+C00028,Customer 0028,Female,58,Jodhpur,Rajasthan,Consumer,2023-01-29,customer0028@example.test,Silver
+C00029,Customer 0029,Male,66,Mumbai,Maharashtra,Corporate,2022-04-16,customer0029@example.test,Gold
+C00030,CUSTOMER 0030,Male,24,Kochi,Kerala,Corporate,2025-01-14,customer0030@example.test,Gold
+C00031,Customer 0031,Female,36,Jodhpur,Rajasthan,Premium,2022-11-20,customer0031@example.test,Gold
+C00032,Customer 0032,Male,72,Kolkata,West Bengal,Small Business,2022-03-17,customer0032@example.test,Silver
+C00033,Customer 0033,Other,48,Kochi,Kerala,Premium,2026-02-12, customer0033@example.test ,Silver
+C00034,Customer 0034,Male,35,Jodhpur,Rajasthan,Premium,2023-12-06,customer0034@example.test,Platinum
+C00035,Customer 0035,Male,39,Jaipur,Rajasthan,Corporate,2024-05-12,customer0035@example.test,
+C00036,Customer 0036,Female,24,New Delhi,Delhi,Consumer,2024-11-26,customer0036@example.test,Bronze
+C00037,Customer 0037,Female,68,Jaipur,Rajasthan,Corporate,2022-09-25,customer0037@example.test,Gold
+C00038,Customer 0038,Male,67,Kolkata,West Bengal,Consumer,2025-11-19,customer0038@example.test,Bronze
+C00039,Customer 0039,Male,19,Kolkata,West Bengal,Small Business,2022-08-03,customer0039@example.test,Silver
+C00040,Customer 0040,Male,68,Jaipur,Rajasthan,Consumer,2026-01-17,customer0040@example.test,Gold
+C00041,Customer 0041,Other,51,Kolkata,West Bengal,Consumer,2026-01-12,customer0041@example.test,Silver
+C00042,Customer 0042,Male,25,Lucknow,Uttar Pradesh,Premium,2023-06-12,customer0042@example.test,Bronze
+C00043,Customer 0043,Other,43,Indore,Madhya Pradesh,Consumer,2026-05-10,customer0043@example.test,Platinum
+C00044,Customer 0044,Female,19,Hyderabad,Telangana,Consumer,26-Jan-2024,customer0044@example.test,Silver
+C00045,Customer 0045,Other,19,Ahmedabad,Gujarat,Small Business,2025-04-07,customer0045@example.test,Gold
+C00046,Customer 0046,Other,45,Indore,Madhya Pradesh,Corporate,2025-03-19,customer0046@example.test,Bronze
+C00047,Customer 0047,Male,54,Mumbai,Maharashtra,Corporate,09/05/2022,customer0047@example.test,Bronze
+C00048,Customer 0048,Male,59,Mumbai,Maharashtra,Small Business,25-Dec-2022,customer0048@example.test,Silver
+C00049,Customer 0049,Other,22,New Delhi,Delhi,,2025-01-14,customer0049@example.test,Platinum
+C00050,Customer 0050,Other,36,Jodhpur,Rajasthan,Small Business,2025-05-06,customer0050@example.test,Gold
+C00051,Customer 0051,Male,41,Hyderabad,Telangana,Small Business,2026-05-08,customer0051@example.test,Platinum
+C00052,Customer 0052,Female,56,Lucknow,Uttar Pradesh,Corporate,2024-10-30,customer0052@example.test,Gold
+C00053,Customer 0053,Female,60,Indore,Madhya Pradesh,Small Business,2024-01-16,customer0053@example.test,Platinum
+C00054,Customer 0054,Other,40,New Delhi,Delhi,Corporate,2025-07-19,customer0054@example.test,Gold
+C00055,Customer 0055,Male,28,New Delhi,Delhi,Small Business,2024-10-03,customer0055@example.test,Platinum
+C00056,Customer 0056,Other,24,Kolkata,West Bengal,Small Business,2026-04-14,customer0056@example.test,Silver
+C00057,Customer 0057,Male,37,Hyderabad,Telangana,Corporate,2023-01-01,customer0057@example.test,Platinum
+C00058,Customer 0058,Female,70, Ahmedabad ,Gujarat,Consumer,2024-12-16,customer0058@example.test,Gold
+C00059,Customer 0059,Other,47,Bengaluru,Karnataka,Small Business,2023-08-06,customer0059@example.test,Platinum
+C00060,Customer 0060,Other,57,Chennai,Tamil Nadu,Consumer,2025-01-31,customer0060@example.test,Silver
+C00061,Customer 0061,Male,34,Jodhpur,Rajasthan,Premium,2024-05-18,CUSTOMER0061@EXAMPLE.TEST,Platinum
+C00062,Customer 0062,Other,24,Jodhpur,Rajasthan,Small Business,2022-10-02,customer0062@example.test,Bronze
+C00063,Customer 0063,Male,23,Kochi,Kerala,Premium,2023-10-24,customer0063@example.test,Platinum
+C00064,Customer 0064,Male,37,Kolkata,West Bengal,Premium,2023-12-20, customer0064@example.test ,Bronze
+C00065,Customer 0065,Other,37,Hyderabad,Telangana,Corporate,2024-08-22,customer0065@example.test,Platinum
+C00066,Customer 0066,Male,73,Chennai,Tamil Nadu,Small Business,2026-04-24,customer0066@example.test,Bronze
+C00067,Customer 0067,Other,29,New Delhi,Delhi,Small Business,2023-02-19,customer0067@example.test,Gold
+C00068,Customer 0068,Female,42,Kolkata,West Bengal,Corporate,2024-07-15,customer0068@example.test,Bronze
+C00069,Customer 0069,Male,64,Jaipur,Rajasthan,Corporate,2025-06-06,customer0069@example.test,Platinum
+C00070,Customer 0070,Female,42,Mumbai,Maharashtra,Corporate,2026-02-17,customer0070@example.test,Gold
+C00071,Customer 0071,Male,50,Chennai,Tamil Nadu,Consumer,2023-05-22,customer0071@example.test,Platinum
+C00072,Customer 0072,Male,35,Hyderabad,Telangana,Corporate,2022-02-08,customer0072@example.test,Bronze
+C00073,Customer 0073,Other,61,Lucknow,Uttar Pradesh,Small Business,2025-02-05,customer0073@example.test,Bronze
+C00074,Customer 0074,Male,64,Kochi,Kerala,Corporate,2025-11-27,customer0074@example.test,Bronze
+C00075,Customer 0075,OTHER,50,Jodhpur,Rajasthan,Small Business,2023-02-08,customer0075@example.test,Bronze
+C00076,Customer 0076,Male,19,Lucknow,Uttar Pradesh,Corporate,2025-03-05,customer0076@example.test,Platinum
+C00077,Customer 0077,Male,23,Jaipur, Rajasthan ,Consumer,2023-12-01,customer0077@example.test,Bronze
+C00078,Customer 0078,Male,73,Chennai,Tamil Nadu,Small Business,2026-01-05,customer0078@example.test,Bronze
+C00079,Customer 0079,Other,50,Indore,Madhya Pradesh,Consumer,2024-06-07,customer0079@example.test,Bronze
+C00080,Customer 0080,Male,19,Lucknow, Uttar Pradesh ,Corporate,2023-05-04,customer0080@example.test,Platinum
+C00081,Customer 0081,Female,41,Indore,Madhya Pradesh,Corporate,2022-02-21,customer0081@example.test,Bronze
+C00082,Customer 0082,Other,67,Kochi,Kerala,Consumer,2023-02-08,customer0082@example.test,Platinum
+C00083,Customer 0083,Female,39,Jodhpur,Rajasthan,Consumer,2025-09-24,customer0083@example.test,Silver
+C00084,Customer 0084,Male,72,Lucknow, Uttar Pradesh ,Consumer,2022-05-03,customer0084@example.test,Silver
+C00085,Customer 0085,Other,19,Kochi,Kerala,Corporate,2025-04-10,customer0085@example.test,Bronze
+C00086,Customer 0086,Male,63,Ahmedabad,Gujarat,Premium,2024-09-28,customer0086@example.test,Bronze
+C00087,Customer 0087,Male,42,INDORE,Madhya Pradesh,Small Business,2024-05-21,customer0087@example.test,Platinum
+C00088,Customer 0088,Other,27,Hyderabad,Telangana,Premium,2023-01-27,customer0088@example.test,Platinum
+C00089,Customer 0089,Male,74,Jaipur,Rajasthan,Premium,2025-09-25,customer0089@example.test,Bronze
+C00090,Customer 0090,Female,44,Lucknow,Uttar Pradesh,Small Business,2022-01-05,customer0090@example.test,Silver
+C00091,Customer 0091,Female,52,Kochi,Kerala,Premium,2024-06-10,customer0091@example.test,Silver
+C00092,Customer 0092,Female,64,Indore,Madhya Pradesh, Consumer ,2025-09-12,customer0092@example.test,Gold
+C00093,Customer 0093,Other,72,New Delhi,Delhi,Small Business,2022-08-04,customer0093@example.test,Gold
+C00094,Customer 0094, Other ,36,Jaipur,RAJASTHAN,Small Business,2022-01-12,customer0094@example.test,Gold
+C00095,Customer 0095,Other,150,Mumbai,Maharashtra,Consumer,2025-08-28,customer0095@example.test,Silver
+C00096,Customer 0096,Female,22,Jaipur,Rajasthan,Consumer,2024-04-15,customer0096@example.test,Platinum
+C00097,Customer 0097,Other,41,Jaipur,Rajasthan,Consumer,2024-08-31,customer0097@example.test,Silver
+C00098, Customer 0098 ,Female,68,Jodhpur,Rajasthan,Consumer,2022-09-23,customer0098@example.test,Platinum
+C00099,Customer 0099,Female,69,Chennai,Tamil Nadu,Corporate,2022-01-07,customer0099@example.test,GOLD
+C00100,Customer 0100,Female,43,Lucknow,Uttar Pradesh,Small Business,2026-01-01,customer0100@example.test,Silver
+C00101,Customer 0101,Other,29,New Delhi,Delhi,Corporate,2025-05-09,customer0101@example.test,Platinum
+C00102,Customer 0102,Male,46,Indore,Madhya Pradesh,Consumer,2023-12-31,customer0102@example.test,Platinum
+C00103,Customer 0103,Other,18,Jaipur,Rajasthan,Small Business,2025-03-29,customer0103@example.test,Gold
+C00104,Customer 0104,Female,70,Jaipur,RAJASTHAN,Small Business,2025-05-01,customer0104@example.test,Silver
+C00105,Customer 0105,Other,24,Hyderabad,Telangana,Consumer,2024-05-16,customer0105@example.test,Bronze
+C00106,Customer 0106,Other,37,Chennai,Tamil Nadu,Consumer,2022-03-20,customer0106@example.test,Bronze
+C00107,Customer 0107,Male,18,Indore,Madhya Pradesh,Corporate,2023-08-20,customer0107@example.test,Bronze
+C00108,Customer 0108,Female,19,Mumbai,Maharashtra,Corporate,2022-10-22,customer0108@example.test,Platinum
+C00109,Customer 0109,Male,51,Mumbai,Maharashtra,Premium,2025-11-20,customer0109@example.test,Bronze
+C00110,Customer 0110,Female,61,Kolkata,West Bengal,Small Business,2024-04-28,customer0110@example.test,Silver
+C00111,Customer 0111,Female,52,Hyderabad,Telangana,Small Business,2023-09-19,customer0111@example.test,Platinum
+C00112,Customer 0112,Male,62,Mumbai,Maharashtra,Consumer,2022-07-01,customer0112@example.test,Platinum
+C00113,Customer 0113,Male,23,Kochi,Kerala,Premium,2025-01-10,customer0113@example.test,Bronze
+C00114,Customer 0114,Female,47,Jaipur,Rajasthan,Consumer,28/05/2023,customer0114@example.test,Bronze
+C00115,Customer 0115,Other,50,Kochi,Kerala,Consumer,2022-06-10,customer0115@example.test,Gold
+C00116,Customer 0116,Other,18,New Delhi,Delhi,Small Business,2025-03-07,customer0116@example.test,Gold
+C00117,Customer 0117,Other,48,Jaipur,Rajasthan,Consumer,2024-02-27,customer0117@example.test,Gold
+C00118,Customer 0118,Female,57,Jaipur,RAJASTHAN,Small Business,2025-02-14,customer0118@example.test,Gold
+C00119,Customer 0119,Male,40,Indore,Madhya Pradesh,Premium,2024-12-26,customer0119@example.test, Platinum 
+C00120,Customer 0120,Other,69,Indore,Madhya Pradesh,Corporate,2022-09-07,customer0120@example.test,Bronze
+C00121,Customer 0121, Other ,70,New Delhi,Delhi,Premium,27/08/2022,customer0121@example.test,Bronze
+C00122,Customer 0122,Female,55,Jodhpur,Rajasthan,Consumer,2022-11-29,customer0122@example.test,Silver
+C00123,Customer 0123,Male,29,Jodhpur,Rajasthan,Small Business,2023-08-07,customer0123@example.test,Gold
+C00124,Customer 0124,Other,62,Lucknow,,Small Business,2023-11-15,customer0124@example.test, Gold 
+C00125,Customer 0125,Male,42,Lucknow,Uttar Pradesh,Corporate,2022-11-28,customer0125@example.test,Gold
+C00126,Customer 0126,Female,52,Ahmedabad,Gujarat,Corporate,2025-06-05,customer0126@example.test,Bronze
+C00127,Customer 0127,Male,59,Kochi,Kerala,Corporate,2022-06-13,customer0127@example.test,Gold
+C00128,Customer 0128,Other,69,Kochi,Kerala,Premium,2026-03-05,customer0128@example.test,Silver
+C00129,Customer 0129,Female,27,New Delhi,Delhi,Premium,2023-05-22,customer0129@example.test,Bronze
+C00130,Customer 0130,Female,,Kochi,Kerala,Corporate,2023-02-24,customer0130@example.test,Bronze
+C00131,Customer 0131,Female,65,Kolkata,West Bengal,Premium,2024-12-19,customer0131@example.test,Silver
+C00132,Customer 0132,Female,73,Mumbai,Maharashtra,Small Business,2022-04-03,customer0132@example.test,Platinum
+C00133,Customer 0133,Male,54,Kolkata,West Bengal,Small Business,2025-08-06,customer0133@example.test,Silver
+C00134,Customer 0134,Female,49,Chennai,Tamil Nadu,Small Business,2022-08-20,customer0134@example.test,Bronze
+C00135,Customer 0135,Male,41,Chennai,Tamil Nadu,Small Business,19/01/2025,customer0135@example.test,Gold
+C00136,Customer 0136,Female,75,Kochi,Kerala,Corporate,2025-07-30,customer0136@example.test,Bronze
+C00137,Customer 0137,Male,40,Bengaluru,Karnataka,Small Business,2024-10-09,customer0137@example.test,Gold
+C00138,Customer 0138,Other,24,Ahmedabad,Gujarat,Corporate, 2024-05-31 ,customer0138@example.test,Gold
+C00139,Customer 0139,Other,49,New Delhi,Delhi,Corporate,2022-04-26,customer0139@example.test,Platinum
+C00140,Customer 0140,Other,61,Ahmedabad,Gujarat,Consumer,2024-10-02,customer0140@example.test,Platinum
+C00141,Customer 0141,,30,Hyderabad,Telangana,Corporate,2026-01-02,customer0141@example.test,Platinum
+C00142,Customer 0142,Other,19,Kochi,Kerala,Premium,2026-01-03,customer0142@example.test,Gold
+C00143,Customer 0143,Other,34,Kochi,Kerala,Consumer,2024-04-13,customer0143@example.test,Gold
+C00144,Customer 0144,Male,75,Jaipur,Rajasthan,Consumer,2024-01-01,customer0144@example.test,Gold
+C00145,Customer 0145,Female,69,New Delhi,Delhi,Consumer,2023-10-27,customer0145@example.test,Silver
+C00146,Customer 0146,Female,67,Kolkata,WEST BENGAL,Consumer,2025-02-10,customer0146@example.test,Silver
+C00147,Customer 0147,Female,46,Jaipur,Rajasthan,Corporate,2025-05-14,customer0147@example.test,Bronze
+C00148,Customer 0148,Male,44,Mumbai,Maharashtra,Corporate,2024-10-02,customer0148@example.test,Platinum
+C00149,Customer 0149,Other,21,Jaipur,Rajasthan,Corporate,2026-01-04,customer0149@example.test,Gold
+C00150,Customer 0150,Other,57,Ahmedabad,GUJARAT,Small Business,2025-03-10,customer0150@example.test,Bronze
+C00151,Customer 0151,Male,74,Indore,Madhya Pradesh,Small Business,17-May-2025,customer0151@example.test,Bronze
+C00152,Customer 0152,Female,44,Hyderabad,Telangana,Premium,2022-04-30,customer0152@example.test,Platinum
+C00153,Customer 0153,Female,72,Kolkata,West Bengal,Premium,2023-08-01,customer0153@example.test,Bronze
+C00154,Customer 0154,Female,65,Indore,Madhya Pradesh,Premium,2025-07-22,customer0154@example.test,Gold
+C00155,Customer 0155,Other,51,Bengaluru,Karnataka,Consumer,2024-06-03,customer0155@example.test,Gold
+C00156,Customer 0156,Male,20,Bengaluru,Karnataka,Consumer,2025-12-26,customer0156@example.test,Bronze
+C00157,Customer 0157,Female,38, Ahmedabad ,Gujarat,Small Business,2022-09-05,customer0157@example.test,Bronze
+C00158,Customer 0158,Other,75,Indore,Madhya Pradesh,Premium,2024-04-09,customer0158@example.test,Bronze
+C00159,Customer 0159,Male,45,Bengaluru,Karnataka,Consumer,2024-10-21,customer0159@example.test,Bronze
+C00160,Customer 0160,Male,54,Bengaluru,Karnataka,Premium,2025-09-21,customer0160@example.test,Platinum
+C00161,Customer 0161,Male,74,Lucknow,Uttar Pradesh,Small Business,2024-09-27,customer0161@example.test,Silver
+C00162,Customer 0162,Female,28,Jodhpur,Rajasthan,Small Business,2025-01-31,customer0162@example.test,Bronze
+C00163,Customer 0163,Male,44,Ahmedabad,Gujarat,Corporate,2023-03-08,customer0163@example.test,Platinum
+C00164,Customer 0164,Female,58,Bengaluru,Karnataka,Small Business,2025-12-25,customer0164@example.test,Silver
+C00165,Customer 0165,Other,27,Bengaluru,Karnataka,Small Business,2023-02-28,customer0165@example.test,Bronze
+C00166,Customer 0166,Other,61,Kolkata, West Bengal ,Premium,2023-09-15,customer0166@example.test,Gold
+C00167,Customer 0167,Female,61,Bengaluru,Karnataka,Corporate,2025-02-11,customer0167@example.test,Bronze
+C00168,Customer 0168,Female,52,Kochi,Kerala,Premium,2025-09-22,customer0168@example.test,Platinum
+C00169,Customer 0169,Other,55,Bengaluru,Karnataka,Corporate,2024-09-06,customer0169@example.test,Bronze
+C00170,Customer 0170,Female,18,Chennai,Tamil Nadu,Premium,2025-04-08,customer0170@example.test,Silver
+C00171,Customer 0171,Female,67,Kolkata,West Bengal,Small Business,2022-02-18,customer0171@example.test,Gold
+C00172,Customer 0172,Male,65,Lucknow,Uttar Pradesh,Corporate,2023-08-19, customer0172@example.test ,Gold
+C00173, Customer 0173 ,Other,65,Bengaluru,Karnataka,Corporate,2025-11-16,customer0173@example.test,Bronze
+C00174,Customer 0174,Male,59,Indore,Madhya Pradesh,Consumer,2022-09-03,customer0174@example.test,Silver
+C00175,Customer 0175,Other,25,Chennai,Tamil Nadu,Consumer,2025-05-02,customer0175@example.test,Platinum
+C00176,Customer 0176,Male,20,Ahmedabad,Gujarat,Small Business,2025-07-29,customer0176@example.test,Platinum
+C00177,Customer 0177,Female,27,Jodhpur,Rajasthan,Small Business,2025-12-19,customer0177@example.test,Platinum
+C00178,Customer 0178,Other,29,Kochi,Kerala,Premium,2024-01-12,customer0178@example.test,Bronze
+C00179,Customer 0179,Other,21,Chennai,Tamil Nadu,Corporate,2023-09-04,customer0179@example.test,Silver
+C00180,Customer 0180,Other,29,Mumbai,Maharashtra,Corporate,2022-01-23,customer0180@example.test,Gold
+C00181,Customer 0181,Other,56,Indore,Madhya Pradesh,Premium,2022-02-03,customer0181@example.test,Bronze
+C00182,Customer 0182,Other,65,Bengaluru,Karnataka,Small Business,2024-05-14,customer0182@example.test,Platinum
+C00183,Customer 0183,Female,38,New Delhi,Delhi,Premium,2023-04-09,customer0183@example.test,Silver
+C00184,Customer 0184,Male,42,Indore,Madhya Pradesh,Small Business,2022-09-21,customer0184@example.test,Platinum
+C00185,Customer 0185,Male,66,Indore,Madhya Pradesh,Small Business,2022-08-06,customer0185@example.test,Gold
+C00186,Customer 0186,Male,75,Indore,Madhya Pradesh,Consumer,2024-05-21,customer0186@example.test,Platinum
+C00187,Customer 0187,Other,52,Kochi,Kerala,Premium,2022-02-02,customer0187@example.test,Gold
+C00188,Customer 0188,Other,18,Jodhpur,Rajasthan,Consumer,2024-07-22,customer0188@example.test,Gold
+C00189,Customer 0189,Other,38,Mumbai,Maharashtra,Premium,2024-02-26,CUSTOMER0189@EXAMPLE.TEST,Platinum
+C00190,Customer 0190,Other,65,Mumbai,Maharashtra,Premium,2025-01-30,customer0190@example.test,Silver
+C00191,Customer 0191,Other,52,Mumbai,Maharashtra,Corporate,2022-07-13,customer0191@example.test,Bronze
+C00192,Customer 0192,Other,54,Jaipur,Rajasthan,Consumer,2025-01-22,customer0192@example.test,Silver
+C00193,Customer 0193,Female,44,Bengaluru,Karnataka,Small Business,2026-01-09,customer0193@example.test,Bronze
+C00194,Customer 0194,Female,67,Jodhpur,Rajasthan,Consumer,2022-12-24,customer0194@example.test,Gold
+C00195,Customer 0195,Other,66,Jaipur,Rajasthan,Corporate,2022-03-28,customer0195@example.test,Bronze
+C00196,Customer 0196,Male,29,Jaipur,Rajasthan,Consumer,2022-04-14,customer0196@example.test,Silver
+C00197,Customer 0197,Male,43,Chennai,Tamil Nadu,Small Business,2022-07-07,customer0197@example.test,Platinum
+C00198,Customer 0198,Female,47,Bengaluru,Karnataka,Small Business,2023-02-20,customer0198@example.test,Silver
+C00199,Customer 0199,Other,74,Lucknow,Uttar Pradesh,Small Business,2025-02-26,customer0199@example.test,Gold
+C00200,Customer 0200,Female,51,Jaipur,Rajasthan,Consumer,2022-10-20,customer0200@example.test,Silver
+C00201,Customer 0201,Other,39,Chennai,Tamil Nadu,Corporate,2025-12-23,customer0201@example.test,Bronze
+C00202,Customer 0202,Other,33,Kolkata,West Bengal,Consumer,2023-09-24,customer0202@example.test,Gold
+C00203,Customer 0203,Male,60,Bengaluru,Karnataka,Small Business,2022-11-22,customer0203@example.test,Platinum
+C00204,Customer 0204,Other,53,Jaipur,Rajasthan,Consumer,2022-12-13,customer0204@example.test,Bronze
+C00205,Customer 0205,Other,21,Kochi,Kerala,Small Business,2025-02-14,customer0205@example.test,Platinum
+C00206,Customer 0206,Female,44,Lucknow,Uttar Pradesh,Consumer,2022-12-19,customer0206@example.test,Bronze
+C00207,Customer 0207,Male,69,Lucknow,Uttar Pradesh,Consumer,2023-06-11,customer0207@example.test,Gold
+C00208,Customer 0208,Male,21,Chennai,Tamil Nadu,Corporate,2025-08-10,customer0208@example.test,Silver
+C00209,Customer 0209,Female,37,Kolkata,West Bengal,Small Business,2023-09-26,customer0209@example.test,Bronze
+C00210,Customer 0210,Other,50,Jaipur,Rajasthan,Corporate,2024-04-14,customer0210@example.test,Bronze
+C00211,Customer 0211,Other,35,Mumbai,Maharashtra,Corporate,2025-01-15,customer0211@example.test,Gold
+C00212,Customer 0212,Male,72,Jodhpur,Rajasthan,Premium,2025-11-10,customer0212@example.test,Gold
+C00213,Customer 0213,Other,26,Lucknow,Uttar Pradesh,Consumer,2025-02-17,customer0213@example.test,Bronze
+C00214,Customer 0214,Female,27,Bengaluru,Karnataka,Consumer,2023-01-29,customer0214@example.test, Platinum 
+C00215,Customer 0215,Male,38,Kolkata,West Bengal,Consumer,2022-07-13,customer0215@example.test,Bronze
+C00216,Customer 0216,Other,25,Indore,Madhya Pradesh,Small Business,2022-01-30,customer0216@example.test,Silver
+C00217,Customer 0217,Other,36,Jaipur,Rajasthan,Corporate,2023-02-04,customer0217@example.test,Bronze
+C00218,Customer 0218,Other,60,Ahmedabad,Gujarat,Small Business,2025-08-02,customer0218@example.test,Bronze
+C00219,Customer 0219,Other,60,Ahmedabad,Gujarat,Premium,2024-12-25,customer0219@example.test,Bronze
+C00220,Customer 0220,Male,28,Jaipur,Rajasthan,Corporate,2023-12-14,customer0220@example.test,Gold
+C00221,Customer 0221,Other,68,Indore,Madhya Pradesh,Premium,2022-10-07,customer0221@example.test, Bronze 
+C00222,Customer 0222,Female,34,Chennai,Tamil Nadu,Consumer,2022-10-02,customer0222@example.test,Silver
+C00223,Customer 0223,Male,47,Bengaluru,Karnataka,Premium,2023-09-23,customer0223@example.test,Silver
+C00224,Customer 0224,Male,59,Kolkata,West Bengal,Small Business,2025-03-12,customer0224@example.test,Gold
+C00225,Customer 0225,Other,73,Jodhpur,Rajasthan,Premium,2024-07-09,customer0225@example.test,Bronze
+C00226,Customer 0226,Male,68,Kolkata,West Bengal,Consumer,2022-01-26,customer0226@example.test,Silver
+C00227,Customer 0227,Other,28,Bengaluru,Karnataka,Consumer,2025-04-01,customer0227@example.test,Platinum
+C00228,Customer 0228,Female,73,Kochi,Kerala,Premium,26-Jan-2023,customer0228@example.test,Platinum
+C00229,Customer 0229,Male,26,Jaipur,Rajasthan,Consumer,2024-02-21,customer0229@example.test,Bronze
+C00230,Customer 0230,Male,70,Mumbai,Maharashtra,Consumer,2024-05-31,customer0230@example.test,Gold
+C00231,Customer 0231,Female,64,Chennai,Tamil Nadu,Corporate,2026-02-03,customer0231@example.test,Platinum
+C00232,Customer 0232,Other,43,Kochi,Kerala,Corporate,2022-05-17,customer0232@example.test,Silver
+C00233,Customer 0233,Other,60,Bengaluru,Karnataka,Small Business,2025-06-27,customer0233@example.test,Platinum
+C00234,Customer 0234,Female,57,Lucknow,Uttar Pradesh,Consumer,2022-06-29,customer0234@example.test,Platinum
+C00235,Customer 0235,Other,42,Chennai,Tamil Nadu,Corporate,2026-04-04,customer0235@example.test,Gold
+C00236,Customer 0236,Other,62,Mumbai,Maharashtra,Corporate,2022-04-02,customer0236@example.test,Silver
+C00237,Customer 0237,Other,34,Indore,Madhya Pradesh,Consumer,2023-05-14,customer0237@example.test,Gold
+C00238,Customer 0238, Male ,50,Hyderabad,Telangana,Premium,2022-08-18,customer0238@example.test,Gold
+C00239,Customer 0239,Other,54,Kochi,Kerala,Premium,2025-05-04,customer0239@example.test,Platinum
+C00240,Customer 0240,Female,55,Chennai,Tamil Nadu,Small Business,2023-09-25,customer0240@example.test,Platinum
+C00241,Customer 0241,Other,59,Indore,Madhya Pradesh,Consumer,24/04/2023,customer0241@example.test,Silver
+C00242,Customer 0242, Male ,64,Chennai, Tamil Nadu ,Small Business,2025-07-09,customer0242@example.test,Platinum
+C00243,Customer 0243,Other,27,Mumbai,Maharashtra,Consumer,2024-06-11,customer0243@example.test,Platinum
+C00244,Customer 0244,Female,52,Mumbai,Maharashtra,Corporate,2023-06-15, customer0244@example.test ,Silver
+C00245,Customer 0245,Other,63,Kochi,Kerala,Small Business,2023-05-29,customer0245@example.test,Platinum
+C00246,Customer 0246,Female,70,Mumbai,Maharashtra,Premium,2024-05-14,customer0246@example.test,PLATINUM
+C00247,Customer 0247,Female,22,Ahmedabad,Gujarat,Consumer,2023-12-02,customer0247@example.test,Silver
+C00248,Customer 0248,Male,25,Kolkata,West Bengal, Premium ,2022-01-08,customer0248@example.test,Silver
+C00249,Customer 0249,Male,40,Jodhpur,Rajasthan,Consumer,2023-04-13,customer0249@example.test,Bronze
+C00250,Customer 0250,Female,24,Ahmedabad,Gujarat,Corporate,2024-03-10,customer0250@example.test,Silver
+C00251,Customer 0251,Male,20,Ahmedabad,Gujarat,Consumer,2025-08-16,customer0251@example.test,Gold
+C00252,Customer 0252,Female,29,Kolkata,West Bengal,Consumer,2022-10-17,customer0252@example.test,Gold
+C00253,Customer 0253,Male,47,New Delhi,Delhi,Small Business,2024-09-12,customer0253@example.test,Platinum
+C00254,Customer 0254,Other,37,Mumbai,Maharashtra,Premium,2023-08-27,customer0254@example.test,Bronze
+C00255,Customer 0255,Male,71,Kochi,Kerala,Small Business,2026-03-15,customer0255@example.test,Platinum
+C00256,Customer 0256,Female,36,Jaipur,Rajasthan,Consumer,2022-11-13,customer0256@example.test,Gold
+C00257,Customer 0257,Male,58,KOLKATA,West Bengal,Consumer,2025-08-02,customer0257@example.test,Platinum
+C00258,Customer 0258,Other,63,Jodhpur,Rajasthan,Premium,2023-05-04,customer0258@example.test,Silver
+C00259,Customer 0259,Male,31,Hyderabad,Telangana,Corporate,2025-10-02,customer0259@example.test,Bronze
+C00260,Customer 0260,Male,24,Lucknow,Uttar Pradesh,Corporate,2024-04-16,customer0260@example.test,Gold
+C00261, Customer 0261 ,Female,44,Bengaluru,Karnataka,Consumer,2025-03-16,customer0261@example.test,Silver
+C00262,Customer 0262,Other,62,New Delhi,Delhi,Consumer,2023-07-04,customer0262@example.test,Gold
+C00263,Customer 0263,Female,31,Indore,Madhya Pradesh,Corporate,2024-11-20,customer0263@example.test,Platinum
+C00264,Customer 0264,Male,18, Jaipur ,Rajasthan,Consumer,2024-11-13,customer0264@example.test,Platinum
+C00265,Customer 0265,Other,32,Indore,Madhya Pradesh,Premium,2022-01-08,customer0265@example.test,Gold
+C00266,Customer 0266,Female,63,New Delhi,Delhi,Corporate,2026-01-03,customer0266@example.test,Platinum
+C00267,Customer 0267,Female,67,Kochi,Kerala,Premium,2023-08-28,customer0267@example.test,Gold
+C00268,Customer 0268,Other,60,Jodhpur,Rajasthan,Consumer, 2023-10-07 ,customer0268@example.test,Silver
+C00269,Customer 0269,Male,66,Mumbai,Maharashtra,Small Business,2026-01-11,customer0269@example.test,Silver
+C00270,Customer 0270,Male,64,Kochi,Kerala,Small Business,2023-02-17,customer0270@example.test,Bronze
+C00271,Customer 0271,Other,58,Kolkata,West Bengal,Small Business,2025-04-23,customer0271@example.test,Bronze
+C00272,Customer 0272,Female,75,Jodhpur,Rajasthan,Small Business,2024-03-25,customer0272@example.test,Silver
+C00273,Customer 0273,Other,21,New Delhi,Delhi,Small Business,2022-12-16,customer0273@example.test,Platinum
+C00274,Customer 0274,Female,49,Bengaluru,Karnataka,Consumer,2026-04-03,customer0274@example.test,Gold
+C00275,Customer 0275,Male,33,Chennai,Tamil Nadu,Premium,2022-08-29,customer0275@example.test,Platinum
+C00276,Customer 0276,Female,59,Jaipur,Rajasthan,Corporate,2023-03-05,customer0276@example.test,Bronze
+C00277,Customer 0277,Male,29,Kochi,Kerala,Premium,2022-09-17,customer0277@example.test,Gold
+C00278,Customer 0278,Male,44,Mumbai, Maharashtra ,Corporate,2022-10-12,customer0278@example.test,Gold
+C00279,Customer 0279,Male,48,Kochi,,Small Business,2023-11-14,customer0279@example.test,Platinum
+C00280,Customer 0280,Other,63,Indore,Madhya Pradesh,Consumer,17-Jul-2024,customer0280@example.test,Platinum
+C00281,Customer 0281,Other,61,Ahmedabad,Gujarat,Premium,2023-04-05,customer0281@example.test,Silver
+C00282,Customer 0282,Male,26,Ahmedabad,Gujarat,Consumer,2022-03-21,customer0282@example.test,Silver
+C00283,Customer 0283,Other,24,Kolkata,West Bengal,Premium,2023-06-18,customer0283@example.test,Gold
+C00284,Customer 0284,Male,64,Ahmedabad,Gujarat,Premium,2023-03-19,customer0284@example.test,Bronze
+C00285,Customer 0285,Other,48,Mumbai,Maharashtra, Corporate ,2024-12-06,customer0285@example.test,Bronze
+C00286,Customer 0286,Female,58,New Delhi,Delhi,Premium,2025-07-22,customer0286@example.test,Platinum
+C00287,Customer 0287,Other,57,Bengaluru,Karnataka,Small Business,2025-05-13,customer0287@example.test,Bronze
+C00288,Customer 0288,Other,29,Jaipur,Rajasthan,Corporate,2024-08-18,customer0288@example.test,Silver
+C00289,Customer 0289,Female,64,Kolkata,West Bengal,Consumer,2025-10-03,customer0289@example.test,Gold
+C00290,Customer 0290,Male,41,New Delhi,Delhi,Corporate,2023-11-23,customer0290@example.test,Bronze
+C00291,Customer 0291,Other,53,Lucknow,Uttar Pradesh,Premium,2022-09-06,customer0291@example.test,Gold
+C00292,Customer 0292,Male,62,Indore,Madhya Pradesh,Corporate,2024-08-16,customer0292@example.test,Platinum
+C00293,Customer 0293,Female,52,New Delhi,Delhi,Corporate,2024-03-01,customer0293@example.test,Platinum
+C00294,Customer 0294,Female,55,Hyderabad,Telangana,Consumer,2022-12-24,customer0294@example.test,Bronze
+C00295,Customer 0295,Male,25,Bengaluru,Karnataka,Small Business,2025-02-22,customer0295@example.test,Silver
+C00296,Customer 0296,Female,52,Kochi,Kerala,Corporate,2025-10-13,customer0296@example.test,Bronze
+C00297,Customer 0297,Female,25,New Delhi,Delhi,Small Business,12/05/2023,customer0297@example.test,GOLD
+C00298,Customer 0298,Male,66,Jodhpur,Rajasthan,Corporate,2023-08-06,customer0298@example.test,Silver
+C00299,Customer 0299,Female,20,Bengaluru,Karnataka,Small Business,2022-06-04,customer0299@example.test,Gold
+C00300,Customer 0300,Other,41,Chennai,Tamil Nadu,Consumer,2024-10-24,customer0300@example.test,Platinum
+C00301,Customer 0301,Male,63,Ahmedabad,Gujarat,Corporate,2024-01-20,customer0301@example.test,Silver
+C00302,Customer 0302,Other,24,Chennai,Tamil Nadu,Premium,2025-09-04,customer0302@example.test,Silver
+C00303,Customer 0303,Other,65,New Delhi,Delhi,Premium,2022-06-01,customer0303@example.test,Platinum
+C00304,Customer 0304,Female,34,Chennai,Tamil Nadu,Small Business,2022-07-16,customer0304@example.test,Platinum
+C00305,Customer 0305,Female,39,New Delhi,Delhi,Consumer,2025-05-18,customer0305@example.test,Bronze
+C00306,Customer 0306,Female,19,Bengaluru,Karnataka,Small Business,2025-08-20,customer0306@example.test,Silver
+C00307,Customer 0307,Female,70,Hyderabad,Telangana,Small Business,03-Aug-2022,customer0307@example.test,Platinum
+C00308,Customer 0308,Male,51,Mumbai,Maharashtra,Corporate,2023-06-01,customer0308@example.test,Platinum
+C00309,Customer 0309,Female,23,Chennai,Tamil Nadu,Premium,2023-02-11,customer0309@example.test,Gold
+C00310,Customer 0310,Female,72,Ahmedabad,Gujarat,Corporate,2023-12-05,customer0310@example.test,Gold
+C00311,Customer 0311,Male,68,Chennai,Tamil Nadu,Premium,2023-12-10,customer0311@example.test,Bronze
+C00312,Customer 0312,Male,63,Mumbai,Maharashtra,Consumer,2025-09-11,customer0312@example.test,Bronze
+C00313,Customer 0313,Male,58,Lucknow,Uttar Pradesh,Consumer,2024-03-29,customer0313@example.test,Bronze
+C00314,Customer 0314,,67,Kolkata,West Bengal,Corporate,2023-01-04,customer0314@example.test,Platinum
+C00315,Customer 0315,Male,35,Jodhpur,Rajasthan,Premium,2026-02-03,customer0315@example.test,Silver
+C00316,Customer 0316,Other,29,Mumbai,Maharashtra,Small Business,2023-02-21,customer0316@example.test,Bronze
+C00317,Customer 0317,Female,46,Ahmedabad,Gujarat,Small Business,2022-07-04,customer0317@example.test,Bronze
+C00318,Customer 0318,Other,39,Chennai,Tamil Nadu,Premium,2022-05-13,customer0318@example.test,Gold
+C00319,Customer 0319,Male,65,Bengaluru,Karnataka,Corporate,2023-09-12,customer0319@example.test,Silver
+C00320,Customer 0320,Male,18,Bengaluru,Karnataka,Premium,2024-02-01,customer0320@example.test,Gold
+C00321,Customer 0321,Male,59,Jodhpur,Rajasthan,Small Business,2025-08-07,customer0321@example.test,Gold
+C00322,Customer 0322,Other,58,Jodhpur,Rajasthan,Corporate,2025-03-01,customer0322@example.test,Silver
+C00323,Customer 0323,Female,46,Lucknow,Uttar Pradesh,Small Business,2025-12-29,customer0323@example.test, Platinum 
+C00324,Customer 0324,Female,30,Hyderabad,Telangana,Consumer,,customer0324@example.test,BRONZE
+C00325,Customer 0325,Male,29,Chennai,Tamil Nadu,Small Business,2022-02-10,customer0325@example.test,Silver
+C00326,Customer 0326,FEMALE,27,Jodhpur,Rajasthan,Premium,2025-04-29,customer0326@example.test,Gold
+C00327,Customer 0327,Female,29,Kochi,Kerala,Consumer,2022-03-06,customer0327@example.test,Silver
+C00328,Customer 0328,Male,51,Jaipur,Rajasthan,Small Business,2025-10-25,customer0328@example.test,Silver
+C00329,Customer 0329,Other,36,Lucknow,Uttar Pradesh,Consumer,2025-03-26,customer0329@example.test,Gold
+C00330,Customer 0330,Other,37,Chennai,Tamil Nadu,Small Business,08/06/2023,customer0330@example.test,Gold
+C00331,Customer 0331,Male,75,Jodhpur,Rajasthan,Consumer,2023-04-05,customer0331@example.test,Gold
+C00332,Customer 0332,Female,24,Ahmedabad,Gujarat,Small Business,2024-04-14,customer0332@example.test,Bronze
+C00333,Customer 0333,Male,38,Lucknow,Uttar Pradesh,Premium,2026-03-16,customer0333@example.test,Gold
+C00334,Customer 0334,Male,22, Mumbai ,Maharashtra,Premium,2023-06-06,customer0334@example.test,Platinum
+C00335,CUSTOMER 0335,Other,72,Mumbai,Maharashtra,Small Business,2026-01-19,customer0335@example.test,Bronze
+C00336,Customer 0336,Male,71,New Delhi,Delhi,Small Business,2022-11-26,customer0336@example.test,Gold
+C00337,Customer 0337,Female,51,Bengaluru,Karnataka,Consumer,2025-12-14,customer0337@example.test,Gold
+C00338,Customer 0338,Other,54,New Delhi,Delhi,Corporate,2022-03-05,customer0338@example.test,Silver
+C00339,Customer 0339,Female,28,Jaipur,Rajasthan,Premium,2024-03-22,customer0339@example.test,Gold
+C00340,Customer 0340,Female,27,Chennai,Tamil Nadu,Corporate,2022-06-04,customer0340@example.test,Platinum
+C00341,Customer 0341,Other,75,Kolkata,West Bengal,Small Business,2025-04-04,customer0341@example.test,Silver
+C00342,Customer 0342,Male,53,Chennai,Tamil Nadu,Small Business,2022-11-14,customer0342@example.test,Gold
+C00343,Customer 0343,Male,40,Kochi,Kerala,Small Business,2026-02-15,customer0343@example.test,Gold
+C00344,Customer 0344,Female,52,Ahmedabad,Gujarat,Small Business,2024-02-08,customer0344@example.test,Bronze
+C00345,Customer 0345,Female,62,Indore,Madhya Pradesh,Premium,2022-08-12,customer0345@example.test,Silver
+C00346,Customer 0346,Other,63,Ahmedabad,Gujarat,Small Business,30/06/2024,customer0346@example.test,Silver
+C00347,Customer 0347,Female,29,Jaipur,Rajasthan,Small Business,2023-08-24,customer0347@example.test,Silver
+C00348,Customer 0348,Other,25,New Delhi,Delhi,Small Business,2023-11-27,customer0348@example.test,Gold
+C00349,Customer 0349,Other,70,Hyderabad,Telangana,Consumer,2022-04-20,customer0349@example.test,Silver
+C00350,Customer 0350,Female,23,Hyderabad,Telangana,Consumer,2026-02-09,customer0350@example.test,Gold
+C00351,Customer 0351,Male,63,Indore,Madhya Pradesh,Premium,2023-05-26,customer0351@example.test,Gold
+C00352,Customer 0352,Male,38,Jaipur,Rajasthan,Premium,2024-05-15,customer0352@example.test,Bronze
+C00353,Customer 0353,Male,31,Ahmedabad,Gujarat,Consumer,2023-03-08,customer0353@example.test,Bronze
+C00354,Customer 0354,Female,66,Chennai,Tamil Nadu,Corporate,2023-04-12,customer0354@example.test,Bronze
+C00355,Customer 0355,Male,33,Lucknow,Uttar Pradesh,Consumer, 2024-09-18 ,customer0355@example.test,Bronze
+C00356,Customer 0356,Other,41,New Delhi,Delhi,Premium,2024-12-10,customer0356@example.test,Gold
+C00357,Customer 0357,Other,24,Kochi,Kerala,Premium,2024-11-25,customer0357@example.test,Silver
+C00358,Customer 0358,Other,31,Chennai,Tamil Nadu,Corporate,2023-09-07,customer0358@example.test,Silver
+C00359,Customer 0359,Male,56,Kochi,Kerala,Consumer,2026-04-14,customer0359@example.test,Bronze
+C00360,Customer 0360,Female,61,Mumbai,Maharashtra,Consumer,2024-03-28,customer0360@example.test,Bronze
+C00361,Customer 0361,Female,41,Hyderabad,Telangana,Small Business,2024-02-29,customer0361@example.test,Platinum
+C00362,Customer 0362,Other,42,Hyderabad,Telangana,Consumer,2023-10-03,customer0362@example.test,Gold
+C00363,Customer 0363,Other,27,Bengaluru,Karnataka,Small Business,2023-09-12,customer0363@example.test,Gold
+C00364,Customer 0364,Male,49,Kolkata,West Bengal,Consumer,2022-01-21,customer0364@example.test,Silver
+C00365,Customer 0365,Female,57,Mumbai,Maharashtra,Small Business,26-Aug-2023,customer0365@example.test,Gold
+C00366,Customer 0366,Female,72,Kolkata,West Bengal,Corporate,2023-02-10,customer0366@example.test,Bronze
+C00367,Customer 0367,Male,69,Jodhpur,Rajasthan,Small Business,2022-11-04,customer0367@example.test,Gold
+C00368,Customer 0368,Male,55,Mumbai,Maharashtra,Premium,2022-05-04,customer0368@example.test,Silver
+C00369,Customer 0369,MALE,75,Chennai,Tamil Nadu,Consumer,2025-09-27,customer0369@example.test,Platinum
+C00370,Customer 0370,Male,39,Mumbai,Maharashtra,Premium,2025-09-19,customer0370@example.test,Bronze
+C00371,Customer 0371,Female,60,Jaipur,Rajasthan,Premium,2024-01-22,customer0371@example.test,Bronze
+C00372,Customer 0372,Female,40, Bengaluru ,Karnataka,Premium,2026-03-10,customer0372@example.test,Silver
+C00373,Customer 0373,Male,62,Ahmedabad,Gujarat,Consumer,2025-08-13,customer0373@example.test,Platinum
+C00374,Customer 0374,Female,51,Jaipur,Rajasthan,Corporate,2024-05-22,customer0374@example.test,Silver
+C00375,Customer 0375,Male,32,Bengaluru,Karnataka,Premium,2024-01-20,customer0375@example.test,Gold
+C00376,Customer 0376,Female,27,New Delhi,Delhi,Small Business,2024-05-24,customer0376@example.test,Silver
+C00377,Customer 0377,Other,35,Jaipur,Rajasthan,Corporate,2022-05-04,customer0377@example.test,Platinum
+C00378,Customer 0378,FEMALE,57,Hyderabad,Telangana,Small Business,2023-12-24,customer0378@example.test,Bronze
+C00379,Customer 0379,Female,63,Hyderabad,Telangana,Premium,2024-09-27,customer0379@example.test,Silver
+C00380,Customer 0380,Other,72,Ahmedabad,Gujarat,Consumer,2024-05-23,customer0380@example.test,Silver
+C00381,Customer 0381,Other,58,Kochi,Kerala,Corporate,2023-07-25,,Platinum
+C00382,Customer 0382,Male,56,Indore,Madhya Pradesh,Corporate,2025-02-10,customer0382@example.test,Silver
+C00383,Customer 0383,Female,41,Kolkata,West Bengal,Small Business,2023-03-17,customer0383@example.test,Gold
+C00384,Customer 0384,Female,72,Ahmedabad,Gujarat,Small Business,11-Nov-2025,customer0384@example.test,Silver
+C00385,Customer 0385,Male,23,Ahmedabad,Gujarat,Premium,2024-11-16,customer0385@example.test,Gold
+C00386,Customer 0386,Male,63,Ahmedabad,Gujarat,Consumer,2024-01-27,customer0386@example.test,Bronze
+C00387,Customer 0387,Female,48,Lucknow,Uttar Pradesh,Premium,2025-06-26,customer0387@example.test,Silver
+C00388,Customer 0388,Other,32,Kolkata,West Bengal,Small Business,2025-12-19,customer0388@example.test,Gold
+C00389,Customer 0389,Other,54,Mumbai,Maharashtra,Premium,2023-06-01,customer0389@example.test,Silver
+C00390,Customer 0390,Female,47,Ahmedabad,Gujarat,Small Business,2022-09-28,customer0390@example.test,Platinum
+C00391,Customer 0391,Male,18,Indore,Madhya Pradesh,Small Business,2022-08-30,customer0391@example.test,Gold
+C00392,Customer 0392,Other,30,Kochi,Kerala,Small Business,2024-09-03,customer0392@example.test,Gold
+C00393,Customer 0393,Other,65,Jodhpur,Rajasthan,Corporate,2025-10-05,customer0393@example.test,Silver
+C00394,Customer 0394,Other,38,Lucknow,Uttar Pradesh,Corporate,2023-01-19,customer0394@example.test,Bronze
+C00395,Customer 0395,Female,62,Chennai,Tamil Nadu,Small Business,2025-02-19,customer0395@example.test,Bronze
+C00396,Customer 0396,Male,58, Jaipur ,Rajasthan,Corporate, 2022-10-17 ,customer0396@example.test,Gold
+C00397,Customer 0397,Other,70,Kochi,Kerala,Consumer,2023-03-20,customer0397@example.test,Silver
+C00398,Customer 0398,Female,51,New Delhi,Delhi,Corporate,2025-11-24,customer0398@example.test,Gold
+C00399,Customer 0399,Other,72,New Delhi,Delhi,Premium,2023-08-02,customer0399@example.test,Silver
+C00400,Customer 0400,Female,20,Ahmedabad,Gujarat,Corporate,2026-05-13,customer0400@example.test,Platinum
+C00401,Customer 0401,Other,72,Lucknow,Uttar Pradesh,Small Business,2022-10-24,customer0401@example.test,Platinum
+C00402,Customer 0402,Other,72,Indore,Madhya Pradesh,Premium,2022-02-19,customer0402@example.test,Platinum
+C00403,Customer 0403,Male,46,Mumbai,Maharashtra,Premium,2022-03-17,customer0403@example.test,Bronze
+C00404,Customer 0404,Male,67,Ahmedabad,Gujarat,Premium,2023-04-08,customer0404@example.test,Silver
+C00405,Customer 0405,Male,28,Mumbai,Maharashtra,Premium,2022-01-27,customer0405@example.test,Bronze
+C00406,Customer 0406,Male,71, Lucknow ,Uttar Pradesh,Premium,2025-03-20,customer0406@example.test,Bronze
+C00407,Customer 0407,Female,34,Ahmedabad,Gujarat,Small Business,2023-01-26,customer0407@example.test, Bronze 
+C00408,Customer 0408,Other,50,Ahmedabad,Gujarat,Corporate,2022-05-09,customer0408@example.test,Silver
+C00409,Customer 0409,Female,52,Bengaluru,Karnataka,Premium,2023-10-12,customer0409@example.test,Platinum
+C00410,Customer 0410,Male,65,Lucknow,Uttar Pradesh,Premium,2025-03-21,customer0410@example.test,Gold
+C00411,Customer 0411,Other,68,New Delhi,Delhi,Small Business,2025-03-12,customer0411@example.test,Gold
+C00412,Customer 0412,Female,25,Jaipur,Rajasthan,PREMIUM,2023-04-20,customer0412@example.test,Gold
+C00413,Customer 0413,Other,30,Bengaluru,Karnataka,Corporate,2024-09-03,customer0413@example.test,Silver
+C00414,Customer 0414,Male,48,Ahmedabad,Gujarat,Corporate,03/08/2024,customer0414@example.test,Bronze
+C00415,Customer 0415,Female,38,Jaipur,Rajasthan,Small Business,2025-01-30,customer0415@example.test,Bronze
+C00416,Customer 0416,Female,49,Kolkata,West Bengal,Premium,2022-04-07,customer0416@example.test,Silver
+C00417,Customer 0417,Male,70,New Delhi,Delhi,Corporate,2024-06-28,customer0417@example.test,Silver
+C00418,Customer 0418,Male,44,Lucknow, Uttar Pradesh ,Consumer,2023-04-21,customer0418@example.test,Silver
+C00419,Customer 0419,Male,27,Kolkata,West Bengal,Premium,25-Jun-2025,customer0419@example.test,Silver
+C00420,Customer 0420, Female ,43,Indore,Madhya Pradesh,Corporate,2024-11-24,customer0420@example.test,Gold
+C00421,Customer 0421,Female,40,Lucknow,Uttar Pradesh,Corporate,2024-07-17,customer0421@example.test,Silver
+C00422,Customer 0422,Male,49,Chennai,Tamil Nadu,Corporate,2025-12-30,customer0422@example.test,Platinum
+C00423,Customer 0423,Female,24,Mumbai,Maharashtra,Small Business,2023-04-30,customer0423@example.test,Platinum
+C00424,Customer 0424,Other,62,New Delhi,Delhi,Premium,2022-01-20,customer0424@example.test,Platinum
+C00425,Customer 0425,Male,29,Hyderabad,Telangana,Consumer,2024-11-23,customer0425@example.test,Silver
+C00426,Customer 0426,Other,67,New Delhi,Delhi,Premium,2026-01-02,customer0426@example.test,Silver
+C00427,Customer 0427,Female,67,Chennai,Tamil Nadu,Premium,2025-03-07,customer0427@example.test,Gold
+C00428,Customer 0428,Other,30,New Delhi,Delhi,Small Business,2026-05-20,customer0428@example.test,Platinum
+C00429,Customer 0429,Female,33,Jodhpur,Rajasthan,Small Business,2024-09-18,customer0429@example.test,Gold
+C00430,Customer 0430,Female,32,Hyderabad,Telangana,Corporate,2022-12-08,customer0430@example.test,Bronze
+C00431,Customer 0431,Male,44, Bengaluru ,Karnataka,Small Business,2023-04-17, customer0431@example.test ,Silver
+C00432,Customer 0432,Male,33,Hyderabad,Telangana, Small Business ,2024-07-09,customer0432@example.test,Bronze
+C00433,Customer 0433,Other,27,Indore,Madhya Pradesh,Consumer,2023-03-19,customer0433@example.test,Gold
+C00434,Customer 0434,Female,39,Kochi,Kerala,Premium,2025-10-10,customer0434@example.test,Platinum
+C00435,Customer 0435,Female,56,Jodhpur,Rajasthan,Premium,2025-10-11,customer0435@example.test,Bronze
+C00436,Customer 0436,Male,24,Ahmedabad,Gujarat,Consumer,2023-01-14,customer0436@example.test,Gold
+C00437,Customer 0437,Male,45,Jaipur,Rajasthan,Consumer,2025-05-27,customer0437@example.test,Silver
+C00438,Customer 0438,Other,60,Mumbai,Maharashtra,Corporate,2024-05-12,customer0438@example.test,Bronze
+C00439,Customer 0439,Female,39,Ahmedabad,Gujarat,Premium,2025-01-24,customer0439@example.test,Silver
+C00440,Customer 0440,Male,36,Lucknow,Uttar Pradesh,Consumer,2026-02-28,customer0440@example.test,Bronze
+C00441,Customer 0441,Female,67,Chennai,Tamil Nadu,Premium,2022-12-22,customer0441@example.test,Platinum
+C00442,Customer 0442,Female,39,Hyderabad,Telangana,Consumer,2024-02-08,customer0442@example.test,Gold
+C00443,Customer 0443,Female,66,New Delhi,Delhi,Consumer,2023-06-16,customer0443@example.test,SILVER
+C00444,Customer 0444,Female,73,Ahmedabad,Gujarat,Small Business,2025-03-27,customer0444@example.test,Gold
+C00445,Customer 0445,Male,18,Jaipur,Rajasthan,Corporate,2023-10-06,customer0445@example.test,Platinum
+C00446,Customer 0446,Female,34,Kolkata,West Bengal,Small Business,2022-07-12,customer0446@example.test,Silver
+C00447,Customer 0447,FEMALE,54,Jaipur,Rajasthan,Corporate,2023-11-03,customer0447@example.test,Bronze
+C00448,Customer 0448,Male,22,Lucknow,Uttar Pradesh,Consumer,2024-10-31,customer0448@example.test,Bronze
+C00449,Customer 0449,Male,53,Kochi,Kerala,Premium,2022-04-05,customer0449@example.test,Gold
+C00450,Customer 0450,Male,38,New Delhi,Delhi,Small Business,2022-08-11,customer0450@example.test,Gold
+C00451,Customer 0451,Other,64,Jodhpur,Rajasthan,Small Business,2022-08-19,customer0451@example.test,Silver
+C00452,Customer 0452,Male,51,Mumbai,Maharashtra,Premium,19/04/2023,customer0452@example.test,Gold
+C00453,Customer 0453,Female,54,Mumbai,Maharashtra,Corporate,2026-05-20,customer0453@example.test,Silver
+C00454,Customer 0454,Male,27,Indore,Madhya Pradesh,Consumer,2025-01-16,customer0454@example.test,Silver
+C00455,Customer 0455,Female,70,Indore,Madhya Pradesh,Small Business,2025-08-02,customer0455@example.test,Silver
+C00456,Customer 0456,Other,35,Mumbai,Maharashtra,Premium,2023-10-11,customer0456@example.test,Gold
+C00457,Customer 0457,Male,22,,Rajasthan,Premium,2024-02-27,customer0457@example.test,Silver
+C00458,Customer 0458,Other,36,New Delhi,Delhi,Small Business,2026-03-24,customer0458@example.test,Gold
+C00459,Customer 0459,Other,58,Indore,Madhya Pradesh,Corporate,2022-03-05,customer0459@example.test,Silver
+C00460,Customer 0460,Female,27,Indore,Madhya Pradesh,Corporate,2024-07-23,customer0460@example.test,Platinum
+C00461,Customer 0461,Other,53,Hyderabad,Telangana,Consumer,2026-02-20,customer0461@example.test,Silver
+C00462,Customer 0462,Other,26,Bengaluru,Karnataka,Small Business,2022-05-29,customer0462@example.test,Silver
+C00463,Customer 0463,Female,54,Jodhpur,Rajasthan,Consumer,2025-02-22,customer0463@example.test,Gold
+C00464,Customer 0464,Female,40,Ahmedabad,Gujarat,Consumer,2022-11-12,customer0464@example.test,Gold
+C00465,Customer 0465,Male,56,Bengaluru,Karnataka,Consumer,2024-05-26,customer0465@example.test,Platinum
+C00466,Customer 0466,Female,34,Kolkata,West Bengal,Small Business,2025-07-01,customer0466@example.test,Silver
+C00467,Customer 0467,Female,36,Lucknow,Uttar Pradesh,Consumer,2023-02-06,customer0467@example.test,Bronze
+C00468,Customer 0468,Other,32,Hyderabad,Telangana,Corporate,2023-06-29,customer0468@example.test,Platinum
+C00469,Customer 0469,Male,42, New Delhi ,Delhi,Corporate,2025-10-15,customer0469@example.test,Gold
+C00470, Customer 0470 ,Other,63,Indore,Madhya Pradesh,Consumer,16-Jun-2022,customer0470@example.test,Bronze
+C00471,Customer 0471,Male,62,Indore,Madhya Pradesh,Small Business,2022-01-24,customer0471@example.test,Platinum
+C00472,Customer 0472,Male,44,Lucknow,Uttar Pradesh,Premium,2024-01-21,customer0472@example.test,Bronze
+C00473,Customer 0473,Male,63,Chennai,Tamil Nadu,Corporate,2022-04-10,customer0473@example.test,Gold
+C00474,Customer 0474,Other,72,Mumbai,Maharashtra,Corporate,2023-07-30,customer0474@example.test,Gold
+C00475,Customer 0475,Male,26,Kolkata,West Bengal,Corporate,2025-02-28,customer0475@example.test, Gold 
+C00476,Customer 0476,Other,28,Mumbai,Maharashtra,Consumer,2023-12-04,customer0476@example.test,Silver
+C00477,Customer 0477,Other,26,Mumbai,MAHARASHTRA,Premium,2024-06-15,customer0477@example.test,Bronze
+C00478,Customer 0478,Female,28,Kochi,Kerala,Premium,2025-07-14,customer0478@example.test,Bronze
+C00479,Customer 0479,Other,69,Jodhpur,Rajasthan,Corporate,2026-03-10,customer0479@example.test,BRONZE
+C00480,Customer 0480,Male,39,Jodhpur,Rajasthan,Consumer,2024-10-22,customer0480@example.test,Gold
+C00481,Customer 0481,Female,18,Kochi,Kerala,Corporate,2025-10-19,customer0481@example.test,Platinum
+C00482,Customer 0482,Other,56,Chennai,Tamil Nadu,Corporate,2024-01-19,customer0482@example.test, Bronze 
+C00483,Customer 0483,Other,40,Kolkata,West Bengal,Corporate,2024-01-14,customer0483@example.test,Gold
+C00484,Customer 0484,Female,49,Chennai,Tamil Nadu,Corporate,2022-10-31,customer0484@example.test,Bronze
+C00485,Customer 0485,Other,46,Indore,Madhya Pradesh,Consumer,2025-11-23,customer0485@example.test,Bronze
+C00486,Customer 0486,Male,72,Jaipur,Rajasthan,Premium,2024-01-15,customer0486@example.test,Gold
+C00487,Customer 0487,Female,46,New Delhi,Delhi,Small Business,2024-07-31,customer0487@example.test,Silver
+C00488,Customer 0488,Other,26,Mumbai,Maharashtra,Premium,2025-03-23,customer0488@example.test,Bronze
+C00489,Customer 0489,Male,42,Kochi,Kerala,Small Business,2022-02-21,customer0489@example.test,Bronze
+C00490,Customer 0490,Other,22,Kochi,Kerala,Small Business,2025-05-12, customer0490@example.test ,Bronze
+C00491,Customer 0491,Male,71,Kochi,Kerala,Corporate,2024-05-04,customer0491@example.test,Bronze
+C00492,Customer 0492,Male,73,Kochi,Kerala,SMALL BUSINESS,2023-10-31,customer0492@example.test,Silver
+C00493,Customer 0493,Female,62,Kolkata,West Bengal,Small Business,2022-12-29,customer0493@example.test,Bronze
+C00494,Customer 0494,Female,21,Kochi,Kerala,Consumer,2025-09-12,customer0494@example.test,Bronze
+C00495,Customer 0495,Other,39,Lucknow,Uttar Pradesh,Consumer,2023-07-06,customer0495@example.test,Bronze
+C00496,Customer 0496,Male,56,Mumbai,Maharashtra,Consumer,2025-01-03,customer0496@example.test,Silver
+C00497,Customer 0497,Female,25,Bengaluru,Karnataka,Small Business,2022-05-24,customer0497@example.test,Gold
+C00498,Customer 0498,Male,26,Bengaluru,Karnataka,Premium,27-Jan-2026,customer0498@example.test,Bronze
+C00499,Customer 0499,Other,26,Kochi,Kerala,Small Business,,customer0499@example.test,Bronze
+C00500,Customer 0500,Male,63,Chennai,Tamil Nadu,Corporate, 2024-12-15 ,customer0500@example.test,Gold
+C00501,Customer 0501,Other,19,Hyderabad,Telangana,Consumer,2022-11-28, customer0501@example.test ,Silver
+C00502,Customer 0502,Female,29,Ahmedabad,Gujarat,Premium,2023-02-22,customer0502@example.test,Bronze
+C00503,Customer 0503,Female,48,Ahmedabad,Gujarat,Premium,2023-01-08,customer0503@example.test,Platinum
+C00504,Customer 0504,Male,60,Bengaluru,Karnataka,Consumer, 2023-04-12 ,customer0504@example.test,Bronze
+C00505,Customer 0505,Female,61,New Delhi,Delhi,Consumer,2023-04-10,customer0505@example.test,Platinum
+C00506,Customer 0506,Other,49,Chennai,Tamil Nadu,Consumer,2023-08-18,customer0506@example.test,Silver
+C00507,Customer 0507,Male,62,Hyderabad,Telangana,Corporate,2023-06-03,customer0507@example.test,Gold
+C00508,Customer 0508,Other,23,Lucknow,Uttar Pradesh,Corporate,2025-08-31,customer0508@example.test,Platinum
+C00509,Customer 0509,Other,66,Kolkata,West Bengal,Small Business,2023-04-17,customer0509@example.test,Platinum
+C00510,Customer 0510,Other,58,Bengaluru,Karnataka,Consumer,2024-01-11,customer0510@example.test,Silver
+C00511,Customer 0511,Female,44,Jodhpur,Rajasthan,Consumer,2022-03-08,customer0511@example.test,Platinum
+C00512,Customer 0512,Male,24,Bengaluru,Karnataka,Consumer,2023-05-22,customer0512@example.test,Bronze
+C00513,Customer 0513,Male,37,Kochi,Kerala,Consumer,2023-06-12,customer0513@example.test,Platinum
+C00514,Customer 0514,Male,26,Mumbai,Maharashtra,Consumer,2025-04-17,customer0514@example.test,Platinum
+C00515,Customer 0515,Female,33,Hyderabad,Telangana,Consumer,2025-06-24,customer0515@example.test,Platinum
+C00516,Customer 0516,Other,32,Mumbai,Maharashtra,Corporate,2022-08-15,customer0516@example.test,Platinum
+C00517,Customer 0517,Male,73,Ahmedabad,Gujarat, Premium ,2024-01-03,customer0517@example.test,Gold
+C00518,Customer 0518,Other,27,Ahmedabad,Gujarat,Consumer,2023-10-19,customer0518@example.test,Gold
+C00519,Customer 0519,Other,50,Indore,Madhya Pradesh,Consumer,2022-10-19,customer0519@example.test,Silver
+C00520,Customer 0520,Male,25,Jodhpur,Rajasthan,Consumer,2022-05-25,customer0520@example.test,Bronze
+C00521,Customer 0521,Male,33,Kochi,Kerala,Premium,2023-05-03,customer0521@example.test,Silver
+C00522,Customer 0522,Male,61,Kolkata,West Bengal,Consumer,2025-07-09,customer0522@example.test,Gold
+C00523,CUSTOMER 0523,Other,32,Bengaluru,Karnataka,Corporate,2023-02-23,customer0523@example.test,Bronze
+C00524,Customer 0524,Male,47,Indore,Madhya Pradesh,Consumer,2024-06-26,customer0524@example.test,Bronze
+C00525,Customer 0525,Other,73,Indore,Madhya Pradesh,Consumer,2024-07-08,customer0525@example.test,Gold
+C00526,Customer 0526,Male,36,Jaipur,Rajasthan,Corporate,2024-11-13,customer0526@example.test,Bronze
+C00527,Customer 0527,Male,56,Chennai,Tamil Nadu,Small Business,2022-09-13,customer0527@example.test,Bronze
+C00528,Customer 0528, Other ,21,Hyderabad,Telangana,Small Business,2024-05-24,customer0528@example.test,Gold
+C00529,Customer 0529,Female,46,Jaipur,Rajasthan,Consumer,2022-10-26,customer0529@example.test,Silver
+C00530,Customer 0530,Other,35,New Delhi,Delhi,Corporate,2022-03-24,customer0530@example.test,Bronze
+C00531,Customer 0531,Other,53,Hyderabad,Telangana,Small Business,2022-05-28,customer0531@example.test,Bronze
+C00532,Customer 0532,Female,55,Indore,Madhya Pradesh,Consumer,2022-09-17,customer0532@example.test,Silver
+C00533,Customer 0533,Female,49,Indore,Madhya Pradesh,Small Business, 2024-01-27 ,customer0533@example.test,Silver
+C00534,Customer 0534,Female,68,Jaipur,Rajasthan,Consumer,2025-09-25,customer0534@example.test,Bronze
+C00535,Customer 0535,Female,51,Indore,Madhya Pradesh,Small Business,2022-12-25,customer0535@example.test,Gold
+C00536,Customer 0536,Male,58,Chennai,Tamil Nadu,Premium,2022-04-18,customer0536@example.test,Bronze
+C00537,Customer 0537,Other,68,Kolkata,West Bengal,Premium,2024-07-02,customer0537@example.test,Silver
+C00538,Customer 0538,Other,46,New Delhi,Delhi,Consumer,2026-01-09,customer0538@example.test,Platinum
+C00539,Customer 0539,Other,24,Jaipur,Rajasthan,Corporate,2026-03-21,customer0539@example.test,Platinum
+C00540,Customer 0540,Male,46,AHMEDABAD,Gujarat,Premium,2024-07-06,customer0540@example.test,Bronze
+C00541, Customer 0541 ,Female,30,Bengaluru,Karnataka,Small Business,2023-02-09,customer0541@example.test,Silver
+C00542,Customer 0542,Female,53,Chennai,Tamil Nadu,CONSUMER,2026-02-25,customer0542@example.test,Gold
+C00543,Customer 0543,,20,Jaipur,Rajasthan,Small Business,2023-05-22,customer0543@example.test,Gold
+C00544,Customer 0544,Female,50,Chennai,Tamil Nadu,Corporate,2024-04-16,customer0544@example.test,Bronze
+C00545,Customer 0545,Male,31,New Delhi,Delhi,Premium,2024-11-11,,Gold
+C00546,Customer 0546,Other,66,Indore,Madhya Pradesh,Consumer,2024-07-01,customer0546@example.test,Platinum
+C00547,Customer 0547,Male,26,Kolkata,West Bengal,Corporate,2022-08-07,customer0547@example.test,Bronze
+C00548,Customer 0548,Other,19,Indore,Madhya Pradesh,Small Business,2025-10-28,customer0548@example.test,Gold
+C00549,Customer 0549, Female ,30,Hyderabad,Telangana,Consumer,2023-07-06,customer0549@example.test,Silver
+C00550,Customer 0550,Male,36,Indore,Madhya Pradesh,Corporate,2025-04-13,customer0550@example.test,Platinum
+C00551, Customer 0551 ,Other,18,New Delhi,Delhi,Small Business,2026-02-16,customer0551@example.test,Platinum
+C00552,Customer 0552,Male,62,Bengaluru,Karnataka,Corporate,2022-01-01,customer0552@example.test,Platinum
+C00553,Customer 0553,Female,58,Kochi,Kerala,Small Business,2023-03-07,CUSTOMER0553@EXAMPLE.TEST,Platinum
+C00554,Customer 0554,Male,48,Mumbai,Maharashtra,Consumer,2022-03-07,customer0554@example.test,Bronze
+C00555,Customer 0555,Female,18,Indore,Madhya Pradesh,Small Business,2023-12-28,customer0555@example.test,Gold
+C00556,CUSTOMER 0556,Other,27,Kochi,Kerala,Small Business,2024-12-11,customer0556@example.test,Bronze
+C00557,Customer 0557,Male,30,Indore,Madhya Pradesh,Corporate,2026-03-21,customer0557@example.test,Gold
+C00558, Customer 0558 ,Female,58,Indore,Madhya Pradesh,Small Business,2022-01-30,customer0558@example.test,Bronze
+C00559,Customer 0559,Male,34,Jodhpur,Rajasthan,Small Business,2022-03-16,customer0559@example.test,Bronze
+C00560,Customer 0560,Female,29,Lucknow,Uttar Pradesh,Small Business,2025-09-27,customer0560@example.test,Gold
+C00561,Customer 0561,Other,22,Kolkata,West Bengal,Consumer,2024-02-23,customer0561@example.test,Bronze
+C00562,Customer 0562,Female,23,Jaipur,Rajasthan,Small Business,2025-08-15,customer0562@example.test,Gold
+C00563,Customer 0563,Male,53,Chennai,Tamil Nadu,Consumer,2026-04-12,customer0563@example.test,Silver
+C00564,Customer 0564,Other,45,Chennai,Tamil Nadu,Consumer,2023-04-19,customer0564@example.test,Bronze
+C00565,Customer 0565,Male,46,Jodhpur,Rajasthan,Small Business,2025-08-20,customer0565@example.test,Silver
+C00566,Customer 0566,Male,69,Lucknow,Uttar Pradesh,Small Business,2024-06-23,customer0566@example.test,Platinum
+C00567,Customer 0567,Male,39,Chennai,Tamil Nadu,Corporate,2023-11-26,customer0567@example.test,Silver
+C00568,Customer 0568,Other,21,NEW DELHI,Delhi,Small Business,2024-04-13,customer0568@example.test,Silver
+C00569,Customer 0569,Other,64,Bengaluru,Karnataka,Premium,2024-05-07,customer0569@example.test,Platinum
+C00570,Customer 0570,Female,44,Bengaluru,Karnataka,Small Business,2023-12-12,customer0570@example.test,Silver
+C00571,Customer 0571,Male,60,Jaipur,Rajasthan,Corporate,2024-07-20,customer0571@example.test,Platinum
+C00572,Customer 0572,Male,59,Jodhpur,Rajasthan,Consumer,2024-12-22,customer0572@example.test,Silver
+C00573,Customer 0573,Female,52,Indore,Madhya Pradesh,Corporate,2024-08-29,customer0573@example.test,Platinum
+C00574,Customer 0574,Male,55,Jodhpur,Rajasthan,Small Business,2022-12-20,customer0574@example.test,Bronze
+C00575,Customer 0575,Male,40,Chennai,Tamil Nadu,Premium,2026-04-21,customer0575@example.test,Silver
+C00576,Customer 0576,Other,45,Jaipur,Rajasthan,Premium,2025-06-11,customer0576@example.test,Gold
+C00577,Customer 0577,Female,48,Ahmedabad,Gujarat,Corporate,2026-02-09,customer0577@example.test,Silver
+C00578,Customer 0578,Female,45,Chennai,Tamil Nadu,Corporate,2025-08-08,customer0578@example.test,Gold
+C00579,Customer 0579,Other,55,New Delhi,Delhi,Premium,2025-08-24,customer0579@example.test,Bronze
+C00580,Customer 0580,Male,38,Jaipur,Rajasthan,Premium,2025-09-21,customer0580@example.test,Gold
+C00581,Customer 0581,Female,19,Chennai,Tamil Nadu,Small Business,2025-05-20,customer0581@example.test,Platinum
+C00582, Customer 0582 ,Other,40,New Delhi,Delhi,Small Business,2022-10-11,CUSTOMER0582@EXAMPLE.TEST,Silver
+C00583,Customer 0583,Male,27,Mumbai,Maharashtra,Corporate,2026-04-04,customer0583@example.test,Silver
+C00584,Customer 0584,Male,21,Indore,Madhya Pradesh,Premium,2022-10-31,customer0584@example.test,Gold
+C00585,Customer 0585,Female,23,Lucknow,Uttar Pradesh,Corporate,2024-01-16,customer0585@example.test,Gold
+C00586,Customer 0586,Female,37,Jaipur,Rajasthan,Small Business,2023-12-07,customer0586@example.test,Gold
+C00587,Customer 0587,Female,64,Kolkata,West Bengal,Consumer,2022-01-25,customer0587@example.test,Gold
+C00588,Customer 0588,Other,54,Chennai,Tamil Nadu, Consumer ,2025-12-30,customer0588@example.test,Gold
+C00589,Customer 0589,Female,74,Hyderabad,Telangana,Small Business,2024-05-18,customer0589@example.test,Gold
+C00590,Customer 0590,Male,62,Ahmedabad,Gujarat,Consumer,2022-01-18,customer0590@example.test,Gold
+C00591,Customer 0591,Other,53,KOCHI,Kerala,Consumer,2024-05-11,customer0591@example.test,Bronze
+C00592,Customer 0592,Female,50,Hyderabad,Telangana,Premium,2023-05-27,customer0592@example.test,Bronze
+C00593,Customer 0593,Female,70,New Delhi,Delhi,Corporate,2024-09-20,customer0593@example.test,Bronze
+C00594,Customer 0594,Other,65,Lucknow,Uttar Pradesh,Corporate,2025-08-21,customer0594@example.test,Silver
+C00595,Customer 0595,Female,57, New Delhi ,Delhi,Small Business,2022-09-01,customer0595@example.test,Gold
+C00596,Customer 0596,Female,36,Ahmedabad,Gujarat,Premium,2023-08-02,customer0596@example.test,Gold
+C00597,Customer 0597,Other,42,Jodhpur,Rajasthan,Small Business,2025-01-06,customer0597@example.test,Silver
+C00598,Customer 0598,Female,36,Jaipur,Rajasthan,Consumer,2025-01-14,customer0598@example.test,Bronze
+C00599,Customer 0599,Male,66,Jodhpur,Rajasthan,Consumer,2025-10-01,customer0599@example.test,Platinum
+C00600,Customer 0600,Male,49,Jaipur,Rajasthan,Small Business,2022-10-31,customer0600@example.test,Bronze
+C00601,Customer 0601,Other,53,Chennai,Tamil Nadu,Corporate,2025-06-07,customer0601@example.test,Silver
+C00602,Customer 0602,Female,49,Chennai,Tamil Nadu,Corporate,2025-09-06,customer0602@example.test,Silver
+C00603,Customer 0603,Male,46,Jaipur,Rajasthan,Premium,2023-04-03,customer0603@example.test,Bronze
+C00604,Customer 0604,Male,43,Mumbai,Maharashtra,Consumer,2022-03-18,customer0604@example.test,Platinum
+C00605,Customer 0605,Male,61,Indore,Madhya Pradesh,Premium,2022-04-06,customer0605@example.test,Gold
+C00606,Customer 0606,Male,47,Kolkata,West Bengal,Small Business,2024-05-24,customer0606@example.test,Gold
+C00607,Customer 0607,Male,51,Hyderabad,,Consumer,2022-09-06,customer0607@example.test,Silver
+C00608,Customer 0608,Male,20,Ahmedabad,Gujarat,Small Business,2022-01-10,customer0608@example.test,Silver
+C00609,Customer 0609,Female,41,Chennai,Tamil Nadu,Small Business,2025-12-22,customer0609@example.test,Platinum
+C00610,Customer 0610,Other,25,Jodhpur,Rajasthan,Small Business,2025-04-14,customer0610@example.test,Gold
+C00611,Customer 0611,Male,28,Ahmedabad,Gujarat,Corporate,2024-12-09,customer0611@example.test,Gold
+C00612,Customer 0612,Other,30,Ahmedabad,Gujarat,Premium,2023-06-03,customer0612@example.test,Bronze
+C00613,Customer 0613,Other,48,Kochi,Kerala,Corporate,2022-11-03,customer0613@example.test,Bronze
+C00614,Customer 0614,Other,66,Indore,Madhya Pradesh,Small Business,2025-05-16,customer0614@example.test,Bronze
+C00615,Customer 0615,Male,37,Bengaluru,Karnataka,Premium,2025-08-18,customer0615@example.test,Gold
+C00616,Customer 0616,Other,73,Bengaluru,Karnataka,Premium,2024-09-14,customer0616@example.test,Silver
+C00617,Customer 0617,Female,43,Jodhpur,Rajasthan,Corporate,2022-11-22,customer0617@example.test,Bronze
+C00618,Customer 0618,Other,30,Jodhpur,Rajasthan,Corporate,2025-02-12,customer0618@example.test,Gold
+C00619,Customer 0619,Male,34,Bengaluru,Karnataka,Consumer,2025-04-19,customer0619@example.test,Bronze
+C00620,Customer 0620,Male,21,Bengaluru,Karnataka,Corporate, 2022-08-01 ,customer0620@example.test,Platinum
+C00621,Customer 0621, Other ,60,Ahmedabad,Gujarat,Small Business,2023-10-23,customer0621@example.test,Platinum
+C00622,Customer 0622,Male,71,Jaipur,Rajasthan,Consumer,2022-11-19,customer0622@example.test,Bronze
+C00623,Customer 0623,Male,44,Jodhpur,Rajasthan,Consumer,2023-08-23,customer0623@example.test,Gold
+C00624,Customer 0624,Female,73,,Delhi,Premium,2022-01-09,customer0624@example.test,Silver
+C00625,Customer 0625,Other,49,Ahmedabad,Gujarat,Consumer,30-Jan-2024,customer0625@example.test,Gold
+C00626,Customer 0626,Other,66,Chennai,Tamil Nadu,Small Business,2025-09-11,customer0626@example.test,Gold
+C00627,Customer 0627,Female,65,Ahmedabad,Gujarat,Premium,2025-04-27,customer0627@example.test,Silver
+C00628,Customer 0628,Other,55,Mumbai,Maharashtra,Premium,2023-04-18,customer0628@example.test,Bronze
+C00629,Customer 0629,Male,32,Mumbai,Maharashtra,Premium,2024-05-31,customer0629@example.test,Platinum
+C00630,Customer 0630,Male,45,Hyderabad,Telangana,Premium,2024-11-27,customer0630@example.test,Silver
+C00631,Customer 0631,Female,67,Indore,Madhya Pradesh,Premium,2025-06-25,customer0631@example.test,Platinum
+C00632,Customer 0632,Other,42,Ahmedabad,Gujarat,Premium,2025-11-07,customer0632@example.test,Bronze
+C00633,Customer 0633,Female,57,Mumbai,Maharashtra,Corporate,13/07/2022,customer0633@example.test,Gold
+C00634,Customer 0634,Female,43,Chennai,Tamil Nadu, Corporate ,2024-06-10,customer0634@example.test,Gold
+C00635,Customer 0635,Male,34,Indore,Madhya Pradesh,Premium,2024-06-02,customer0635@example.test,Silver
+C00636,Customer 0636,Male,46,Mumbai,Maharashtra,CORPORATE,2026-02-14,customer0636@example.test,Bronze
+C00637,Customer 0637,Female,39,Bengaluru,Karnataka,Premium,2024-04-30,customer0637@example.test,Bronze
+C00638,Customer 0638,Other,40,New Delhi,Delhi,Small Business,2024-10-16,customer0638@example.test,Bronze
+C00639,Customer 0639,Male,70,Hyderabad,Telangana,Corporate,2025-02-28,customer0639@example.test,Platinum
+C00640,Customer 0640,Other,54,Indore,Madhya Pradesh,Small Business,2022-11-02,customer0640@example.test,Platinum
+C00641,Customer 0641,Other,28,Jaipur,Rajasthan,Premium,2022-09-22,customer0641@example.test,Gold
+C00642,Customer 0642,Other,51,Mumbai,Maharashtra,Consumer,2022-05-05,customer0642@example.test,Gold
+C00643,Customer 0643,Female,37,Kochi,Kerala,Corporate,2022-10-09,customer0643@example.test,Silver
+C00644,Customer 0644,Other,64,Mumbai,Maharashtra,Corporate, 2024-02-15 ,customer0644@example.test,Bronze
+C00645,Customer 0645,Female,46,Mumbai,Maharashtra,Premium,2023-06-18,customer0645@example.test,Silver
+C00646,Customer 0646,Male,64,Mumbai,Maharashtra,Corporate,2024-03-28,customer0646@example.test,Bronze
+C00647,Customer 0647,Female,28,New Delhi,Delhi,Corporate,2025-07-31,customer0647@example.test,Silver
+C00648,Customer 0648,Male,35,Hyderabad,Telangana,Corporate,2026-05-12,customer0648@example.test,Gold
+C00649,Customer 0649,Female,18,Ahmedabad,Gujarat,Premium,2023-04-02,customer0649@example.test,Gold
+C00650,Customer 0650,Male,62,Kochi,Kerala,Small Business,2023-12-30,customer0650@example.test,Gold
+C00651,Customer 0651,Female,26,Indore,Madhya Pradesh,Consumer,2025-11-05,CUSTOMER0651@EXAMPLE.TEST,Silver
+C00652,Customer 0652,Other,74,Hyderabad,Telangana,Corporate,2024-06-03,customer0652@example.test,Platinum
+C00653,Customer 0653,Male,71,Chennai,Tamil Nadu,Consumer,2026-04-01,customer0653@example.test,Platinum
+C00654,Customer 0654,Male,72,New Delhi,Delhi,Small Business,2022-06-29,customer0654@example.test,Platinum
+C00655,Customer 0655,Male,68,JAIPUR,Rajasthan,Corporate,2023-06-18,customer0655@example.test,Gold
+C00656,, Female ,65,Ahmedabad,Gujarat,Premium,2025-09-12,customer0656@example.test,Silver
+C00657,Customer 0657,Female,22,Jaipur,Rajasthan,Corporate,2026-05-15,customer0657@example.test,Bronze
+C00658,Customer 0658,Female,24,Bengaluru,Karnataka,Small Business,2026-04-03,customer0658@example.test,Silver
+C00659,Customer 0659,Male,61,Hyderabad,Telangana,CONSUMER,2025-11-27,customer0659@example.test,Platinum
+C00660,Customer 0660,Male,54,Kolkata,West Bengal,Premium,2025-11-09,customer0660@example.test,Bronze
+C00661,Customer 0661,Male,,Chennai,Tamil Nadu,Consumer,2023-05-21,customer0661@example.test,Silver
+C00662,Customer 0662,Female,42,Indore,Madhya Pradesh,Small Business,2024-06-12,customer0662@example.test,Gold
+C00663,Customer 0663,Other,28,Chennai,Tamil Nadu,Small Business,2025-04-03,customer0663@example.test,Silver
+C00664,Customer 0664,Other,71,New Delhi,Delhi,Premium,2024-05-21,customer0664@example.test,Platinum
+C00665,Customer 0665,Other,35, Jodhpur ,,Small Business,2023-10-12,customer0665@example.test,Platinum
+C00666,Customer 0666,Male,32,Kochi,Kerala,Consumer,2023-05-17,customer0666@example.test,Silver
+C00667,Customer 0667,Male,45,Indore,Madhya Pradesh,Consumer,2024-08-09,customer0667@example.test,Gold
+C00668,Customer 0668,Male,47,Kolkata,West Bengal,Small Business,2025-11-04,customer0668@example.test,Bronze
+C00669,Customer 0669,Other,,Mumbai,Maharashtra,Small Business,2025-06-30,customer0669@example.test,Gold
+C00670,Customer 0670,Other,71,Kolkata,West Bengal,Corporate,2022-02-09,customer0670@example.test,Platinum
+C00671,Customer 0671,Female,29,Lucknow,Uttar Pradesh,Consumer,2022-08-25,customer0671@example.test,Gold
+C00672,Customer 0672,Male,45,Bengaluru,Karnataka,SMALL BUSINESS,2024-06-02,customer0672@example.test,Gold
+C00673,Customer 0673,Male,54,Bengaluru,Karnataka,Consumer,2025-01-23,customer0673@example.test,Silver
+C00674,Customer 0674,Male,22,Hyderabad,Telangana,Small Business,2026-01-26,customer0674@example.test,Bronze
+C00675,Customer 0675,Female,40,Bengaluru,Karnataka,Small Business,2023-10-19,customer0675@example.test,Silver
+C00676,Customer 0676,Other,34,Chennai,Tamil Nadu,Consumer, 2026-01-21 ,customer0676@example.test,Silver
+C00677,Customer 0677,Male,40,Jodhpur,Rajasthan,Small Business,2023-11-16,customer0677@example.test,Platinum
+C00678,Customer 0678,Female,56,Bengaluru,Karnataka,Corporate,2023-08-01,customer0678@example.test,Gold
+C00679,Customer 0679,Female,58,Mumbai,Maharashtra,Corporate,2024-05-09,customer0679@example.test,Silver
+C00680,Customer 0680,Other,63,Indore,Madhya Pradesh,Consumer,2022-11-01,customer0680@example.test,Bronze
+C00681,Customer 0681,Other,36,Lucknow,Uttar Pradesh,Consumer,2025-06-01,customer0681@example.test,Gold
+C00682,Customer 0682,Other,58,Mumbai,Maharashtra,Premium,2023-12-01,customer0682@example.test,Silver
+C00683,Customer 0683,Male,73,Bengaluru,Karnataka,Corporate,2024-03-24,customer0683@example.test,Platinum
+C00684,Customer 0684,Other,27,Indore,Madhya Pradesh,Consumer,2026-02-13,customer0684@example.test,Silver
+C00685,Customer 0685,Male,73,Ahmedabad,Gujarat,Corporate,2024-08-20,customer0685@example.test,Bronze
+C00686,Customer 0686, Other ,27,Chennai,Tamil Nadu,Small Business,2022-04-11,customer0686@example.test,Platinum
+C00687,Customer 0687,Female,52,Mumbai,Maharashtra,Premium,2022-11-30,customer0687@example.test, Silver 
+C00688,Customer 0688,Female,49,Jaipur,Rajasthan,Small Business,2023-06-24,customer0688@example.test,Silver
+C00689,Customer 0689,Other,58,Lucknow,Uttar Pradesh,Small Business,2023-11-02,customer0689@example.test,Gold
+C00690,Customer 0690,Male,41, Kochi ,Kerala,Small Business,2025-11-07,customer0690@example.test,Gold
+C00691,Customer 0691,Male,43,Ahmedabad,Gujarat,Corporate,2024-05-06,customer0691@example.test, Silver 
+C00692,Customer 0692,Male,74,Indore,Madhya Pradesh,Premium,2024-01-29,CUSTOMER0692@EXAMPLE.TEST,Platinum
+C00693,Customer 0693,Male,41,Bengaluru,Karnataka,Premium,2026-01-17,customer0693@example.test,Platinum
+C00694,Customer 0694,Female,18,Ahmedabad,Gujarat,Premium,2025-04-14,customer0694@example.test,Platinum
+C00695,Customer 0695,Other,23,New Delhi,Delhi,Corporate,2023-12-04,customer0695@example.test,Bronze
+C00696,Customer 0696,Female,61,Mumbai,Maharashtra,Small Business,2025-07-04,customer0696@example.test,Silver
+C00697,Customer 0697,Other,34,Indore,Madhya Pradesh,Small Business,2022-11-05,customer0697@example.test,Gold
+C00698,Customer 0698,Male,74,New Delhi,Delhi,Premium,2026-03-04,customer0698@example.test,Gold
+C00699,Customer 0699,Other,48,Jaipur,Rajasthan,Consumer,2022-08-20,customer0699@example.test,Gold
+C00700,Customer 0700,Other,74,Indore,Madhya Pradesh,Corporate,17-Dec-2024,customer0700@example.test,Gold
+C00701,Customer 0701,Male,75,Mumbai,Maharashtra,Small Business,2025-12-30,customer0701@example.test,Bronze
+C00702,Customer 0702,Female,73,Ahmedabad,Gujarat,Small Business,,customer0702@example.test,Silver
+C00703,Customer 0703,Other,27,Ahmedabad,Gujarat,Consumer,2025-07-03,customer0703@example.test,Gold
+C00704,Customer 0704,Other,26,New Delhi,Delhi,PREMIUM,2025-10-11,customer0704@example.test,Silver
+C00705,Customer 0705,Male,24,New Delhi,Delhi,Corporate,2023-03-28,customer0705@example.test,Platinum
+C00706,Customer 0706,Other,49,Chennai,Tamil Nadu,Premium,13/09/2022,customer0706@example.test,Bronze
+C00707,Customer 0707,Female,49,Chennai,Tamil Nadu,Corporate,2023-02-25,customer0707@example.test,Gold
+C00708,Customer 0708,Male,29,Chennai,Tamil Nadu,Corporate,2025-05-06,customer0708@example.test,Platinum
+C00709,Customer 0709,Female,68,Indore,Madhya Pradesh,Small Business,2025-09-05,customer0709@example.test, Platinum 
+C00710,Customer 0710,Other,33,Ahmedabad,Gujarat, Consumer ,2024-10-04,customer0710@example.test,Silver
+C00711,Customer 0711,Male,40,Bengaluru,Karnataka,Consumer,2023-12-06,customer0711@example.test,Bronze
+C00712,Customer 0712,Male,39,Hyderabad,Telangana,Small Business,2025-09-23,customer0712@example.test,Bronze
+C00713,Customer 0713,Other,51,Ahmedabad,Gujarat,Consumer,2022-04-25,customer0713@example.test,Bronze
+C00714,CUSTOMER 0714,Male,58,Jodhpur,Rajasthan,Small Business,2022-12-31,customer0714@example.test,Silver
+C00715,Customer 0715,Male,35,Mumbai,Maharashtra,Small Business,2024-06-11,customer0715@example.test,Silver
+C00716,Customer 0716,Male,24,Jaipur,Rajasthan,Small Business,2024-11-28,customer0716@example.test,Platinum
+C00717,Customer 0717,Other,66,Indore,Madhya Pradesh,Corporate,2026-02-26,customer0717@example.test,Silver
+C00718,Customer 0718,Female,37,Hyderabad,Telangana,Premium,2024-07-17,customer0718@example.test,Bronze
+C00719,Customer 0719,Female,48,Kolkata,West Bengal,Premium,2024-12-05,customer0719@example.test,Bronze
+C00720,Customer 0720,Female,39,Lucknow,Uttar Pradesh,Corporate,2025-03-27,customer0720@example.test,Gold
+C00721,Customer 0721,Female,32,,Madhya Pradesh,Premium,2023-02-17,customer0721@example.test,Silver
+C00722,Customer 0722,Male,48,Jaipur,Rajasthan,Small Business,2024-06-28,customer0722@example.test,Bronze
+C00723,Customer 0723,,19,Kolkata,West Bengal,Corporate,2022-03-24,customer0723@example.test,Gold
+C00724,Customer 0724,Other,56,New Delhi,Delhi,Consumer,2024-04-12,customer0724@example.test,Bronze
+C00725, Customer 0725 ,Female,68,Jodhpur,Rajasthan,Premium,2022-07-08,customer0725@example.test,Silver
+C00726,Customer 0726,Other,27,Jodhpur,Rajasthan,Premium,2025-03-03,customer0726@example.test,Bronze
+C00727,Customer 0727,Male,19,Jaipur,Rajasthan,Premium,2023-11-04,customer0727@example.test,Platinum
+C00728,Customer 0728,Female,64,New Delhi,Delhi,Consumer,2023-10-28,customer0728@example.test,Gold
+C00729,Customer 0729,Female,34,New Delhi,Delhi,Corporate,2025-07-28,customer0729@example.test,Silver
+C00730,Customer 0730,Other,54,Hyderabad,Telangana,Corporate,2022-08-14,customer0730@example.test,Gold
+C00731,Customer 0731,Male,61,Jaipur,,Premium,2024-11-29,customer0731@example.test,Silver
+C00732,Customer 0732,Female,71,Bengaluru,Karnataka,Consumer,2024-01-17,customer0732@example.test,Silver
+C00733,Customer 0733,Other,34,Ahmedabad,Gujarat,Corporate,2022-01-28,customer0733@example.test,Platinum
+C00734,Customer 0734,Other,36,Jaipur,Rajasthan,Consumer,2025-11-23,customer0734@example.test,Platinum
+C00735,Customer 0735,Female,67,Chennai,TAMIL NADU,Corporate,2024-01-04,customer0735@example.test,Silver
+C00736,Customer 0736,Male,52,Jaipur,Rajasthan,Consumer,2025-08-28,customer0736@example.test,Silver
+C00737,Customer 0737,Other,72,Kolkata,West Bengal,Premium,2025-03-09,customer0737@example.test,Platinum
+C00738,Customer 0738,Other,20,Jaipur,Rajasthan,Premium,13-Sep-2022,CUSTOMER0738@EXAMPLE.TEST,Platinum
+C00739,Customer 0739,Female,29,Chennai,Tamil Nadu,Premium,2026-05-20,customer0739@example.test,Bronze
+C00740,Customer 0740,Other,43,New Delhi,Delhi,Premium,2025-09-30,customer0740@example.test,Gold
+C00741,Customer 0741,Other,51,Kolkata,West Bengal,Consumer,2023-02-27,customer0741@example.test,GOLD
+C00742,Customer 0742,Male,74,Chennai,Tamil Nadu,Corporate,2025-07-14,customer0742@example.test,Bronze
+C00743,Customer 0743,Female,40,Hyderabad,Telangana,Corporate,2023-09-12,customer0743@example.test, Bronze 
+C00744,Customer 0744,Female,52,Jodhpur,Rajasthan,Consumer,2022-08-09,customer0744@example.test,Bronze
+C00745,Customer 0745, Male ,66,Mumbai,Maharashtra,Corporate,2025-06-29,customer0745@example.test,Platinum
+C00746,Customer 0746,Other,34,Mumbai,Maharashtra,Corporate,2024-05-29,customer0746@example.test,Gold
+C00747,Customer 0747,Other,47,Ahmedabad,Gujarat,Small Business,2024-04-11,customer0747@example.test,Silver
+C00748,Customer 0748,Other,74,Lucknow,Uttar Pradesh,Consumer,2025-10-20,customer0748@example.test,Platinum
+C00749,Customer 0749,Female,45,Jodhpur,Rajasthan,Consumer,2024-08-19,customer0749@example.test,Silver
+C00750,Customer 0750, Female ,24,Indore, Madhya Pradesh ,Premium,2022-07-28,customer0750@example.test,Bronze
+C00751,Customer 0751,Other,74,Ahmedabad,Gujarat,Corporate,2023-07-25,customer0751@example.test,Platinum
+C00752,Customer 0752,Male,48,Chennai,Tamil Nadu,Consumer,2026-03-20,,Bronze
+C00753,Customer 0753,Female,42,Jaipur,Rajasthan,Consumer,2026-05-02,customer0753@example.test,Bronze
+C00754,Customer 0754,Other,39,Mumbai,Maharashtra,Consumer,2023-11-24,customer0754@example.test,Bronze
+C00755,Customer 0755,Male,40,Hyderabad,TELANGANA,,2025-07-08,customer0755@example.test,Platinum
+C00756,Customer 0756,Female,68,Kolkata,West Bengal,Consumer,2025-08-06,customer0756@example.test,Silver
+C00757,Customer 0757,Female,64,Jaipur,Rajasthan,Consumer,2022-03-16,customer0757@example.test,Silver
+C00758,Customer 0758,Other,25,Ahmedabad,Gujarat,Consumer,2023-06-05,customer0758@example.test,Gold
+C00759,Customer 0759,Other,70,Ahmedabad,Gujarat,Small Business,2024-06-18,customer0759@example.test,Gold
+C00760,Customer 0760,Female,19,Jaipur,Rajasthan,Premium,2022-06-25,customer0760@example.test,Gold
+C00761,Customer 0761,Other,36,Kolkata,West Bengal,Small Business,2025-07-10,customer0761@example.test, Gold 
+C00762,Customer 0762,Female,69,Indore,Madhya Pradesh,Small Business,2022-02-12,customer0762@example.test,Platinum
+C00763,Customer 0763,Other,63,Bengaluru,Karnataka,Consumer,2024-04-21,customer0763@example.test,Silver
+C00764,Customer 0764,Female,70,New Delhi,Delhi,Corporate,2026-03-01,customer0764@example.test,Platinum
+C00765,CUSTOMER 0765,Female,38,Ahmedabad,Gujarat,Premium,2025-10-08,customer0765@example.test,Platinum
+C00766,Customer 0766,Female,46,Hyderabad,Telangana,Consumer,2024-11-20,customer0766@example.test,Gold
+C00767,Customer 0767,Other,19,Kochi,Kerala,Small Business,2022-10-30,customer0767@example.test,Gold
+C00768,Customer 0768,Other,18,Chennai,Tamil Nadu,Consumer,2023-08-13,customer0768@example.test,Platinum
+C00769,Customer 0769,Female,47,Lucknow,Uttar Pradesh,Consumer,2022-02-07,customer0769@example.test,Bronze
+C00770,Customer 0770,Female,30,New Delhi,Delhi,Small Business,2022-09-18,customer0770@example.test,Platinum
+C00771,Customer 0771,Female,28,Kolkata,West Bengal, Premium ,2024-12-26,customer0771@example.test,Bronze
+C00772,Customer 0772,Female,51,Kochi,Kerala,Corporate,2024-07-15,customer0772@example.test,Gold
+C00773,Customer 0773,Other,71,Jaipur,Rajasthan,Consumer,2024-11-07,customer0773@example.test,Silver
+C00774,Customer 0774,Male,73,Mumbai,Maharashtra,Premium,2025-12-02,customer0774@example.test,Gold
+C00775,Customer 0775,Female,70,Lucknow,Uttar Pradesh,Corporate,2025-10-31,customer0775@example.test, Gold 
+C00776,Customer 0776,Female,25,Chennai,Tamil Nadu,Small Business,2023-05-11,customer0776@example.test,Gold
+C00777,Customer 0777,Female,61,Hyderabad,Telangana,Small Business,2023-08-04,customer0777@example.test,Platinum
+C00778,Customer 0778,Female,36,Chennai,Tamil Nadu,Small Business,2022-05-12,customer0778@example.test,Platinum
+C00779,Customer 0779,Other,34,Chennai,Tamil Nadu,Premium,2023-12-27,customer0779@example.test,Platinum
+C00780,Customer 0780,Other,46,Mumbai,Maharashtra,Consumer,2025-05-05,customer0780@example.test,Gold
+C00781,Customer 0781,Male,43,Ahmedabad,Gujarat,Corporate,2025-10-26,customer0781@example.test,Silver
+C00782,Customer 0782,Female,31,Chennai,Tamil Nadu,Consumer,2022-04-20,customer0782@example.test,Silver
+C00783,Customer 0783,Male,44,Jaipur,Rajasthan,Premium,2025-11-11,customer0783@example.test,Gold
+C00784,Customer 0784, Other ,54,Jaipur,Rajasthan,Consumer,2024-05-23,customer0784@example.test,Bronze
+C00785,Customer 0785,Female,32,Chennai,Tamil Nadu,Consumer,2024-01-26,customer0785@example.test,Silver
+C00786,Customer 0786,Female,65,Hyderabad,Telangana,Corporate,2023-08-13,customer0786@example.test,Gold
+C00787,Customer 0787,Female,36,Jodhpur,Rajasthan,Premium,2025-12-22,customer0787@example.test,Platinum
+C00788,Customer 0788,Female,52,Bengaluru,Karnataka,Consumer,2023-04-23,customer0788@example.test,Platinum
+C00789,Customer 0789,Female,48,Jaipur,Rajasthan,Small Business,2023-02-12,CUSTOMER0789@EXAMPLE.TEST,Silver
+C00790,Customer 0790,Male,36,Mumbai,Maharashtra,Corporate,2023-05-29,customer0790@example.test,Silver
+C00791,Customer 0791,Other,36,Bengaluru,Karnataka,Small Business,2024-07-26,customer0791@example.test,Silver
+C00792,Customer 0792,Other,55,Lucknow,Uttar Pradesh,Premium,2022-04-04,customer0792@example.test,Gold
+C00793,Customer 0793,Male,51,Ahmedabad,Gujarat,Corporate,2023-04-24,customer0793@example.test,Platinum
+C00794,Customer 0794,Female,22,Jodhpur,Rajasthan,Small Business,2023-11-29,customer0794@example.test,Silver
+C00795,Customer 0795,Other,62,Lucknow,Uttar Pradesh,Small Business,2025-10-22,customer0795@example.test,Gold
+C00796,Customer 0796,Male,64,New Delhi,Delhi,Small Business,2024-06-09,customer0796@example.test,Gold
+C00797,Customer 0797,Other,50,Lucknow,Uttar Pradesh,Consumer,2026-02-17,customer0797@example.test,Platinum
+C00798,Customer 0798,Female,33,New Delhi,Delhi,Premium,2023-09-02,customer0798@example.test,Silver
+C00799,Customer 0799,Other,29,Indore,Madhya Pradesh,Small Business,2024-02-16,customer0799@example.test,Platinum
+C00800,Customer 0800,Other,73,Ahmedabad,Gujarat,Small Business,2025-12-30,customer0800@example.test,Platinum
+C00801, Customer 0801 ,Other,63,Lucknow,Uttar Pradesh,Corporate,2024-06-16,customer0801@example.test,Gold
+C00802,Customer 0802,Male,61,Kochi,Kerala,Corporate,26-May-2022,customer0802@example.test,Bronze
+C00803,Customer 0803,Male,30,Mumbai,Maharashtra, Corporate ,2024-12-31,customer0803@example.test,Silver
+C00804,Customer 0804,Female,73,Kochi,Kerala,Small Business,2022-09-20,customer0804@example.test,Gold
+C00805,Customer 0805,Male,69,Lucknow,Uttar Pradesh, Corporate ,2024-07-03,customer0805@example.test,Platinum
+C00806,CUSTOMER 0806,Other,36,Chennai,Tamil Nadu,Consumer,2024-03-22,customer0806@example.test,Gold
+C00807,Customer 0807,Female,31,Jaipur,Rajasthan,Consumer,2024-09-21,customer0807@example.test,Silver
+C00808,Customer 0808,Other,21,Jodhpur,Rajasthan,Small Business,2023-03-15,customer0808@example.test,Platinum
+C00809,Customer 0809,,59,Kolkata,West Bengal,Small Business,2022-04-29,customer0809@example.test,Gold
+C00810,Customer 0810,Female,37,Ahmedabad,Gujarat,Consumer,2024-05-31,customer0810@example.test,Gold
+C00811,Customer 0811,Male,20,Mumbai,Maharashtra,Corporate,2023-06-22,customer0811@example.test,Silver
+C00812,Customer 0812,Other,48,Mumbai,Maharashtra,Corporate,2024-06-18,customer0812@example.test,Gold
+C00813,Customer 0813,Male,31,Ahmedabad,Gujarat,Premium,,customer0813@example.test,Platinum
+C00814,Customer 0814,Female,60,Indore,Madhya Pradesh,Premium,2023-06-17,customer0814@example.test,Gold
+C00815,Customer 0815,Male,33,Hyderabad,Telangana,Small Business,2024-01-26,customer0815@example.test,Bronze
+C00816,Customer 0816,Female,30,Kolkata,West Bengal,Corporate,2025-05-15,customer0816@example.test,Bronze
+C00817,Customer 0817,Male,48,Lucknow,Uttar Pradesh,Corporate,2024-07-18,customer0817@example.test,Platinum
+C00818,Customer 0818,Female,41,New Delhi,Delhi,,2026-04-01,customer0818@example.test,Platinum
+C00819,Customer 0819,Male,73,Jaipur,Rajasthan,Corporate,2022-08-30,customer0819@example.test,Gold
+C00820,Customer 0820,Other,73,Kolkata,West Bengal,Corporate,2023-09-29,customer0820@example.test,Bronze
+C00821,Customer 0821,Male,43,Kochi,Kerala,Corporate,2022-10-09,customer0821@example.test,Silver
+C00822,Customer 0822,Female,50,Kolkata,West Bengal,Corporate,2025-07-03,customer0822@example.test,Bronze
+C00823,Customer 0823,Female,69,Jaipur,,Small Business,2022-11-27,customer0823@example.test,Gold
+C00824,Customer 0824,Female,49,New Delhi,Delhi,Small Business,2024-10-10,customer0824@example.test,Gold
+C00825,Customer 0825,Male,61,Lucknow,Uttar Pradesh,Consumer,2024-05-07,customer0825@example.test,Bronze
+C00826,Customer 0826,Female,75,Lucknow,Uttar Pradesh,Small Business,2025-12-25,customer0826@example.test,Bronze
+C00827,Customer 0827,Other,56,Lucknow,Uttar Pradesh,Small Business,2025-12-04,customer0827@example.test,Silver
+C00828,Customer 0828,Other,39,Ahmedabad,Gujarat,Corporate,2025-02-25,customer0828@example.test,Gold
+C00829,Customer 0829,Male,65,Lucknow,Uttar Pradesh,Corporate,2022-10-24,customer0829@example.test,Bronze
+C00830,Customer 0830,Male,74,Kolkata,West Bengal,Small Business,2024-04-25,customer0830@example.test,Gold
+C00831,Customer 0831,Other,24,Indore,Madhya Pradesh,Corporate,2023-12-05,customer0831@example.test,Platinum
+C00832,Customer 0832,Other,33,Hyderabad,Telangana,Consumer,2025-08-29,customer0832@example.test,Platinum
+C00833,Customer 0833,Female,55,Kochi,Kerala,Small Business,2022-05-20,customer0833@example.test,Silver
+C00834,Customer 0834,Other,28,Bengaluru,Karnataka,Consumer,2024-11-28,customer0834@example.test,Gold
+C00835,Customer 0835,Female,72,Kolkata,West Bengal,Small Business,2022-04-05,customer0835@example.test,Platinum
+C00836,Customer 0836,Male,54,Chennai,Tamil Nadu,Small Business,2023-09-12,customer0836@example.test,Bronze
+C00837,Customer 0837,Male,69,Bengaluru,Karnataka,,2022-03-10,customer0837@example.test,Gold
+C00838,Customer 0838,Male,51,Chennai,Tamil Nadu,Consumer,2025-05-27,customer0838@example.test,Gold
+C00839,Customer 0839,Other,48,Jaipur,Rajasthan,Small Business,2025-05-30,customer0839@example.test,Bronze
+C00840,Customer 0840,Male,22,Bengaluru,Karnataka,Consumer,2022-11-13,customer0840@example.test,Gold
+C00841,CUSTOMER 0841,Other,30,Jodhpur,Rajasthan,Corporate,2024-05-23,customer0841@example.test,Bronze
+C00842,Customer 0842,Female,24,Jaipur,Rajasthan,Premium,2025-11-02,customer0842@example.test,Platinum
+C00843,Customer 0843,Male,72,Jodhpur,Rajasthan,Premium,31/03/2023,customer0843@example.test,Silver
+C00844,Customer 0844,Male,59,Indore,Madhya Pradesh,Corporate,2025-07-04,customer0844@example.test,Platinum
+C00845,Customer 0845,Female,21,Bengaluru,Karnataka,Corporate,2024-05-10,customer0845@example.test,Silver
+C00846,Customer 0846,Other,34,Chennai,Tamil Nadu,Consumer,2025-11-21,customer0846@example.test,Bronze
+C00847,Customer 0847,Other,20,Kolkata,West Bengal, Small Business ,2023-12-19,customer0847@example.test,Platinum
+C00848,Customer 0848,Male,31,Indore,Madhya Pradesh,Consumer,2023-01-15,customer0848@example.test,Bronze
+C00849,Customer 0849,Female,30,Jaipur,Rajasthan,Premium,2022-10-04,customer0849@example.test,Gold
+C00850,Customer 0850,Other,74,Jodhpur,Rajasthan,Small Business,2023-12-06,customer0850@example.test,Gold
+C00851,Customer 0851,Other,30,Hyderabad,Telangana,Corporate,2025-01-04,customer0851@example.test,Gold
+C00852,Customer 0852,Female,66,Mumbai,Maharashtra,Premium,2025-04-22,customer0852@example.test, Gold 
+C00853,Customer 0853,Other,70,Chennai,Tamil Nadu,Corporate,2023-11-29,customer0853@example.test,Bronze
+C00854,Customer 0854,Female,19,Jodhpur,Rajasthan,Small Business,2025-01-25,customer0854@example.test,Platinum
+C00855,Customer 0855,Other,56,Hyderabad,Telangana,Consumer,2025-03-05,customer0855@example.test,Silver
+C00856,Customer 0856,Male,64,Ahmedabad,Gujarat,Consumer,2022-05-12,customer0856@example.test,Platinum
+C00857,Customer 0857,Male,42,Chennai,Tamil Nadu,Consumer,2023-11-01,customer0857@example.test,Bronze
+C00858,Customer 0858,Other,31,Jodhpur,Rajasthan,Corporate,2022-11-19,customer0858@example.test,Platinum
+C00859,CUSTOMER 0859,Other,69,Jaipur,Rajasthan,Consumer,2023-11-10,customer0859@example.test,Bronze
+C00860,Customer 0860,Other,62,Lucknow, Uttar Pradesh ,Small Business,2024-04-06, customer0860@example.test ,Platinum
+C00861,Customer 0861,Other,38,Kochi,Kerala,Corporate,2024-04-01,customer0861@example.test,Platinum
+C00862,Customer 0862,Male,38,Indore,Madhya Pradesh,Corporate,2026-05-20,customer0862@example.test,Gold
+C00863,Customer 0863,Other,53,New Delhi,Delhi,Consumer,2022-11-09,customer0863@example.test,Silver
+C00864,Customer 0864,Female,33,Bengaluru,Karnataka,Premium,2024-07-06,customer0864@example.test,Silver
+C00865,Customer 0865,Female,29,Bengaluru,Karnataka,Consumer,2024-04-16,customer0865@example.test,Gold
+C00866,Customer 0866,Female,37,Indore,Madhya Pradesh,Corporate,2023-03-30,customer0866@example.test,Gold
+C00867,Customer 0867,Female,75,Kochi,Kerala,Consumer,2025-07-23,customer0867@example.test,Silver
+C00868,Customer 0868,Male,73,Ahmedabad,Gujarat,Corporate,2023-10-02,customer0868@example.test,Silver
+C00869,Customer 0869,Female,54,Jaipur,Rajasthan,Corporate,2022-04-03,customer0869@example.test,Gold
+C00870,Customer 0870,Other,65,Jodhpur,Rajasthan,Consumer,2026-05-14,customer0870@example.test,Platinum
+C00871,Customer 0871,Other,51,New Delhi,Delhi,Small Business,2024-06-19,customer0871@example.test,Bronze
+C00872,Customer 0872,Other,49,Kolkata,West Bengal,Corporate,2023-11-04,customer0872@example.test,Bronze
+C00873, Customer 0873 ,Male,34,Mumbai,Maharashtra,Consumer,2023-02-28,customer0873@example.test,Gold
+C00874,Customer 0874,Female,47,Kochi,Kerala,Premium,2023-01-23,customer0874@example.test,Platinum
+C00875,Customer 0875,Male,61,Jodhpur,Rajasthan,Corporate,2023-01-13,customer0875@example.test,Silver
+C00876,Customer 0876,Female,60,Bengaluru,Karnataka,Corporate,2024-11-11,customer0876@example.test,Gold
+C00877,Customer 0877,Male,45,Bengaluru,Karnataka,Consumer,2024-08-20,customer0877@example.test,Bronze
+C00878,Customer 0878,Other,64,Chennai,Tamil Nadu,Consumer,2024-10-24,customer0878@example.test,Bronze
+C00879,Customer 0879,Other,47, Jodhpur ,Rajasthan,Premium,2025-01-27,customer0879@example.test,Gold
+C00880,Customer 0880,Other,34,Hyderabad,Telangana,Consumer,2026-03-31,customer0880@example.test,Bronze
+C00881,Customer 0881,Other,53,Bengaluru,Karnataka,Corporate,2024-01-23,customer0881@example.test,Gold
+C00882,Customer 0882,Other,64,Jodhpur,Rajasthan,Corporate,2023-05-26,customer0882@example.test,Bronze
+C00883,Customer 0883,Female,71,Hyderabad,Telangana,Premium,2023-06-12,customer0883@example.test,Gold
+C00884,Customer 0884,Other,56,Jaipur,Rajasthan,Small Business,2025-03-05,customer0884@example.test,Bronze
+C00885,Customer 0885,Other,22,Jaipur,Rajasthan,Small Business,2022-09-30,customer0885@example.test,Bronze
+C00886,Customer 0886,Male,57,Lucknow,Uttar Pradesh,Premium,2026-04-25,customer0886@example.test,
+C00887,Customer 0887,Other,23,Jodhpur,Rajasthan,Premium,2024-02-29,customer0887@example.test,Silver
+C00888,Customer 0888,Female,19,Jaipur,Rajasthan,Small Business,2022-01-12,customer0888@example.test,Silver
+C00889,Customer 0889,Other,23,Mumbai,Maharashtra,Consumer,2022-08-13,customer0889@example.test,Bronze
+C00890,Customer 0890,Female,50,Hyderabad,Telangana,Small Business,2023-05-08,customer0890@example.test,Bronze
+C00891,Customer 0891,Other,20,Bengaluru,Karnataka,Consumer,2022-02-20,customer0891@example.test,Silver
+C00892,Customer 0892,Male,,Mumbai,Maharashtra,Premium,2024-07-03,customer0892@example.test,Platinum
+C00893, Customer 0893 ,Male,50,Kochi,Kerala,Corporate,2025-10-02,customer0893@example.test,Gold
+C00894,Customer 0894,Male,62,Indore,Madhya Pradesh,Premium,2026-04-26,customer0894@example.test,Platinum
+C00895,Customer 0895,Male,34,Ahmedabad,Gujarat,CONSUMER,2022-03-15,customer0895@example.test,Bronze
+C00896,Customer 0896,,66,Lucknow,Uttar Pradesh,Small Business,2022-11-22,customer0896@example.test,Platinum
+C00897,Customer 0897,Male,24,New Delhi,Delhi,Premium,2026-01-03,customer0897@example.test,Gold
+C00898,Customer 0898,Male,27,Mumbai,Maharashtra,SMALL BUSINESS,2025-02-26,customer0898@example.test,Bronze
+C00899,Customer 0899,Female,68,Ahmedabad,Gujarat,Small Business,2024-07-23,customer0899@example.test,Silver
+C00900, Customer 0900 ,Male,73,Ahmedabad,Gujarat, Consumer ,2026-01-17,customer0900@example.test,Gold
+C00901,Customer 0901,Female,41,Jaipur,Rajasthan,Corporate,2022-06-20,customer0901@example.test,Silver
+C00902,Customer 0902,Other,58,New Delhi,Delhi,Corporate,2023-09-29,customer0902@example.test,Gold
+C00903,Customer 0903,Female,69, Jodhpur ,Rajasthan,Premium,2024-11-05,customer0903@example.test,Platinum
+C00904,Customer 0904,Male,34,Jaipur,Rajasthan,Consumer,2023-08-06,customer0904@example.test, Bronze 
+C00905,Customer 0905,Female,39,Jodhpur,Rajasthan,Premium,2025-04-27,customer0905@example.test,Gold
+C00906,Customer 0906,Female,33,Indore,Madhya Pradesh,Small Business,2025-08-25,customer0906@example.test,Bronze
+C00907,Customer 0907,Other,73,New Delhi,Delhi,Corporate,2024-10-12,customer0907@example.test,Bronze
+C00908,CUSTOMER 0908,Female,48,Kochi,Kerala,Corporate,2023-08-07,customer0908@example.test,Bronze
+C00909,Customer 0909,Male,65,Indore,Madhya Pradesh,Premium,2022-10-31,customer0909@example.test,Platinum
+C00910,Customer 0910,Female,29,Jodhpur,Rajasthan,Consumer,2023-03-01,customer0910@example.test,Silver
+C00911,Customer 0911,Other,30,Mumbai,,Corporate,2024-09-03,customer0911@example.test,Gold
+C00912,Customer 0912,Female,73,Jaipur, Rajasthan ,Premium,2025-09-21,customer0912@example.test,Gold
+C00913,Customer 0913,Female,36,Kolkata,West Bengal,Premium,2023-02-05,customer0913@example.test,Silver
+C00914,Customer 0914, Female ,75,New Delhi,Delhi,Small Business,2023-05-26,customer0914@example.test,Platinum
+C00915,Customer 0915,Female,22,Jodhpur,Rajasthan,Corporate,2022-04-15,customer0915@example.test,Platinum
+C00916,Customer 0916,Male,39,Chennai,Tamil Nadu,Small Business,2024-12-06,customer0916@example.test,Silver
+C00917,Customer 0917,Male,62,Jodhpur,Rajasthan,Premium,2023-08-27,customer0917@example.test,Bronze
+C00918,Customer 0918,Male,40,Jodhpur,Rajasthan,Corporate,2023-12-28,customer0918@example.test,Bronze
+C00919,Customer 0919,Female,46,Indore,Madhya Pradesh,Consumer,2024-09-14,customer0919@example.test,Gold
+C00920,Customer 0920,Other,68,Hyderabad,Telangana,Corporate,2022-09-08,customer0920@example.test,Gold
+C00921,Customer 0921,Male,42,Lucknow,Uttar Pradesh,Corporate,2025-12-07,customer0921@example.test,Gold
+C00922,Customer 0922,Male,25,New Delhi,Delhi,Small Business,2026-05-06,customer0922@example.test,Silver
+C00923,Customer 0923,Female,41,Kolkata,West Bengal,Consumer,2022-08-04,customer0923@example.test,Platinum
+C00924,Customer 0924,Male,49,Jodhpur,Rajasthan,Consumer,2024-08-06,customer0924@example.test,Silver
+C00925,Customer 0925,Female,20,Chennai,Tamil Nadu,Small Business,06/08/2025,customer0925@example.test,Platinum
+C00926,Customer 0926,Other,65,Kochi,Kerala,Corporate,2023-11-29,customer0926@example.test,Platinum
+C00927,Customer 0927,Other,75,Bengaluru,Karnataka,Small Business,2023-07-12,customer0927@example.test,Silver
+C00928,Customer 0928,OTHER,22,Jodhpur,Rajasthan,Corporate,2024-04-02,customer0928@example.test,Bronze
+C00929,Customer 0929,Male,47,Kochi,Kerala,Consumer,2025-09-05,customer0929@example.test,Silver
+C00930,Customer 0930,Other,60,Mumbai,Maharashtra,Corporate,2025-05-26,customer0930@example.test,Gold
+C00931,Customer 0931,Male,71,Kolkata,West Bengal,Small Business,27/12/2022,customer0931@example.test,Platinum
+C00932,Customer 0932,Female,73,Ahmedabad,Gujarat,Small Business,2022-06-19,customer0932@example.test,Bronze
+C00933,Customer 0933,Male,25,Kochi,Kerala,Consumer,2022-08-27, customer0933@example.test ,Silver
+C00934,Customer 0934,Other,58,New Delhi,Delhi,Premium,2023-09-15,customer0934@example.test,Bronze
+C00935,Customer 0935,Other,23,Kolkata,West Bengal,Corporate,2024-09-04,customer0935@example.test,Gold
+C00936,Customer 0936,Male,21,Indore,Madhya Pradesh,Small Business,2023-01-06,customer0936@example.test,Gold
+C00937,Customer 0937,Female,55,Mumbai,Maharashtra,Corporate,2024-07-01,customer0937@example.test,Bronze
+C00938,Customer 0938,OTHER,37,Jodhpur,Rajasthan,Corporate,2022-08-07,customer0938@example.test,Platinum
+C00939,Customer 0939,Female,26,Mumbai,Maharashtra,Consumer,2026-05-01,customer0939@example.test,Bronze
+C00940,Customer 0940,Male,56,Indore,Madhya Pradesh,Premium,2023-07-15,customer0940@example.test,Silver
+C00941,Customer 0941,Female,64,Chennai,Tamil Nadu,Corporate,2022-07-14,customer0941@example.test,Bronze
+C00942,Customer 0942,Male,31,Kochi,Kerala,Consumer,2024-02-20,customer0942@example.test,Silver
+C00943,Customer 0943,Female,20,Ahmedabad,Gujarat,Premium,2025-09-26,customer0943@example.test,Platinum
+C00944,Customer 0944,Male,,Bengaluru,Karnataka,Consumer,2024-07-22,customer0944@example.test,Bronze
+C00945,Customer 0945,Other,27,Bengaluru,Karnataka,Small Business,2025-10-12,customer0945@example.test,Platinum
+C00946,Customer 0946,Male,53,Indore,Madhya Pradesh,Corporate,2024-08-07,customer0946@example.test,Platinum
+C00947,Customer 0947,Male,70,Indore,Madhya Pradesh,Consumer,2026-02-22,customer0947@example.test,Platinum
+C00948,Customer 0948,Female,69,Jaipur,Rajasthan,Small Business,2022-12-30,customer0948@example.test,Platinum
+C00949,Customer 0949,Female,64,Jaipur,Rajasthan,Consumer,2025-12-17,customer0949@example.test,Bronze
+C00950,Customer 0950,Other,59,Kochi,Kerala,Consumer,2026-04-27,customer0950@example.test,Bronze
+C00951,Customer 0951,Other,44,Mumbai,Maharashtra,Consumer,2025-10-18,customer0951@example.test,Silver
+C00952,Customer 0952,Other,74,Jaipur,Rajasthan,Small Business,2024-05-05,customer0952@example.test,Bronze
+C00953,Customer 0953,Male,73,Hyderabad,Telangana,Consumer,2025-10-28,customer0953@example.test,Platinum
+C00954,Customer 0954, Other ,58,Chennai,Tamil Nadu,Consumer,2023-08-11,customer0954@example.test,Bronze
+C00955,Customer 0955,Male,72,Ahmedabad,Gujarat,Consumer,2024-05-27,customer0955@example.test,Silver
+C00956,Customer 0956,Male,50,Chennai,Tamil Nadu,Corporate, 2022-01-22 ,customer0956@example.test,Platinum
+C00957,Customer 0957,Other,39,Hyderabad,Telangana,Consumer,2022-10-21,customer0957@example.test,Bronze
+C00958,Customer 0958,Other,42,Mumbai,Maharashtra,Corporate,2023-10-28,customer0958@example.test,Gold
+C00959,Customer 0959,Male,66,New Delhi,Delhi,Small Business,2023-03-29,customer0959@example.test,Platinum
+C00960,Customer 0960,Male,24,Lucknow,Uttar Pradesh,,2022-03-09,customer0960@example.test, Silver 
+C00961,Customer 0961,Other,62,Kolkata,West Bengal,Small Business,2026-01-06,customer0961@example.test,Silver
+C00962,Customer 0962,Other,35,Chennai,Tamil Nadu,Small Business,2022-07-07,customer0962@example.test,Platinum
+C00963,Customer 0963,Male,61,Jaipur,Rajasthan,Corporate,2025-05-22,customer0963@example.test,Gold
+C00964,Customer 0964,Other,74,Hyderabad,Telangana,Corporate,2023-11-17,customer0964@example.test,Platinum
+C00965,Customer 0965,Other,30,New Delhi,Delhi,Consumer,2023-02-11,customer0965@example.test,Silver
+C00966,Customer 0966,Male,25,Ahmedabad,Gujarat,Corporate,2025-02-19,customer0966@example.test,Platinum
+C00967,Customer 0967,Male,50,Hyderabad,Telangana,Premium,2026-01-03,customer0967@example.test,Silver
+C00968, Customer 0968 ,Female,25,Jodhpur, Rajasthan ,Premium,2024-09-28,customer0968@example.test,Silver
+C00969,Customer 0969,Female,35,Lucknow,Uttar Pradesh,Small Business,2023-11-16,customer0969@example.test,Gold
+C00970,Customer 0970,Female,44,Hyderabad,Telangana,Small Business,10-Jan-2025,customer0970@example.test,Platinum
+C00971,Customer 0971,Female,21,Lucknow,Uttar Pradesh,Corporate,2025-05-21,customer0971@example.test,Gold
+C00972,Customer 0972,Male,33,Jaipur,Rajasthan,Corporate,11-May-2026,customer0972@example.test,Bronze
+C00973,Customer 0973,Female,51,Kochi,Kerala,Small Business,2023-08-10,customer0973@example.test,Gold
+C00974,Customer 0974,Male,73,Bengaluru,Karnataka,Corporate,2024-01-30,customer0974@example.test,Platinum
+C00975,Customer 0975,Male,62,Lucknow,Uttar Pradesh,Consumer,2024-11-20,customer0975@example.test,Platinum
+C00976,Customer 0976,Other,33,Kolkata,West Bengal,Premium,2023-08-19,customer0976@example.test,Gold
+C00977,Customer 0977,Other,19,Hyderabad,Telangana,Corporate,2022-10-18,customer0977@example.test,Platinum
+C00978,Customer 0978,Male,69,Indore,Madhya Pradesh,Corporate,2023-11-19,customer0978@example.test,Platinum
+C00979,Customer 0979,Male,68,Indore,Madhya Pradesh,Premium,2026-01-23,customer0979@example.test,Gold
+C00980,Customer 0980,Other,75,Kolkata,West Bengal,Premium,2025-04-08,customer0980@example.test,Gold
+C00981,Customer 0981,Other,30,Kolkata,West Bengal,Corporate,2026-05-03,customer0981@example.test,Bronze
+C00982,Customer 0982,Male,66,Indore,Madhya Pradesh,Consumer,2025-06-09,customer0982@example.test,Bronze
+C00983,Customer 0983,Other,61,Bengaluru,Karnataka,Consumer,2023-04-13,customer0983@example.test,Platinum
+C00984,Customer 0984,Male,50,Mumbai,Maharashtra,Small Business,2025-09-14,customer0984@example.test,Gold
+C00985,Customer 0985,Other,72,Hyderabad,Telangana,Small Business,2025-01-15,customer0985@example.test,Gold
+C00986,Customer 0986,Female,73,Kolkata,West Bengal,Small Business,2026-03-25,customer0986@example.test,Gold
+C00987,Customer 0987,Other,70,Kochi,Kerala,Consumer,2023-02-07,customer0987@example.test,Platinum
+C00988, Customer 0988 ,OTHER,39,New Delhi,Delhi,Corporate,2024-12-09,customer0988@example.test,Gold
+C00989,Customer 0989,Female,68,Ahmedabad,Gujarat, Consumer ,2022-04-21,customer0989@example.test,Bronze
+C00990,Customer 0990,Male,61,Bengaluru,Karnataka,Corporate,2022-04-23,customer0990@example.test,Silver
+C00991,Customer 0991,Other,64,Chennai,Tamil Nadu,Premium,2024-11-21,customer0991@example.test,Platinum
+C00992,Customer 0992,Male,53,Hyderabad,Telangana,Premium,2025-08-19,customer0992@example.test,Silver
+C00993,Customer 0993,Male,61,Jodhpur,Rajasthan,Small Business,2022-03-25,customer0993@example.test,Bronze
+C00994,Customer 0994,Other,49,Kochi,Kerala,Corporate,2024-03-30,customer0994@example.test,Bronze
+C00995,Customer 0995,Other,72,Jaipur,Rajasthan,Premium,2023-06-11,customer0995@example.test,Silver
+C00996,Customer 0996,Male,24,Bengaluru,Karnataka, Premium ,2024-02-15,customer0996@example.test,Gold
+C00997,Customer 0997,Female,38,Kolkata,West Bengal,Corporate,2024-12-25,customer0997@example.test,Platinum
+C00998,Customer 0998,Female,46,Hyderabad,Telangana,Premium,2024-12-24,customer0998@example.test,Platinum
+C00999,Customer 0999,Other,36,Kolkata,West Bengal,Consumer,2024-11-04,customer0999@example.test,Platinum
+C01000,,Male,31,Indore,Madhya Pradesh,Corporate,2022-10-10,customer1000@example.test, Gold 
+C01001,Customer 1001,Female,36,Chennai,Tamil Nadu,Premium,2024-12-30,customer1001@example.test,Bronze
+C01002, Customer 1002 ,Male,30,Kochi,Kerala,CONSUMER,2023-07-13,customer1002@example.test,Platinum
+C01003,Customer 1003,Male,61,Indore,Madhya Pradesh,Small Business,2025-05-19,customer1003@example.test,Platinum
+C01004,CUSTOMER 1004,Male,21,Chennai,Tamil Nadu,Small Business,2022-05-31,customer1004@example.test,Platinum
+C01005,Customer 1005,Female,28,Ahmedabad,Gujarat,Consumer,2022-12-06, customer1005@example.test ,Bronze
+C01006,Customer 1006,Other,39,Lucknow,Uttar Pradesh,,2023-04-14,customer1006@example.test,Bronze
+C01007,Customer 1007,Female,42,Jaipur,Rajasthan,Corporate,2025-11-17,customer1007@example.test,Platinum
+C01008,Customer 1008,Male,35,Jodhpur,Rajasthan,,2022-06-05,customer1008@example.test,Bronze
+C01009,Customer 1009,Other,48,Bengaluru,Karnataka,Corporate,2022-05-15,customer1009@example.test,Bronze
+C01010,Customer 1010,Female,18,Jaipur,Rajasthan,Small Business,2024-01-26,customer1010@example.test,Gold
+C01011,Customer 1011,Male,33,Kochi,Kerala,Premium,2023-01-06,customer1011@example.test,Silver
+C01012,Customer 1012,Other,66,Hyderabad,Telangana,Premium,2026-03-15,customer1012@example.test,Silver
+C01013,Customer 1013,Other,54,Bengaluru,Karnataka,Premium,2022-02-08,customer1013@example.test,Silver
+C01014,Customer 1014,Other,32,Ahmedabad,Gujarat,Small Business,2026-02-13,customer1014@example.test,Silver
+C01015,Customer 1015,Female,34,Indore,Madhya Pradesh,Corporate,2025-07-08,customer1015@example.test,Gold
+C01016,Customer 1016,Female,68,Kolkata,West Bengal,Small Business,2023-05-10,customer1016@example.test,Silver
+C01017,Customer 1017,Male,,Indore,Madhya Pradesh,Consumer,2022-04-26,customer1017@example.test,Silver
+C01018,Customer 1018,Female,25,New Delhi,DELHI,Small Business,2022-08-13,customer1018@example.test,Silver
+C01019,Customer 1019,Other,63,Jaipur,Rajasthan,Premium,2023-11-21,customer1019@example.test,Silver
+C01020,Customer 1020,Other,37, Chennai ,Tamil Nadu,Small Business,2024-11-01,customer1020@example.test,Silver
+C01021,Customer 1021,Female,25,Kochi,Kerala,Corporate,2022-06-10,customer1021@example.test,Gold
+C01022,Customer 1022,Other,34,Hyderabad,Telangana,Consumer,2022-10-01,customer1022@example.test,Silver
+C01023,Customer 1023,Male,53,Indore,Madhya Pradesh,Small Business,2026-02-15,customer1023@example.test,Platinum
+C01024,Customer 1024,Other,71,Bengaluru,Karnataka,Small Business,2026-05-17,customer1024@example.test,Bronze
+C01025,Customer 1025, Female ,45,Ahmedabad,Gujarat,Corporate,2022-10-24,customer1025@example.test,Platinum
+C01026,Customer 1026,Other,70,New Delhi,DELHI,Premium,2022-05-06,customer1026@example.test,Silver
+C01027,Customer 1027,Other,22,Hyderabad,Telangana,Small Business,2022-07-05,customer1027@example.test,Gold
+C01028,Customer 1028,Male,67,Indore,Madhya Pradesh,Consumer,2022-03-09,customer1028@example.test,Silver
+C01029,Customer 1029,Female,58,Kochi,Kerala,Premium,2024-05-28,customer1029@example.test,Platinum
+C01030,Customer 1030, Other ,64,Kolkata,West Bengal,Premium,2024-10-07,customer1030@example.test,Platinum
+C01031,Customer 1031,Male,29,Kochi,Kerala,Small Business,2025-11-05,customer1031@example.test,Platinum
+C01032,Customer 1032,Male,53,Ahmedabad,Gujarat,Corporate,2024-07-02,customer1032@example.test,Platinum
+C01033,Customer 1033,Female,62,Ahmedabad,Gujarat,Small Business,2022-05-28,customer1033@example.test,Bronze
+C01034,Customer 1034,Male,71,Indore,Madhya Pradesh,Premium,2023-08-23,customer1034@example.test,Silver
+C01035,Customer 1035,Female,68,Kolkata,West Bengal,Consumer,2023-05-12,customer1035@example.test,Platinum
+C01036,Customer 1036,Other,38,Kochi,Kerala,Small Business,2024-05-02,customer1036@example.test,Bronze
+C01037,Customer 1037,Other,35,Kochi,Kerala,Consumer,2025-04-27,customer1037@example.test,Platinum
+C01038,Customer 1038,Male,28,Kolkata,West Bengal,Small Business,2024-02-05,customer1038@example.test,Bronze
+C01039,Customer 1039,Male,32,Indore,Madhya Pradesh,Small Business,2023-06-29,customer1039@example.test,Platinum
+C01040,Customer 1040,Female,30,New Delhi,Delhi,Consumer,2023-12-31,customer1040@example.test,Silver
+C01041,Customer 1041,Male,57,Jaipur,Rajasthan,Corporate,2022-08-17,customer1041@example.test,Bronze
+C01042,Customer 1042,Female,53,Kolkata,West Bengal,Small Business,2026-02-15,customer1042@example.test,Platinum
+C01043,Customer 1043,Female,74,Kochi,Kerala,Corporate,2023-11-15,customer1043@example.test,Gold
+C01044,Customer 1044,Male,71,New Delhi,Delhi,Premium,2023-01-19,customer1044@example.test,Platinum
+C01045,Customer 1045,Other,70,CHENNAI,Tamil Nadu,Small Business,2022-07-28,customer1045@example.test,Silver
+C01046,Customer 1046,Male,43,Ahmedabad,Gujarat,Consumer,2026-03-15,customer1046@example.test,Bronze
+C01047,Customer 1047,Female,62,JAIPUR,Rajasthan,Small Business,2022-04-26,customer1047@example.test,Silver
+C01048,Customer 1048,Male,45,Indore,Madhya Pradesh,Small Business,2023-11-08,customer1048@example.test,Gold
+C01049,Customer 1049,Male,43,Chennai,Tamil Nadu,Small Business,2025-11-25,customer1049@example.test,Silver
+C01050,Customer 1050,Female,21,Jodhpur,Rajasthan,Consumer,2024-12-04,customer1050@example.test,Bronze
+C01051,Customer 1051,Other,30,Chennai, Tamil Nadu ,Corporate,2024-06-05,customer1051@example.test,Silver
+C01052, Customer 1052 ,Female,25,Ahmedabad,Gujarat,Premium,2022-07-18,customer1052@example.test,Silver
+C01053,Customer 1053,Other,57,Ahmedabad,Gujarat,Premium,2023-01-30,customer1053@example.test,Gold
+C01054,Customer 1054,Female,34,Ahmedabad,Gujarat,Small Business,2025-10-03,customer1054@example.test,Platinum
+C01055,Customer 1055,Other,71,Lucknow,Uttar Pradesh,Corporate,2022-03-10,customer1055@example.test,Platinum
+C01056,Customer 1056,Female,67,Ahmedabad,Gujarat,Small Business,2022-02-16,customer1056@example.test,Gold
+C01057,Customer 1057,Male,34,Jodhpur,Rajasthan,Small Business,2026-01-03,customer1057@example.test,Silver
+C01058,Customer 1058,Male,74,Kochi,Kerala,Small Business,2022-01-02,customer1058@example.test,Bronze
+C01059,Customer 1059,FEMALE,66,Kochi,Kerala,Premium,2024-04-20,customer1059@example.test,Silver
+C01060,Customer 1060,Female,50,Ahmedabad,Gujarat,Consumer,2025-08-17,customer1060@example.test,Silver
+C01061, Customer 1061 ,Male,34,Kolkata,West Bengal,Premium,2022-05-19,customer1061@example.test,Bronze
+C01062,Customer 1062,Female,65,Hyderabad,Telangana,Premium,2023-10-19,customer1062@example.test,Bronze
+C01063,Customer 1063,Male,32,Bengaluru,Karnataka,Corporate,2025-12-14,customer1063@example.test,Bronze
+C01064,Customer 1064,Other,63,Jaipur,Rajasthan,Premium,2024-01-30,customer1064@example.test,Gold
+C01065,Customer 1065,Other,53,Chennai,Tamil Nadu,Consumer,2025-03-29,customer1065@example.test,Platinum
+C01066,Customer 1066,Male,38,New Delhi,Delhi,Corporate,2023-02-28,customer1066@example.test,Bronze
+C01067,Customer 1067,Other,53,Jodhpur,Rajasthan,Premium,2023-04-19,customer1067@example.test,Silver
+C01068,Customer 1068,Male,38,Chennai,Tamil Nadu,Premium,30/07/2023,CUSTOMER1068@EXAMPLE.TEST,Bronze
+C01069,Customer 1069,Male,29,Ahmedabad,Gujarat,Corporate,2024-05-05,customer1069@example.test,Bronze
+C01070,Customer 1070,Other,48,Kochi,Kerala,Premium,2022-11-11,customer1070@example.test,Bronze
+C01071,Customer 1071,Male,65,KOLKATA,West Bengal,Small Business,2022-07-17,customer1071@example.test,Platinum
+C01072,Customer 1072,,65,Indore,Madhya Pradesh,Corporate,2025-05-26,customer1072@example.test,Gold
+C01073,Customer 1073,Male,23,Lucknow,Uttar Pradesh,Consumer,2023-12-07,customer1073@example.test,Gold
+C01074,Customer 1074,Male,73,Indore,Madhya Pradesh,Consumer,2023-10-30,customer1074@example.test,Silver
+C01075,Customer 1075,Other,53,Mumbai,Maharashtra,Corporate,2022-11-22,customer1075@example.test,Platinum
+C01076,Customer 1076,Female,62,Ahmedabad,Gujarat,Small Business,2023-06-08,customer1076@example.test,Platinum
+C01077,Customer 1077,Male,47,Ahmedabad,Gujarat,Small Business,2024-10-16,customer1077@example.test,Gold
+C01078,Customer 1078,Female,71,Lucknow,Uttar Pradesh,Consumer,2024-04-25,customer1078@example.test,Platinum
+C01079,Customer 1079,Female,42,Kolkata,West Bengal,Consumer,2022-10-03,customer1079@example.test,Bronze
+C01080,Customer 1080,Other,62,Hyderabad,Telangana,Premium,2022-10-13,customer1080@example.test,Bronze
+C01081,,Female,38,Lucknow,Uttar Pradesh,Premium,2022-12-28,customer1081@example.test,Gold
+C01082,,Female,33,Chennai,Tamil Nadu,Premium,2024-11-25,customer1082@example.test,Platinum
+C01083,Customer 1083,Male,42,Bengaluru,Karnataka,Corporate,2025-03-21,customer1083@example.test,Silver
+C01084,Customer 1084,Other,54,Chennai,Tamil Nadu,Corporate,2023-09-12,customer1084@example.test,Silver
+C01085,Customer 1085,Female,44,Hyderabad,Telangana,Premium,2024-05-16,customer1085@example.test,Silver
+C01086,Customer 1086,Other,19,Lucknow,Uttar Pradesh,Corporate,2022-07-24,customer1086@example.test,Gold
+C01087,Customer 1087,Female,46,Ahmedabad,Gujarat,Corporate,2023-09-29,customer1087@example.test,Gold
+C01088,Customer 1088,Female,51,Jodhpur,Rajasthan,Premium,2023-06-03,customer1088@example.test,Silver
+C01089,Customer 1089,Female,19,Jaipur,Rajasthan,Consumer,2024-04-16,customer1089@example.test,Gold
+C01090,Customer 1090,Male,18,Kolkata,West Bengal,Small Business,2022-08-20,customer1090@example.test,Gold
+C01091,Customer 1091,Male,44,New Delhi,Delhi,Consumer,2025-03-14,customer1091@example.test,Platinum
+C01092,Customer 1092,Female,70,Bengaluru,Karnataka,Premium,2025-07-12,customer1092@example.test,Gold
+C01093,Customer 1093,Male,61,Mumbai,Maharashtra,SMALL BUSINESS,2025-06-26,customer1093@example.test,Silver
+C01094,Customer 1094,Female,59,Kolkata,West Bengal,Corporate,2022-10-08,customer1094@example.test,Platinum
+C01095,Customer 1095,Female,70,Chennai,Tamil Nadu,Premium,2023-05-15,customer1095@example.test,Gold
+C01096,Customer 1096,Female,56,Lucknow,Uttar Pradesh,Premium,2025-12-23,customer1096@example.test,Bronze
+C01097,Customer 1097,Female,43,Kochi,Kerala,Premium,2023-05-05,customer1097@example.test,Bronze
+C01098,Customer 1098,Other,23,New Delhi,Delhi,Small Business,2023-09-23,CUSTOMER1098@EXAMPLE.TEST,Bronze
+C01099,Customer 1099,Other,67,Hyderabad,Telangana,Premium,2022-05-08, customer1099@example.test ,Bronze
+C01100,Customer 1100,Other,74,Kochi,Kerala,Corporate,2025-05-26,customer1100@example.test,Gold
+C01101,Customer 1101,Other,74,Kochi,Kerala,Consumer,2022-10-30,customer1101@example.test,Platinum
+C01102,Customer 1102,Other,44,Lucknow,Uttar Pradesh,Corporate,2024-06-12,customer1102@example.test,Silver
+C01103,Customer 1103,Other,18,Kochi,Kerala,Premium,2023-04-09,customer1103@example.test,Gold
+C01104,Customer 1104,Female,62,Mumbai,Maharashtra,Premium,2022-02-17,customer1104@example.test,Platinum
+C01105,Customer 1105,Female,74,Bengaluru,Karnataka,Corporate,2026-04-11,customer1105@example.test,Bronze
+C01106,Customer 1106,Other,41,Lucknow,Uttar Pradesh,Small Business,2024-12-14,customer1106@example.test,Gold
+C01107,Customer 1107,Male,26,Kolkata,West Bengal,Corporate,2026-03-16,customer1107@example.test,Platinum
+C01108,Customer 1108,Male,70,Bengaluru,Karnataka,Premium,2024-05-22,customer1108@example.test,Gold
+C01109,Customer 1109,Female,39,,Telangana,Corporate,2024-03-09,customer1109@example.test,Silver
+C01110,Customer 1110,Male,18,Jodhpur,Rajasthan,Consumer,2023-07-12,customer1110@example.test,Gold
+C01111,Customer 1111,Male,37,Lucknow,Uttar Pradesh,CONSUMER,2024-06-06,customer1111@example.test,Gold
+C01112,Customer 1112,Male,39,Ahmedabad,Gujarat,Consumer,2024-01-07,customer1112@example.test,Gold
+C01113,Customer 1113,Male,64,Kolkata,West Bengal,Consumer,2025-04-21,customer1113@example.test,Platinum
+C01114,Customer 1114,Female,33,New Delhi,Delhi,Premium,2024-08-28,customer1114@example.test,Silver
+C01115,Customer 1115,Other,68,New Delhi,Delhi,Premium,2024-12-28,customer1115@example.test,Silver
+C01116,Customer 1116,Other,25,,Kerala,Corporate,2024-09-01,customer1116@example.test,Gold
+C01117,Customer 1117,Male,57,Kochi,Kerala,Consumer,2025-05-20,customer1117@example.test,Gold
+C01118,Customer 1118,Male,38,Ahmedabad,Gujarat,Small Business,09-Jun-2025,customer1118@example.test,Gold
+C01119,Customer 1119,Female,36,New Delhi,Delhi,Small Business,2023-07-15,customer1119@example.test,Silver
+C01120,Customer 1120,Male,68,MUMBAI,Maharashtra,Small Business,2023-08-06,customer1120@example.test,Bronze
+C01121,Customer 1121,Other,54,Jodhpur,Rajasthan,Premium,2024-03-03,customer1121@example.test,Gold
+C01122,Customer 1122,Male,33,Chennai,Tamil Nadu,Corporate,2023-04-07,customer1122@example.test,Gold
+C01123,Customer 1123,Other,49,Mumbai,Maharashtra,Consumer,2024-12-08,customer1123@example.test,Gold
+C01124,Customer 1124,Other,50,Hyderabad,Telangana,Premium,2022-10-08,customer1124@example.test,Silver
+C01125,Customer 1125,Other,39,Bengaluru,Karnataka,Premium,2022-12-10,customer1125@example.test,Platinum
+C01126,Customer 1126,Female,,Ahmedabad,Gujarat,Premium,2025-03-02,CUSTOMER1126@EXAMPLE.TEST,Platinum
+C01127,Customer 1127,Male,63,Mumbai,Maharashtra,Premium,2024-02-13,customer1127@example.test,Silver
+C01128,Customer 1128,Other,37,Jodhpur,Rajasthan,Premium,2024-11-04,customer1128@example.test,Gold
+C01129,Customer 1129,Female,42,Ahmedabad,Gujarat,Consumer,2025-08-23,customer1129@example.test,Bronze
+C01130, Customer 1130 ,Other,72,Chennai,Tamil Nadu,Small Business,2026-01-09,customer1130@example.test,Gold
+C01131,Customer 1131,Male,22,Mumbai,Maharashtra,Corporate,2024-01-09,customer1131@example.test,Platinum
+C01132,Customer 1132,Female,67,Jaipur,Rajasthan,Corporate,2024-09-23,customer1132@example.test,Silver
+C01133,Customer 1133,Female,35,Indore,Madhya Pradesh,Premium,2023-08-07,customer1133@example.test,Bronze
+C01134,Customer 1134,Other,71,,Tamil Nadu,Premium,2024-06-18,customer1134@example.test,Platinum
+C01135,Customer 1135,Male,34,Jaipur,Rajasthan,Corporate,30/01/2024,customer1135@example.test,Gold
+C01136,Customer 1136,Other,70,Mumbai,Maharashtra,Small Business,2025-02-01, customer1136@example.test ,Gold
+C01137,Customer 1137,Male,66,,Uttar Pradesh,Premium,2026-04-17,customer1137@example.test,Gold
+C01138,Customer 1138,Female,57,Lucknow,Uttar Pradesh,Consumer,2022-02-26,customer1138@example.test,Platinum
+C01139,Customer 1139,OTHER,49,Kochi,Kerala,Consumer,2024-03-10,customer1139@example.test,Platinum
+C01140,Customer 1140,Other,26,Lucknow,Uttar Pradesh,Consumer,2024-05-17,customer1140@example.test,Gold
+C01141,Customer 1141,Female,43,New Delhi,Delhi,Premium,2025-03-23,customer1141@example.test,Platinum
+C01142,Customer 1142,Other,58,Mumbai,Maharashtra,Small Business,2024-08-26,customer1142@example.test,Bronze
+C01143,Customer 1143,Male,62,Kolkata,West Bengal,Small Business,2024-10-13,customer1143@example.test,Gold
+C01144,Customer 1144,Other,51,Jodhpur,Rajasthan,Small Business,2023-06-16,customer1144@example.test,Gold
+C01145,Customer 1145,Other,61,Jodhpur,Rajasthan,Corporate,2025-01-12,customer1145@example.test,Platinum
+C01146,Customer 1146,Male,45,NEW DELHI,Delhi,Premium,2023-01-26,customer1146@example.test,Gold
+C01147,Customer 1147,Female,44,Ahmedabad,Gujarat,Consumer,2026-01-10,customer1147@example.test,Silver
+C01148,Customer 1148,Female,29,Kochi,Kerala,Corporate,2023-05-13,customer1148@example.test,Gold
+C01149,Customer 1149,Male,22,Jodhpur,Rajasthan,Consumer,2023-11-04,customer1149@example.test,Bronze
+C01150,,Other,74,Jaipur,Rajasthan,Premium,2022-08-16,customer1150@example.test,Gold
+C01151,Customer 1151,Female,20,Kolkata,West Bengal,Premium,2024-10-20,customer1151@example.test,Silver
+C01152,Customer 1152,Female,40, Kochi ,Kerala,Small Business,2023-09-05,customer1152@example.test,Bronze
+C01153,Customer 1153,Female,66,Kolkata,West Bengal,Consumer,02-May-2023,customer1153@example.test,Silver
+C01154,Customer 1154,Female,65,Kolkata,West Bengal,Small Business,2022-12-25,customer1154@example.test,Bronze
+C01155,Customer 1155,Female,72,Ahmedabad,Gujarat,Consumer,2022-03-24,customer1155@example.test,Bronze
+C01156,Customer 1156,Female,54,Jodhpur,Rajasthan,Corporate,2024-11-18,customer1156@example.test,Platinum
+C01157,Customer 1157,Male,69,Jaipur,Rajasthan,Corporate,2024-04-29,customer1157@example.test,Gold
+C01158,Customer 1158,Male,62,Indore,Madhya Pradesh,Corporate,2022-03-03,customer1158@example.test,Silver
+C01159,Customer 1159,Other,34,Kolkata,West Bengal,Consumer,2026-01-10,customer1159@example.test,Bronze
+C01160,Customer 1160,Female,30,Hyderabad,Telangana,Premium,2024-05-14,customer1160@example.test,Platinum
+C01161,Customer 1161,Other,37,New Delhi,Delhi,Premium,2025-03-22,customer1161@example.test,Silver
+C01162,Customer 1162,Other,40,Kolkata,West Bengal,Small Business,2025-07-14,customer1162@example.test,Platinum
+C01163,Customer 1163,Male,25,Hyderabad,Telangana,Premium,2024-01-12,customer1163@example.test,Bronze
+C01164,Customer 1164,Male,31,Indore,Madhya Pradesh,Small Business,2024-12-19,customer1164@example.test,Silver
+C01165,Customer 1165,Male,48,Chennai,Tamil Nadu,Corporate,2022-01-08,customer1165@example.test,Platinum
+C01166,Customer 1166,Male,75,Kochi,Kerala,Corporate,2025-05-07,customer1166@example.test,Gold
+C01167,Customer 1167,Other,37,Jodhpur, Rajasthan ,Consumer,2024-09-06,customer1167@example.test,Bronze
+C01168,Customer 1168,Female,49,Hyderabad,Telangana,Corporate,2025-06-14,customer1168@example.test,Bronze
+C01169,Customer 1169,Female,71,Mumbai,Maharashtra, Small Business ,2023-02-14,customer1169@example.test,Gold
+C01170,Customer 1170,Female,22,Mumbai,Maharashtra,Small Business,2025-03-05,customer1170@example.test,Gold
+C01171,Customer 1171,,39,Jaipur,Rajasthan,Corporate,2022-06-25,customer1171@example.test,Silver
+C01172,Customer 1172,Other,67,Indore,Madhya Pradesh,Corporate,2022-12-10,customer1172@example.test,Gold
+C01173,Customer 1173,Female,70,Hyderabad,Telangana,Corporate,2024-01-27,customer1173@example.test,
+C01174,Customer 1174,Male,49,Kolkata,West Bengal,Small Business,2023-10-15,customer1174@example.test,Silver
+C01175,Customer 1175,Other,73,Kolkata,West Bengal,Premium,2022-10-27,customer1175@example.test, Platinum 
+C01176,Customer 1176,Other,27,Indore,Madhya Pradesh,Consumer,2025-10-28,customer1176@example.test,Bronze
+C01177,Customer 1177,Male,24,Kolkata,West Bengal,Premium,2022-01-18,customer1177@example.test,Gold
+C01178, Customer 1178 ,Other,55,Lucknow,Uttar Pradesh,Corporate,2025-08-21,customer1178@example.test,Platinum
+C01179,Customer 1179,Other,27,Ahmedabad,Gujarat,Small Business,2024-10-12,CUSTOMER1179@EXAMPLE.TEST,Gold
+C01180,Customer 1180,Female,49,Chennai,Tamil Nadu,Consumer,2023-07-20,customer1180@example.test,Gold
+C01181,Customer 1181,Other,19,Jaipur,Rajasthan,Consumer,2024-07-13,customer1181@example.test,Silver
+C01182,Customer 1182,Male,63,Chennai,Tamil Nadu,Premium,2023-05-23,customer1182@example.test,Silver
+C01183,Customer 1183,Female,49,Ahmedabad,Gujarat,Corporate,2025-09-05,customer1183@example.test,Gold
+C01184,Customer 1184,Male,58,CHENNAI,Tamil Nadu,Consumer,2023-07-11,customer1184@example.test,Bronze
+C01185,Customer 1185,Other,45,Kochi,Kerala,Corporate,2026-02-08,customer1185@example.test,Silver
+C01186,Customer 1186,Other,38,Lucknow,Uttar Pradesh,Corporate,2024-06-19,customer1186@example.test,Bronze
+C01187,Customer 1187,Male,49,Lucknow,Uttar Pradesh,Corporate,2022-11-30,customer1187@example.test,
+C01188,Customer 1188,Female,43,Kochi,Kerala,Corporate,2024-07-27,customer1188@example.test,Platinum
+C01189,Customer 1189,Female,72,Jodhpur,Rajasthan,Consumer,2022-02-09,customer1189@example.test,Bronze
+C01190,Customer 1190,Female,24,Jaipur,Rajasthan,Premium,2025-10-31,customer1190@example.test,Silver
+C01191,Customer 1191,Female,24,Chennai,Tamil Nadu,Premium,2025-12-14,customer1191@example.test,Bronze
+C01192,Customer 1192,Male,69,Kolkata,West Bengal,Premium, 2024-03-28 ,customer1192@example.test,Gold
+C01193,Customer 1193,Female,34,Ahmedabad,Gujarat,Small Business,2024-02-18,customer1193@example.test,Gold
+C01194,Customer 1194,Other,21,Mumbai,Maharashtra,Consumer,2025-10-17,customer1194@example.test,Silver
+C01195,Customer 1195,Male,41,Chennai,Tamil Nadu,Consumer,2024-12-04,customer1195@example.test,Silver
+C01196,Customer 1196,Female,50,Mumbai,Maharashtra,Corporate,2023-04-17,customer1196@example.test,Bronze
+C01197,Customer 1197,Female,68,Lucknow,Uttar Pradesh,Consumer,2023-11-27,customer1197@example.test,Silver
+C01198,Customer 1198,Female,54,Kochi,Kerala,Small Business,2024-02-24,customer1198@example.test,Bronze
+C01199,Customer 1199,Male,66,Kolkata,West Bengal,Consumer,2026-04-15,customer1199@example.test,Bronze
+C01200,Customer 1200,Female,24,Jaipur,Rajasthan,Premium,2025-04-20, customer1200@example.test ,Silver
+C01201,Customer 1201,Female,23,Mumbai,Maharashtra,Consumer,2026-02-09,customer1201@example.test,Gold
+C01202,Customer 1202,Male,64,Kolkata,West Bengal,Consumer,2022-08-03,customer1202@example.test,Gold
+C01203,Customer 1203,Other,73,Kolkata,West Bengal,Consumer,2026-03-04,customer1203@example.test,Platinum
+C01204,Customer 1204,Other,60,Lucknow,Uttar Pradesh,Consumer,24/11/2022,customer1204@example.test,Bronze
+C01205,Customer 1205,Male,28,New Delhi,Delhi,Consumer,2025-10-30,customer1205@example.test,Platinum
+C01206,Customer 1206,Other,67,Hyderabad,Telangana,Corporate,2023-02-11,customer1206@example.test,Bronze
+C01207,Customer 1207,Female,25,Bengaluru,Karnataka,Small Business,2026-02-10,customer1207@example.test,Bronze
+C01208,Customer 1208,Male,64,Lucknow,Uttar Pradesh,Consumer,2024-12-28,customer1208@example.test,Gold
+C01209,Customer 1209,Female,73,Ahmedabad,,Small Business,2023-04-02,customer1209@example.test,Platinum
+C01210,Customer 1210,Male,22,Jodhpur,Rajasthan,Premium,2022-08-23,customer1210@example.test,Silver
+C01211,Customer 1211,Female,43,Kochi,Kerala,Consumer,2023-12-16,customer1211@example.test,Silver
+C01212,Customer 1212,Other,59,Hyderabad,Telangana,Corporate,2023-07-13,customer1212@example.test,Platinum
+C01213,Customer 1213,Other,37,Hyderabad,Telangana,Consumer,2022-11-05,customer1213@example.test,Silver
+C01214,Customer 1214,Male,61,Lucknow,Uttar Pradesh,Consumer,2022-10-28,customer1214@example.test,Silver
+C01215,Customer 1215,Female,73,Kochi,Kerala,Consumer,2026-05-20,customer1215@example.test,Gold
+C01216,Customer 1216,Other,46,Jaipur,Rajasthan,Consumer,2025-08-24,customer1216@example.test,Gold
+C01217,Customer 1217,Other,23,Mumbai,Maharashtra,Consumer,2025-08-05,customer1217@example.test,Platinum
+C01218,Customer 1218,Male,26,Indore,Madhya Pradesh,Premium,2023-08-02,customer1218@example.test,Bronze
+C01219,Customer 1219,Other,41,Jodhpur,Rajasthan,Small Business,2023-06-24,customer1219@example.test,Silver
+C01220,Customer 1220,Male,60,Kolkata,West Bengal,Consumer,2024-03-10,customer1220@example.test,Bronze
+C01221,Customer 1221,Female,74,Indore,Madhya Pradesh,Small Business,2025-06-02,customer1221@example.test,Platinum
+C01222,Customer 1222,Male,60,Chennai,Tamil Nadu,Consumer,2026-02-24,customer1222@example.test,Bronze
+C01223,Customer 1223,Male,57,Jaipur,Rajasthan,Corporate,2025-08-19,customer1223@example.test,Platinum
+C01224,Customer 1224,Other,31,Bengaluru,Karnataka,Corporate,2024-12-30,customer1224@example.test,Bronze
+C01225,Customer 1225,Male,44,Kolkata,West Bengal,Corporate,2024-12-19,customer1225@example.test,Bronze
+C01226,Customer 1226,Other,54,Bengaluru,Karnataka,Consumer,2024-06-11,customer1226@example.test,Bronze
+C01227,Customer 1227,Male,62,Kolkata,West Bengal,Small Business,2023-04-12,customer1227@example.test,Platinum
+C01228,CUSTOMER 1228,Male,74,Mumbai,Maharashtra,Premium,2024-05-16,customer1228@example.test,Bronze
+C01229,Customer 1229,Male,42,Bengaluru,Karnataka,Corporate,2024-11-16,customer1229@example.test,Gold
+C01230,Customer 1230,Male,43,Indore,Madhya Pradesh,Consumer,2024-02-16,customer1230@example.test,Gold
+C01231,Customer 1231,Female,28,Mumbai,Maharashtra,Corporate,2026-02-17,customer1231@example.test,Gold
+C01232,Customer 1232,Other,46,Lucknow,Uttar Pradesh,Consumer,01-Jun-2025,customer1232@example.test,Bronze
+C01233,Customer 1233,Male,69,Chennai,Tamil Nadu,Premium,2023-07-20,CUSTOMER1233@EXAMPLE.TEST,Platinum
+C01234,Customer 1234,Male,73,New Delhi,Delhi,Premium,2026-05-16,customer1234@example.test,Bronze
+C01235,Customer 1235,Male,43,Jodhpur,Rajasthan, Consumer ,2023-05-26,customer1235@example.test,Gold
+C01236,Customer 1236,Other,50,Lucknow,Uttar Pradesh,Small Business,2025-01-05,customer1236@example.test,Gold
+C01237,Customer 1237,Female,26,Lucknow,Uttar Pradesh,Premium,2025-05-07,customer1237@example.test,Bronze
+C01238,Customer 1238,,47,Indore,Madhya Pradesh,Consumer,2024-08-30,customer1238@example.test,Silver
+C01239,Customer 1239,Other,67,Jodhpur,Rajasthan, Premium ,2023-09-25,customer1239@example.test,Gold
+C01240,Customer 1240,Male,36,Mumbai,Maharashtra,Premium,2023-03-25,customer1240@example.test,Silver
+C01241,Customer 1241,Male,18,Chennai,Tamil Nadu,Premium,2023-04-05,customer1241@example.test,Platinum
+C01242,Customer 1242,Female,49,Kolkata,WEST BENGAL,Premium,2024-05-25,customer1242@example.test,PLATINUM
+C01243,Customer 1243,Female,65,Jodhpur,Rajasthan,Small Business, 2023-09-07 ,customer1243@example.test, Silver 
+C01244,Customer 1244,Female,31,Hyderabad,Telangana,Consumer,2022-10-31,customer1244@example.test,Platinum
+C01245,Customer 1245,Female,36,Chennai,Tamil Nadu,Consumer,2026-01-21,customer1245@example.test,Silver
+C01246,Customer 1246,Female,68,Ahmedabad,Gujarat,Consumer,2024-03-14,customer1246@example.test,Bronze
+C01247,Customer 1247,Other,19,Hyderabad,Telangana,Premium,2023-10-08,customer1247@example.test,Bronze
+C01248,Customer 1248,Other,25,Mumbai,Maharashtra,Consumer,2026-01-07,customer1248@example.test,Silver
+C01249,Customer 1249,Female,42,,Karnataka,Small Business,2025-11-24,customer1249@example.test,Gold
+C01250,Customer 1250,Female,66,Jaipur,Rajasthan,Small Business,2024-02-01,customer1250@example.test,Gold
+C01251,Customer 1251,Other,20,New Delhi,Delhi,Consumer,2024-03-09,customer1251@example.test,Gold
+C01252,Customer 1252,Male,62,Lucknow,Uttar Pradesh,Small Business,2024-02-01,customer1252@example.test,Gold
+C01253,Customer 1253,Other,48,Chennai,Tamil Nadu,Consumer,2025-04-09,customer1253@example.test,Silver
+C01254, Customer 1254 ,Female,42,Ahmedabad,Gujarat,Small Business,2022-09-29,customer1254@example.test,Silver
+C01255,Customer 1255,Female,33,Jodhpur,Rajasthan,Consumer,2026-03-30,customer1255@example.test,Bronze
+C01256,Customer 1256,Female,25,Hyderabad,Telangana,Premium,2022-11-19,customer1256@example.test,
+C01257,Customer 1257,Other,24,Kochi,Kerala,Small Business,2022-10-04,customer1257@example.test,Bronze
+C01258,Customer 1258,Other,35,Kolkata,West Bengal,Premium,2026-03-29,customer1258@example.test,Bronze
+C01259,Customer 1259,Female,61,Kochi,KERALA,Corporate,2024-08-10,customer1259@example.test,Platinum
+C01260,Customer 1260,Male,46,Lucknow,Uttar Pradesh,Corporate,2023-12-23,customer1260@example.test,Gold
+C01261,Customer 1261,Male,49,Bengaluru,Karnataka,Premium,2022-06-26,customer1261@example.test,Bronze
+C01262,Customer 1262,Female,21,Mumbai,Maharashtra,Consumer,2023-10-28,customer1262@example.test,Gold
+C01263,Customer 1263,Female,25,Jaipur,Rajasthan,Small Business,2026-03-26,customer1263@example.test,Gold
+C01264,Customer 1264,Female,53,Lucknow,Uttar Pradesh,Small Business,2022-02-07,customer1264@example.test,Bronze
+C01265,Customer 1265,Other,48,Lucknow,Uttar Pradesh,Small Business,2026-05-08,customer1265@example.test,Silver
+C01266,Customer 1266,Male,74,Jaipur,Rajasthan,Premium,2024-02-07,customer1266@example.test,Bronze
+C01267,Customer 1267,Female,48,Ahmedabad,Gujarat,Consumer,2026-04-02,customer1267@example.test,Silver
+C01268,Customer 1268,Female,36,Jaipur,Rajasthan,Consumer,2022-11-12,customer1268@example.test,Silver
+C01269,Customer 1269,Male,65,Mumbai,Maharashtra,Small Business,2025-03-29,customer1269@example.test,Gold
+C01270,Customer 1270,Male,26,Indore,Madhya Pradesh,Consumer,2022-03-21,customer1270@example.test,Gold
+C01271,Customer 1271,Male,24,Jodhpur,Rajasthan,Consumer,2022-02-27,customer1271@example.test,Gold
+C01272,Customer 1272,Male,52,Kochi,Kerala,Consumer,2024-04-20,customer1272@example.test,Platinum
+C01273,Customer 1273,Male,26,Mumbai,Maharashtra,Consumer,2022-06-27,customer1273@example.test,Gold
+C01274,Customer 1274,Male,36,Kolkata,West Bengal,Small Business,2022-12-17,customer1274@example.test,Bronze
+C01275,Customer 1275,Male,56,Jodhpur,Rajasthan,Consumer,2022-04-02,customer1275@example.test,Gold
+C01276,Customer 1276,Other,59,Ahmedabad,Gujarat,Corporate,2024-09-07,customer1276@example.test,Silver
+C01277,Customer 1277,Male,33,New Delhi,Delhi,Premium,2025-11-15,customer1277@example.test,Silver
+C01278,Customer 1278,Female,40,Jaipur,Rajasthan,Small Business,2024-08-28,customer1278@example.test,Bronze
+C01279,Customer 1279,Male,29,Mumbai, Maharashtra ,Small Business,2022-03-07,customer1279@example.test,Platinum
+C01280,Customer 1280,Female,22,Chennai,Tamil Nadu,Corporate,2022-01-31,customer1280@example.test,Silver
+C01281,Customer 1281,Male,75,New Delhi,Delhi,Consumer,2022-12-24,customer1281@example.test,Gold
+C01282,Customer 1282,Male,19,Ahmedabad,Gujarat,Premium,2024-07-28,customer1282@example.test,Platinum
+C01283,Customer 1283,Male,44,MUMBAI,Maharashtra,Corporate,2023-09-12,customer1283@example.test,Platinum
+C01284,Customer 1284,Female,50,New Delhi,Delhi,Premium,2025-03-03,customer1284@example.test,Gold
+C01285,Customer 1285,Female,67,Bengaluru,Karnataka,Corporate,2026-02-24,customer1285@example.test,Bronze
+C01286,Customer 1286,Female,28,Bengaluru,Karnataka,Consumer,2023-02-23,customer1286@example.test,Silver
+C01287,Customer 1287,Other,36,Kochi,Kerala,Small Business,2025-02-04,customer1287@example.test,Bronze
+C01288,Customer 1288,Female,18,Chennai,Tamil Nadu,Premium,2023-07-12,customer1288@example.test,Platinum
+C01289,Customer 1289,Male,41,New Delhi,Delhi,Premium,2025-06-12,customer1289@example.test,Silver
+C01290,Customer 1290,Male,19,Kolkata,West Bengal,Corporate,2023-04-17,customer1290@example.test,Gold
+C01291,Customer 1291,Male,49,Mumbai,Maharashtra,Corporate,2024-06-04,customer1291@example.test,Bronze
+C01292,Customer 1292,Female,60,Jodhpur,Rajasthan,Consumer,2024-07-29,customer1292@example.test,Platinum
+C01293,Customer 1293,Male,21,Lucknow,Uttar Pradesh,Small Business,2024-04-27,customer1293@example.test,Gold
+C01294,Customer 1294,Female,26,Chennai,Tamil Nadu,Corporate,2023-03-23,customer1294@example.test,Gold
+C01295,Customer 1295,Male,62,New Delhi,Delhi,Consumer,,customer1295@example.test,Platinum
+C01296,Customer 1296,Other,49,Hyderabad,Telangana,Corporate,2023-12-25,customer1296@example.test,Bronze
+C01297,Customer 1297,Female,29,Hyderabad,Telangana,Small Business,2023-08-20,customer1297@example.test,Platinum
+C01298,Customer 1298,Other,35,Jaipur,Rajasthan,Premium,2024-07-22,customer1298@example.test,Bronze
+C01299,Customer 1299,Male,53,Chennai,Tamil Nadu,Corporate,2026-01-04,customer1299@example.test,Silver
+C01300,Customer 1300,Other,69,Ahmedabad,Gujarat,Premium,2026-03-05,customer1300@example.test,Gold
+C01301,Customer 1301,Female,27,Kolkata,West Bengal,Corporate,2024-04-06,customer1301@example.test,Silver
+C01302,Customer 1302,Other,59,New Delhi,Delhi,Small Business,2026-03-13,customer1302@example.test,Bronze
+C01303,Customer 1303,Other,22,Jaipur,Rajasthan,Small Business,2024-07-18,customer1303@example.test,Platinum
+C01304,Customer 1304,Female,72,New Delhi,Delhi,Small Business,2026-01-01,customer1304@example.test,Platinum
+C01305,Customer 1305,Other,42,Kolkata,West Bengal,Premium,2023-04-02,customer1305@example.test,Gold
+C01306,Customer 1306,Female,30,Mumbai,Maharashtra,Consumer,2023-06-30,customer1306@example.test,Platinum
+C01307,Customer 1307,Female,53,Ahmedabad,Gujarat,Corporate,2026-02-06,customer1307@example.test,Silver
+C01308,Customer 1308,Male,48,Lucknow,Uttar Pradesh,Premium,2022-05-10,customer1308@example.test,Bronze
+C01309,Customer 1309,Male,47,Kochi,Kerala,Premium,2022-07-12,customer1309@example.test,Silver
+C01310,Customer 1310,Other,66,Kolkata,West Bengal,Premium,2026-03-08,customer1310@example.test,Gold
+C01311,Customer 1311,Male,18,Mumbai,Maharashtra,Premium,2022-11-01,customer1311@example.test,Bronze
+C01312,Customer 1312,Female,49,Jodhpur,Rajasthan,Small Business,2025-04-10,customer1312@example.test,Gold
+C01313,Customer 1313,Male,30,Ahmedabad,Gujarat,Premium,2023-08-17,customer1313@example.test,Bronze
+C01314,Customer 1314,Male,36,Chennai,Tamil Nadu,Corporate,2025-10-27,customer1314@example.test,Bronze
+C01315,Customer 1315,Male,54,New Delhi,Delhi,Small Business,2025-07-31,customer1315@example.test,Bronze
+C01316,Customer 1316,Other,43,Mumbai,Maharashtra,Small Business,2022-07-25,customer1316@example.test,Gold
+C01317,Customer 1317,Female,59,Kolkata,West Bengal,Consumer,2024-03-02,customer1317@example.test,Platinum
+C01318,Customer 1318,Other,41,Jaipur,Rajasthan,Corporate,2023-01-05,customer1318@example.test,Silver
+C01319,Customer 1319,Other,30,Kochi,Kerala,SMALL BUSINESS,2022-10-29,customer1319@example.test,Gold
+C01320,Customer 1320,Male,35,Hyderabad,Telangana,Consumer,2024-11-27,customer1320@example.test,Bronze
+C01321,Customer 1321,Female,34,Ahmedabad,Gujarat,Small Business,2023-04-13,customer1321@example.test,Platinum
+C01322,Customer 1322,Other,26,Kolkata,West Bengal,Premium,2024-10-06,customer1322@example.test,Bronze
+C01323,Customer 1323,Female,70,Hyderabad,Telangana,Consumer,2024-03-19,customer1323@example.test,Platinum
+C01324,Customer 1324,Female,23,New Delhi,Delhi,Consumer,2023-06-08,customer1324@example.test,Bronze
+C01325,Customer 1325,Other,22,Hyderabad,Telangana,Small Business,2024-04-12,customer1325@example.test,Platinum
+C01326,Customer 1326,Other,75,Jaipur, Rajasthan ,Premium,2022-12-24,customer1326@example.test,Silver
+C01327,Customer 1327,Male,19,Indore,Madhya Pradesh,Consumer,2024-01-10,customer1327@example.test,Platinum
+C01328,Customer 1328,Other,19,Jaipur,Rajasthan,Small Business,2024-02-11,customer1328@example.test,Silver
+C01329,Customer 1329,Other,47,Bengaluru,Karnataka,Premium,2022-05-19,customer1329@example.test,Bronze
+C01330,Customer 1330,Female,57,Bengaluru,Karnataka,Small Business,2023-11-30,customer1330@example.test,Platinum
+C01331,Customer 1331,Male,18,Indore,Madhya Pradesh,Premium,2023-09-11,customer1331@example.test,Platinum
+C01332,Customer 1332,Female,43,Lucknow,Uttar Pradesh,Small Business,2025-11-25,customer1332@example.test,Silver
+C01333,Customer 1333,Other,39,Lucknow,Uttar Pradesh,Premium,2024-07-22,customer1333@example.test,Platinum
+C01334,Customer 1334,Female,63,Lucknow,Uttar Pradesh,Small Business,2026-01-20,customer1334@example.test,SILVER
+C01335,Customer 1335,Male,23,Kochi,Kerala,Small Business,2022-03-16,customer1335@example.test,Platinum
+C01336,Customer 1336,Male,58,Indore,Madhya Pradesh,Small Business,2025-06-17,customer1336@example.test,GOLD
+C01337,Customer 1337,Male,34,Mumbai,Maharashtra,Small Business,2026-01-14,customer1337@example.test,Platinum
+C01338,Customer 1338,Female,75,Jaipur,Rajasthan,Consumer,2022-03-13,customer1338@example.test,Silver
+C01339,Customer 1339,OTHER,56,Jodhpur,Rajasthan,Premium,2022-03-15,customer1339@example.test,Gold
+C01340,Customer 1340,Female,56,Jodhpur,Rajasthan,Premium,2025-03-28,customer1340@example.test,Bronze
+C01341,Customer 1341,Other,55,Mumbai,Maharashtra,Consumer,2023-08-20,customer1341@example.test,Gold
+C01342,Customer 1342,Other,47,Jodhpur,Rajasthan,Small Business,2024-12-27,customer1342@example.test,Platinum
+C01343,Customer 1343,Other,25,Lucknow,Uttar Pradesh,Corporate,2023-02-18,CUSTOMER1343@EXAMPLE.TEST,Platinum
+C01344,Customer 1344,Other,24,Chennai,Tamil Nadu,Consumer,2022-09-15,customer1344@example.test,Platinum
+C01345,Customer 1345,Male,23,Lucknow,Uttar Pradesh,Small Business,2022-08-23,customer1345@example.test,Gold
+C01346,Customer 1346,Other,20,Hyderabad,Telangana,Premium,2026-05-15,customer1346@example.test,Platinum
+C01347,Customer 1347,Male,26,Jodhpur,Rajasthan,Premium,2026-04-19,customer1347@example.test,Bronze
+C01348,Customer 1348,Other,70,Lucknow,Uttar Pradesh,Small Business,2024-12-20,customer1348@example.test,Platinum
+C01349,Customer 1349,Male,58,Jaipur,Rajasthan,Consumer,2023-04-08,customer1349@example.test,Bronze
+C01350,Customer 1350,Male,57,Jaipur,Rajasthan,Small Business,2024-05-30,customer1350@example.test,Silver
+C01351,Customer 1351,Female,23, Indore ,Madhya Pradesh,Corporate,2022-03-03,customer1351@example.test,Silver
+C01352,Customer 1352,Male,25,Kochi,Kerala,Premium,2025-01-04,customer1352@example.test,Silver
+C01353,Customer 1353,Female,67,Kolkata,West Bengal,Premium,2023-11-30,customer1353@example.test,Platinum
+C01354,Customer 1354,Other,24,Ahmedabad,Gujarat,Small Business,2022-02-24,customer1354@example.test,Gold
+C01355,Customer 1355,Other,44,Chennai,Tamil Nadu,Premium,2023-06-04,customer1355@example.test,Platinum
+C01356,Customer 1356,Other,71,Ahmedabad,Gujarat,Consumer,2025-06-17, customer1356@example.test ,Silver
+C01357,Customer 1357,Other,19,New Delhi,Delhi,Small Business,2023-03-15,customer1357@example.test,Silver
+C01358,Customer 1358,Female,28,Kochi,Kerala,Corporate,2026-04-14,customer1358@example.test,Bronze
+C01359,Customer 1359,Female,32,Jaipur,Rajasthan,Consumer,2024-08-23,customer1359@example.test,Gold
+C01360,Customer 1360,Female,40,Indore,Madhya Pradesh,Premium,2022-11-08,customer1360@example.test,Platinum
+C01361,Customer 1361,Female,50,Mumbai,Maharashtra,Consumer,2022-01-05,customer1361@example.test,Silver
+C01362,Customer 1362,Male,58,Jaipur,Rajasthan,Consumer,2022-04-14,customer1362@example.test,Gold
+C01363,Customer 1363,Female,40,Chennai,Tamil Nadu,Premium,2024-07-20,customer1363@example.test,Platinum
+C01364,Customer 1364,Male,25,Chennai, Tamil Nadu ,Premium,2022-06-27,customer1364@example.test,Bronze
+C01365,Customer 1365,Male,26,New Delhi,Delhi,Consumer,2022-09-22,CUSTOMER1365@EXAMPLE.TEST,Platinum
+C01366,Customer 1366,Male,46,Mumbai,Maharashtra,Small Business,2025-03-03,customer1366@example.test,Gold
+C01367,Customer 1367,OTHER,38,Bengaluru,Karnataka,Small Business,2023-11-25,customer1367@example.test,Gold
+C01368,Customer 1368,Male,64,Kochi,Kerala,Small Business,2023-02-02,CUSTOMER1368@EXAMPLE.TEST,Silver
+C01369,Customer 1369,Male,47,Jodhpur,Rajasthan,Corporate,2025-05-09,customer1369@example.test,Silver
+C01370,Customer 1370,Female,34,Chennai,Tamil Nadu,Corporate,2022-05-23,customer1370@example.test,Gold
+C01371,Customer 1371,Other,55,New Delhi,Delhi,Corporate,2026-04-23,customer1371@example.test,Gold
+C01372,Customer 1372,Other,51,Chennai,Tamil Nadu,Corporate,15-Oct-2022,customer1372@example.test,Silver
+C01373,Customer 1373,Other,70,Ahmedabad,Gujarat,Small Business,2026-04-05,customer1373@example.test,Gold
+C01374,Customer 1374,Male,74,Kochi,Kerala,Consumer,2022-04-24,customer1374@example.test,Gold
+C01375,Customer 1375,Other,49,Jodhpur,RAJASTHAN,Consumer,2022-12-03,customer1375@example.test,Platinum
+C01376,Customer 1376,Male,72,Kolkata,West Bengal,Consumer,2022-02-17,customer1376@example.test,Platinum
+C01377,Customer 1377,Female,43,Kochi,Kerala,Small Business,2023-07-27,customer1377@example.test,Silver
+C01378,Customer 1378,Male,28,Kochi,Kerala,Corporate,2022-06-17,customer1378@example.test,Bronze
+C01379,Customer 1379,Female,30,Jaipur,Rajasthan,Small Business,2024-12-06,CUSTOMER1379@EXAMPLE.TEST,Gold
+C01380,Customer 1380,Female,62,Jaipur,Rajasthan,Corporate,2024-07-19,customer1380@example.test,Gold
+C01381,Customer 1381,Other,69,Jodhpur,Rajasthan,Consumer,2025-05-01,customer1381@example.test,Platinum
+C01382,Customer 1382,Other,50,Ahmedabad, Gujarat ,Consumer,2023-05-16,customer1382@example.test,Platinum
+C01383,Customer 1383,Male,53,Bengaluru,Karnataka,Premium,2024-07-03,customer1383@example.test,Silver
+C01384,Customer 1384,Male,33,Kolkata,West Bengal,Small Business, 2023-10-16 ,customer1384@example.test,Bronze
+C01385,Customer 1385,Male,74,Ahmedabad,Gujarat,Corporate,2025-02-14,customer1385@example.test,Platinum
+C01386,Customer 1386,Female,27,Kolkata,West Bengal,Consumer,2026-02-02,customer1386@example.test,Platinum
+C01387,Customer 1387,Other,49,Ahmedabad,Gujarat,Small Business,2022-07-23,customer1387@example.test,Gold
+C01388,Customer 1388,Other,34,Ahmedabad,Gujarat,Small Business,2022-03-13,customer1388@example.test,Bronze
+C01389,Customer 1389,Female,39,Indore,Madhya Pradesh,Consumer,2024-05-23,customer1389@example.test,Bronze
+C01390,Customer 1390,Male,34,Jodhpur,Rajasthan,Consumer,2024-10-09,customer1390@example.test,Silver
+C01391,Customer 1391,Male,63,Indore,Madhya Pradesh,Small Business,2024-04-08,customer1391@example.test,Gold
+C01392,Customer 1392,Other,62,Kolkata,West Bengal,Premium,2022-01-16,customer1392@example.test,Platinum
+C01393,Customer 1393,Female,35,New Delhi,Delhi,Small Business,2022-08-23,customer1393@example.test,Bronze
+C01394,Customer 1394,Male,44,Kochi,Kerala,Corporate,2022-06-07,customer1394@example.test,Silver
+C01395,Customer 1395,Male,31,Jaipur,Rajasthan,Small Business,19/02/2025,customer1395@example.test,Bronze
+C01396,Customer 1396,Other,30,Ahmedabad,Gujarat,Premium,2022-04-05,customer1396@example.test,Platinum
+C01397,Customer 1397,Other,37,New Delhi,Delhi,Consumer,2025-10-21,customer1397@example.test,Silver
+C01398,Customer 1398,Female,38,Jodhpur,Rajasthan,Small Business,2023-07-11,customer1398@example.test,Platinum
+C01399,Customer 1399,Other,73,Chennai,Tamil Nadu,Premium,2022-05-26,customer1399@example.test,Platinum
+C01400,Customer 1400,Male,75,Ahmedabad,Gujarat,Corporate,2022-11-02,customer1400@example.test,Platinum
+C01401,Customer 1401, Female ,43,New Delhi,Delhi,Premium,,customer1401@example.test,Bronze
+C01402,Customer 1402,Male,37,Indore,Madhya Pradesh,Consumer,2023-03-21,customer1402@example.test,Silver
+C01403,Customer 1403,Other,68,Chennai,Tamil Nadu,Corporate,2023-06-10,,Gold
+C01404,Customer 1404,Female,52,Jodhpur,Rajasthan,Premium,2023-09-11,customer1404@example.test,Silver
+C01405,Customer 1405,Female,66,Jaipur,Rajasthan,Premium,2024-01-09,customer1405@example.test,Platinum
+C01406,,Other,34,Bengaluru,Karnataka,Small Business,2023-02-03,customer1406@example.test,Silver
+C01407,Customer 1407,Other,38,Bengaluru,Karnataka,Premium,2024-09-03,customer1407@example.test,Silver
+C01408,Customer 1408,Female,58,New Delhi,Delhi,Premium,2025-07-14,customer1408@example.test,Gold
+C01409,Customer 1409,Female,64,Jodhpur,Rajasthan,Premium,2025-11-29,,Bronze
+C01410,Customer 1410,Male,64,Chennai, Tamil Nadu ,Consumer,2024-01-18,customer1410@example.test,Platinum
+C01411,Customer 1411,Male,67,Bengaluru,Karnataka,Premium,2022-08-07,customer1411@example.test,Gold
+C01412,Customer 1412,Other,24,Chennai,Tamil Nadu,Premium,2022-10-02,customer1412@example.test,Silver
+C01413,Customer 1413,Other,47,Jaipur,Rajasthan,Corporate,2022-07-16,customer1413@example.test,Platinum
+C01414,Customer 1414,Other,42,Indore,Madhya Pradesh,Consumer,2026-01-03,customer1414@example.test,Silver
+C01415,Customer 1415,Male,69,Kolkata,West Bengal,Consumer,2023-05-04,customer1415@example.test,Platinum
+C01416,Customer 1416,Male,57,Jaipur, Rajasthan ,Premium,2025-09-26,customer1416@example.test, Platinum 
+C01417,Customer 1417,Female,51,Jodhpur,Rajasthan,Corporate,2025-11-23,customer1417@example.test,Gold
+C01418,Customer 1418,Male,45,Mumbai,Maharashtra,Consumer,2026-03-24,customer1418@example.test,Silver
+C01419,Customer 1419,Other,54,Ahmedabad,Gujarat,Premium,2025-10-15,customer1419@example.test,Bronze
+C01420,Customer 1420,Other,49,Hyderabad,Telangana,Corporate,2022-03-09,customer1420@example.test,Bronze
+C01421,Customer 1421,Male,71,Jodhpur,Rajasthan,Small Business,2023-06-14,customer1421@example.test,Platinum
+C01422,Customer 1422,Other,33,Bengaluru,Karnataka,Premium,2023-10-03,customer1422@example.test,Bronze
+C01423,Customer 1423,Male,69,Kochi,KERALA,Corporate,2022-06-09,customer1423@example.test,Gold
+C01424,Customer 1424,Male,64,Chennai,Tamil Nadu,Small Business,2025-07-01,customer1424@example.test,Silver
+C01425,Customer 1425,Other,47,Hyderabad,Telangana,Consumer,2025-06-23,customer1425@example.test,Bronze
+C01426,Customer 1426,Male,26,Mumbai,Maharashtra,Corporate,2023-07-03,customer1426@example.test,Platinum
+C01427,Customer 1427,Other,39,Kochi,Kerala,Small Business,2022-06-23,customer1427@example.test,Gold
+C01428,Customer 1428,Female,26,Ahmedabad,Gujarat,Small Business,2025-02-07,customer1428@example.test,Bronze
+C01429,Customer 1429,Other,20, Kolkata ,West Bengal,Corporate,2025-05-11,customer1429@example.test,Silver
+C01430,Customer 1430,Female,46,Mumbai,Maharashtra,Consumer,2024-12-03,customer1430@example.test,Gold
+C01431,Customer 1431,Male,47,Chennai,Tamil Nadu,Premium,2025-08-20, customer1431@example.test ,Bronze
+C01432,Customer 1432,Male,31,Kochi,Kerala,Small Business,2024-09-06,customer1432@example.test,Bronze
+C01433,Customer 1433,Other,59,Bengaluru,Karnataka,Corporate,2023-08-14,customer1433@example.test,Gold
+C01434,Customer 1434,Female,25,Bengaluru,Karnataka,Small Business,2024-03-17,customer1434@example.test,Silver
+C01435,Customer 1435,Male,19,Hyderabad,Telangana,Small Business,2022-06-15,customer1435@example.test,Silver
+C01436,Customer 1436,Female,32,Hyderabad,Telangana,Corporate,2023-07-14,customer1436@example.test,Bronze
+C01437,Customer 1437,Female,55,Chennai,Tamil Nadu,Corporate,2026-03-11,customer1437@example.test,Gold
+C01438,Customer 1438,Female,68,Chennai,Tamil Nadu,Small Business,2025-03-01,customer1438@example.test,Silver
+C01439,Customer 1439,Male,20,Bengaluru,Karnataka,CONSUMER,2025-11-27,customer1439@example.test,Bronze
+C01440,Customer 1440,Other,36,Hyderabad,Telangana,Corporate,2024-07-16,customer1440@example.test,Platinum
+C01441,Customer 1441,Female,72,Chennai,Tamil Nadu,Premium,03-May-2023,customer1441@example.test,Bronze
+C01442,Customer 1442,Other,24,Indore,Madhya Pradesh,Consumer,2024-12-18,customer1442@example.test,Silver
+C01443,Customer 1443,Other,55,Kolkata,West Bengal,Consumer,2026-03-18,customer1443@example.test,Bronze
+C01444,Customer 1444,Male,64,Indore,Madhya Pradesh,Consumer,2023-10-02,customer1444@example.test,Platinum
+C01445,Customer 1445,Female,38,Mumbai,Maharashtra,Consumer,2023-12-03,customer1445@example.test,Platinum
+C01446,Customer 1446,Other,32,Bengaluru,Karnataka,Corporate,2023-11-23,customer1446@example.test,Bronze
+C01447,Customer 1447, Male ,56,Kolkata,West Bengal,Premium,2025-12-24,customer1447@example.test,Platinum
+C01448,Customer 1448,Other,59,Jodhpur,Rajasthan, Corporate ,2026-05-20,customer1448@example.test,Bronze
+C01449,Customer 1449,Other,26,New Delhi,Delhi,Premium,2022-10-25,customer1449@example.test,Platinum
+C01450,Customer 1450,Male,18,Hyderabad,Telangana,Consumer,2022-05-01,customer1450@example.test,Silver
+C01451,Customer 1451,Male,42,Jodhpur,Rajasthan,Small Business,2024-03-16,customer1451@example.test,Gold
+C01452,Customer 1452,Other,71,Lucknow,Uttar Pradesh,Small Business,2026-03-06,customer1452@example.test,Silver
+C01453,Customer 1453,Other,49,Mumbai,Maharashtra,Premium,2022-09-14,customer1453@example.test,Platinum
+C01454,Customer 1454,Female,38,Kolkata,West Bengal,Small Business,2023-05-11,customer1454@example.test,Platinum
+C01455,Customer 1455,Male,48,Chennai,Tamil Nadu,Corporate,2022-08-06,customer1455@example.test,Silver
+C01456,Customer 1456,Female,44,Kolkata,West Bengal,Corporate,2022-07-05,customer1456@example.test,Platinum
+C01457,,Female,28,New Delhi,Delhi,Consumer,2025-12-17,customer1457@example.test,Silver
+C01458,Customer 1458,Other,49,Kolkata,West Bengal,Consumer,2025-08-13,customer1458@example.test,Platinum
+C01459,Customer 1459,Male,46,Kolkata,West Bengal,Corporate,2024-10-21,customer1459@example.test,Silver
+C01460,Customer 1460,Male,60,New Delhi,Delhi,Consumer,2023-05-13,customer1460@example.test,Platinum
+C01461,Customer 1461,FEMALE,48,Mumbai,Maharashtra,Small Business,2023-05-16,customer1461@example.test,Bronze
+C01462,Customer 1462,Female,40,New Delhi,Delhi,Corporate,2025-02-18,customer1462@example.test,Bronze
+C01463,Customer 1463,Female,34,Hyderabad,Telangana,Consumer,2024-06-05,customer1463@example.test,Platinum
+C01464,Customer 1464,Other,36,New Delhi,Delhi,Corporate,2025-01-10,customer1464@example.test,Silver
+C01465,Customer 1465,Male,62, Jodhpur ,Rajasthan,Consumer,2024-11-28,customer1465@example.test,Platinum
+C01466,Customer 1466,Other,42,Kolkata,West Bengal,Small Business,2026-04-04,customer1466@example.test,Platinum
+C01467,Customer 1467,Male,52,Mumbai,Maharashtra,Corporate,2022-12-28,customer1467@example.test,Platinum
+C01468,Customer 1468,Other,67,Kolkata,West Bengal,Consumer,2026-05-06,customer1468@example.test,Gold
+C01469,Customer 1469,Other,38,Kochi,Kerala,Premium,2025-12-04,customer1469@example.test,Gold
+C01470,Customer 1470,Male,53,Kolkata,West Bengal,Premium,2023-01-30,customer1470@example.test,Bronze
+C01471,Customer 1471,Female,36,Kochi,Kerala,Corporate,2026-02-12,customer1471@example.test,Gold
+C01472,Customer 1472,Female,,Indore,Madhya Pradesh,,2025-02-21,customer1472@example.test,Gold
+C01473,Customer 1473,Female,43,Hyderabad,Telangana,Consumer,2023-08-25,customer1473@example.test,Gold
+C01474,Customer 1474,Other,29,Indore,Madhya Pradesh,Small Business,2023-03-07,customer1474@example.test,Platinum
+C01475,Customer 1475,Other,46,Bengaluru,Karnataka,Premium,2024-09-12,customer1475@example.test,Gold
+C01476,Customer 1476,Male,41,Chennai,Tamil Nadu,Consumer,2026-02-04,customer1476@example.test,Bronze
+C01477,Customer 1477,Male,58,Hyderabad,Telangana,Premium,2023-06-12,customer1477@example.test,Silver
+C01478,Customer 1478,Female,19,Hyderabad,Telangana,Corporate,2022-04-26,customer1478@example.test,Gold
+C01479,Customer 1479,Male,64,Jaipur,Rajasthan,Small Business,2025-08-21,customer1479@example.test,Gold
+C01480,Customer 1480,Male,53,Ahmedabad,Gujarat,Consumer,2024-05-25,customer1480@example.test,Gold
+C01481,Customer 1481,Male,28,Indore,Madhya Pradesh,Consumer,2024-07-30,customer1481@example.test, Bronze 
+C01482,Customer 1482,Male,65,Ahmedabad,Gujarat,Small Business,2024-08-18,customer1482@example.test,Bronze
+C01483,Customer 1483,Female,55,Jodhpur,Rajasthan,Premium,2023-11-15,customer1483@example.test,Silver
+C01484,Customer 1484,Male,33,Jodhpur,Rajasthan,Corporate,2024-12-19,customer1484@example.test,Bronze
+C01485,Customer 1485,Other,61, Mumbai ,Maharashtra,Small Business,2024-01-05,customer1485@example.test,Bronze
+C01486,,Other,33,Bengaluru,Karnataka,Corporate, 2022-06-18 ,customer1486@example.test,Platinum
+C01487,Customer 1487,Female,25,Kolkata,West Bengal,Corporate,2024-11-11,customer1487@example.test,Bronze
+C01488,Customer 1488,Female,62,Jaipur,Rajasthan,Consumer,2023-10-08,customer1488@example.test,Gold
+C01489,Customer 1489,Other,56,Mumbai,Maharashtra,Small Business,2026-01-23,customer1489@example.test,Bronze
+C01490,Customer 1490,Female,66,New Delhi,Delhi,Corporate,2025-06-14,customer1490@example.test,Platinum
+C01491,Customer 1491,Other,46,Kochi,Kerala,Corporate,2024-05-17,customer1491@example.test,Gold
+C01492,Customer 1492,Female,68,Hyderabad,Telangana,Small Business,2025-04-25,customer1492@example.test,Platinum
+C01493,Customer 1493,Male,22,Ahmedabad,Gujarat,Small Business,2023-10-24,customer1493@example.test,Bronze
+C01494,Customer 1494,Male,54,Jaipur,,Premium,2024-10-22,customer1494@example.test,Gold
+C01495,Customer 1495,Other,47,Kochi,Kerala,Small Business,2023-09-07,customer1495@example.test,Bronze
+C01496,Customer 1496,Male,33,Jaipur,Rajasthan,Corporate,2024-10-05,customer1496@example.test, Bronze 
+C01497,Customer 1497,Male,54,Hyderabad,Telangana,Small Business,2024-08-15,customer1497@example.test,Gold
+C01498,Customer 1498,Other,70,Lucknow,Uttar Pradesh,Small Business,2026-01-21,customer1498@example.test,Bronze
+C01499,Customer 1499,Other,44,Kolkata,West Bengal,Corporate,2023-06-05,customer1499@example.test,Bronze
+C01500,Customer 1500,Other,61,Indore,Madhya Pradesh,Premium,2023-10-21,customer1500@example.test,Gold
+C01069,Customer 1069,Male,29,Ahmedabad,Gujarat,Corporate,2024-05-05,customer1069@example.test,Bronze
+C00462,Customer 0462,Other,26,Bengaluru,Karnataka,Small Business,2022-05-29,customer0462@example.test,Silver
+C00237,Customer 0237,Other,34,Indore,Madhya Pradesh,Consumer,2023-05-14,customer0237@example.test,Gold
+C00728,Customer 0728,Female,64,New Delhi,Delhi,Consumer,2023-10-28,customer0728@example.test,Gold
+C00376,Customer 0376,Female,27,New Delhi,Delhi,Small Business,2024-05-24,customer0376@example.test,Silver

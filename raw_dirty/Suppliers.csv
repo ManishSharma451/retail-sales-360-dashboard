@@ -1,0 +1,101 @@
+﻿SupplierID,SupplierName,City,State,LeadTimeDays,SupplierRating,SupplierStatus
+SUP0001,Supplier 001,Bengaluru,Gujarat,17,3.2,On Hold
+SUP0002,Supplier 002,Chennai,Madhya Pradesh,26,2.7,Active
+SUP0003,Supplier 003,Hyderabad,Rajasthan,20,4.8,Active
+SUP0004,Supplier 004,Bengaluru,Rajasthan,6,3.4,Active
+SUP0005,Supplier 005,Indore,Delhi,19,4.8,Active
+SUP0006,Supplier 006,Jaipur,Uttar Pradesh,11,2.9,Active
+SUP0007,Supplier 007,Bengaluru,Rajasthan,27,3.4,Active
+SUP0008,Supplier 008,Hyderabad,Gujarat,20,3.9,On Hold
+SUP0009,Supplier 009,Bengaluru,Uttar Pradesh,5,3.5,On Hold
+SUP0010,Supplier 010,Chennai,Gujarat,22,2.6,Active
+SUP0011,Supplier 011,Kochi,Delhi,8,2.6,Active
+SUP0012,Supplier 012,Kochi,Rajasthan,10,4.5,Active
+SUP0013,Supplier 013,Kochi,Gujarat,2,4.7,On Hold
+SUP0014,Supplier 014, Indore ,Rajasthan,14,2.9,On Hold
+SUP0015,Supplier 015,Indore,Karnataka,2,3.4,Active
+SUP0016,Supplier 016,Chennai,Maharashtra,9,3.0,On Hold
+SUP0017,Supplier 017,Lucknow,Uttar Pradesh,26,4.4,Active
+SUP0018,Supplier 018,Bengaluru, Karnataka ,25,4.8,Active
+SUP0019,Supplier 019,Hyderabad,West Bengal,30,2.7,Active
+SUP0020,Supplier 020,Indore,Maharashtra,10,2.9,On Hold
+SUP0021,Supplier 021,New Delhi,Rajasthan,20,4.8,Active
+SUP0022, Supplier 022 ,Jodhpur,Rajasthan,21,4.7,Active
+SUP0023,Supplier 023,Chennai,Telangana,4,4.2,Active
+SUP0024,Supplier 024,Kochi,Delhi,15,4.2,On Hold
+SUP0025,Supplier 025,Hyderabad,Madhya Pradesh,7,4.5,Active
+SUP0026,Supplier 026,Chennai,West Bengal,29,4.8,Active
+SUP0027,Supplier 027,Lucknow,Delhi,5,4.4,Active
+SUP0028,Supplier 028,Hyderabad,Kerala,20,2.8,Active
+SUP0029,Supplier 029,Mumbai,Rajasthan,19,3.0,On Hold
+SUP0030,Supplier 030,Kolkata,Gujarat,13,3.1,Active
+SUP0031,Supplier 031,Kolkata,Tamil Nadu,3,4.1,Active
+SUP0032,Supplier 032,Lucknow,Karnataka,21,4.3,Active
+SUP0033,Supplier 033,Jodhpur,Kerala,8,4.0,On Hold
+SUP0034,Supplier 034,,Madhya Pradesh,20,2.6,Active
+SUP0035,Supplier 035, Jodhpur ,Rajasthan,14,4.8,On Hold
+SUP0036,Supplier 036,New Delhi,Kerala,7,3.9,Active
+SUP0037,Supplier 037,Jodhpur,Rajasthan,10,3.9,Active
+SUP0038,Supplier 038,Lucknow,Telangana,15,3.0,Active
+SUP0039,Supplier 039,Jaipur,Rajasthan,30,2.9,Active
+SUP0040,Supplier 040,Ahmedabad,Tamil Nadu,11,4.9,Active
+SUP0041,Supplier 041,Ahmedabad,Rajasthan,30,2.5,On Hold
+SUP0042,Supplier 042,Chennai,Delhi,16,3.8,Active
+SUP0043,Supplier 043,Bengaluru,Tamil Nadu,28,4.8,Active
+SUP0044,Supplier 044,Hyderabad,Rajasthan,20,4.5,On Hold
+SUP0045,Supplier 045,Jaipur,West Bengal,17,2.7,ACTIVE
+SUP0046,Supplier 046,Kochi,Madhya Pradesh,12,3.2,Active
+SUP0047,Supplier 047,Hyderabad,Madhya Pradesh,5,5.0,Active
+SUP0048,Supplier 048,New Delhi,Uttar Pradesh,9,4.9,Active
+SUP0049,Supplier 049,Jodhpur,Delhi,19,3.3,Active
+SUP0050,Supplier 050,Lucknow,Telangana,22,4.8,Active
+SUP0051,Supplier 051,Ahmedabad,Delhi,29,3.0,On Hold
+SUP0052,Supplier 052,Hyderabad,Gujarat,20,3.9,Active
+SUP0053,Supplier 053,Chennai,Gujarat,,2.5,Active
+SUP0054,Supplier 054,Ahmedabad,Kerala,23,3.2,Active
+SUP0055,Supplier 055,Lucknow,Tamil Nadu,23,4.1,Active
+SUP0056,Supplier 056,Jaipur,West Bengal,29,3.0,Active
+SUP0057,Supplier 057,Jaipur,Madhya Pradesh,13,4.1,Active
+SUP0058, Supplier 058 ,Kolkata,Rajasthan,5,4.4,Active
+SUP0059,Supplier 059,Kochi,Tamil Nadu,25,4.7,Active
+SUP0060,Supplier 060,Bengaluru,Telangana,5,3.0,Active
+SUP0061,Supplier 061,Jaipur,Telangana,12,4.6,Active
+SUP0062,Supplier 062,Kochi,Gujarat,28,2.8,Active
+SUP0063,Supplier 063,Jodhpur,Delhi,19,3.4,Active
+SUP0064,Supplier 064,Bengaluru,Rajasthan,26,3.0,Active
+SUP0065,Supplier 065,Chennai,Karnataka,13,3.4,Active
+SUP0066,Supplier 066,Jodhpur,Gujarat,16,2.6,Active
+SUP0067,Supplier 067,Bengaluru,Tamil Nadu,21,4.0,Active
+SUP0068,Supplier 068,Lucknow,Delhi,3,4.7,Active
+SUP0069,Supplier 069,Mumbai,Rajasthan,19,4.2,Active
+SUP0070,Supplier 070,Jaipur,Karnataka,27,3.4,Active
+SUP0071,Supplier 071,Lucknow,Telangana,20,2.9,Active
+SUP0072,Supplier 072,Mumbai,Maharashtra,29,2.9,Active
+SUP0073,Supplier 073,Mumbai,Kerala,30,3.2,Active
+SUP0074,Supplier 074,Jaipur,Madhya Pradesh,25,3.6,Active
+SUP0075,Supplier 075,Lucknow,Delhi,14,4.4,Active
+SUP0076,Supplier 076,Mumbai,Delhi,23,4.4,On Hold
+SUP0077,Supplier 077,Chennai,Tamil Nadu,11,2.9,On Hold
+SUP0078,Supplier 078,Kolkata,Gujarat,4,4.0,Active
+SUP0079,,New Delhi,Kerala,15,3.9,Active
+SUP0080,Supplier 080,Kochi,Uttar Pradesh,25,,Active
+SUP0081,Supplier 081,Jaipur,Rajasthan,26,4.6,On Hold
+SUP0082,Supplier 082,Indore,Delhi,25,3.9,Active
+SUP0083,Supplier 083,Jodhpur,Telangana,14,4.4,ACTIVE
+SUP0084,Supplier 084,Jaipur,Karnataka,25,3.1,On Hold
+SUP0085,Supplier 085,Chennai,Kerala,30,4.3,Active
+SUP0086,Supplier 086,Jaipur,Gujarat,8,4.8,On Hold
+SUP0087,Supplier 087,Ahmedabad,Uttar Pradesh,3,4.6,Active
+SUP0088,Supplier 088,Bengaluru,Telangana,17,4.4,On Hold
+SUP0089,Supplier 089,Kochi,Karnataka,22,3.5,Active
+SUP0090,Supplier 090,Indore,Gujarat,12,3.8,Active
+SUP0091,Supplier 091,Kolkata,Madhya Pradesh,10,3.0,Active
+SUP0092,Supplier 092,Lucknow,Karnataka,24,3.4,On Hold
+SUP0093,Supplier 093,Hyderabad,Madhya Pradesh,19,3.4,Active
+SUP0094,Supplier 094,Kochi,Kerala,6,3.0,On Hold
+SUP0095,Supplier 095,Chennai,,30,3.7,Active
+SUP0096,Supplier 096,Lucknow,Rajasthan,15,3.0,Active
+SUP0097,Supplier 097,Indore, Karnataka ,18,4.6,Active
+SUP0098,Supplier 098,Indore,Tamil Nadu,14,3.2,Active
+SUP0099,Supplier 099,Indore,Kerala,14,2.6,Active
+SUP0100,Supplier 100,Kochi,Gujarat,23,4.1,Active
